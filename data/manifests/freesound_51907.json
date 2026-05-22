@@ -1,0 +1,24 @@
+{
+  "id": "freesound_51907",
+  "filename": "51907_running-down-wav.mp3",
+  "title": "running down.wav",
+  "channel": "power_battery",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/danvales82/sounds/51907/",
+  "source_id": "51907",
+  "license": "CC0-1.0",
+  "license_attribution": "danvales82",
+  "duration_sec": 6.817642,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "battery",
+    "low",
+    "shaver"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:30:57.090981Z",
+  "loudness_lufs": -25.89,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

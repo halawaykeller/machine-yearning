@@ -1,0 +1,24 @@
+{
+  "id": "freesound_181995",
+  "filename": "181995_computer-fan.mp3",
+  "title": "Computer fan",
+  "channel": "fans_drives",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ohrpilot/sounds/181995/",
+  "source_id": "181995",
+  "license": "CC0-1.0",
+  "license_attribution": "ohrpilot",
+  "duration_sec": 13.24585,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "built-in",
+    "computer",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:31:09.801745Z",
+  "loudness_lufs": -16.07,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

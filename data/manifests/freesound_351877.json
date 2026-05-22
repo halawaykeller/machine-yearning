@@ -1,0 +1,33 @@
+{
+  "id": "freesound_351877",
+  "filename": "351877_start-computer-aif.mp3",
+  "title": "Start Computer.aif",
+  "channel": "boot_shutdown",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/marlonnnnnn/sounds/351877/",
+  "source_id": "351877",
+  "license": "CC0-1.0",
+  "license_attribution": "marlonnnnnn",
+  "duration_sec": 2.205283,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "application",
+    "boot",
+    "chime",
+    "computer",
+    "game",
+    "initiate",
+    "interface",
+    "load",
+    "mac",
+    "pc",
+    "startup",
+    "windows"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:30:41.502591Z",
+  "loudness_lufs": -16.01,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

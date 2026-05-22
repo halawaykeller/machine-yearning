@@ -1,0 +1,31 @@
+{
+  "id": "freesound_581602",
+  "filename": "581602_beep-error.mp3",
+  "title": "Beep error",
+  "channel": "alerts_errors",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SamsterBirdies/sounds/581602/",
+  "source_id": "581602",
+  "license": "CC0-1.0",
+  "license_attribution": "SamsterBirdies",
+  "duration_sec": 0.341202,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "blocked",
+    "computer",
+    "digital",
+    "error",
+    "graphic-user-interface",
+    "gui",
+    "horn",
+    "technology",
+    "ui"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:31:13.232454Z",
+  "loudness_lufs": null,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

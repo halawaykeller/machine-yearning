@@ -1,0 +1,26 @@
+{
+  "id": "freesound_155775",
+  "filename": "155775_error-validador-2500hz.mp3",
+  "title": "error-validador-2500Hz",
+  "channel": "alerts_errors",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MetroSoundBCN/sounds/155775/",
+  "source_id": "155775",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "MetroSoundBCN",
+  "duration_sec": 3.246168,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "error",
+    "high-frequency",
+    "noise",
+    "warning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:31:23.656288Z",
+  "loudness_lufs": -15.87,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

@@ -1,0 +1,30 @@
+{
+  "id": "freesound_343046",
+  "filename": "343046_colorino-color-detector-error-beep-wav.mp3",
+  "title": "Colorino color detector error beep.wav",
+  "channel": "alerts_errors",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/kb7clx/sounds/343046/",
+  "source_id": "343046",
+  "license": "CC0-1.0",
+  "license_attribution": "kb7clx",
+  "duration_sec": 28.078957,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Assistive-technology",
+    "accessibility",
+    "beep",
+    "blind",
+    "color-blind",
+    "color-detector",
+    "digital",
+    "error",
+    "light-probe"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:31:21.961038Z",
+  "loudness_lufs": -10.53,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

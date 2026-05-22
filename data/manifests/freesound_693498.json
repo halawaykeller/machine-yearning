@@ -1,0 +1,25 @@
+{
+  "id": "freesound_693498",
+  "filename": "693498_low-battery.mp3",
+  "title": "Low Battery",
+  "channel": "power_battery",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/assembly.diskette/sounds/693498/",
+  "source_id": "693498",
+  "license": "CC-BY-4.0",
+  "license_attribution": "assembly.diskette",
+  "duration_sec": 3.018753,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "audacity",
+    "battery",
+    "low",
+    "warning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:30:55.189093Z",
+  "loudness_lufs": -14.13,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

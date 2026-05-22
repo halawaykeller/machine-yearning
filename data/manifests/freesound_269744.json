@@ -1,0 +1,31 @@
+{
+  "id": "freesound_269744",
+  "filename": "269744_computer-fan.mp3",
+  "title": "computer fan",
+  "channel": "fans_drives",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/seth-m/sounds/269744/",
+  "source_id": "269744",
+  "license": "CC0-1.0",
+  "license_attribution": "seth-m",
+  "duration_sec": 5.423673,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "air",
+    "blade",
+    "blow",
+    "blowing",
+    "computer",
+    "exhaust",
+    "fan",
+    "vent",
+    "ventilator",
+    "wind"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:31:11.409301Z",
+  "loudness_lufs": -16.39,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

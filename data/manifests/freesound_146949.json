@@ -1,0 +1,28 @@
+{
+  "id": "freesound_146949",
+  "filename": "146949_computer-hum-1.mp3",
+  "title": "Computer Hum 1",
+  "channel": "fans_drives",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/elle-trudgett/sounds/146949/",
+  "source_id": "146949",
+  "license": "CC0-1.0",
+  "license_attribution": "elle-trudgett",
+  "duration_sec": 5.145964,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bass",
+    "computer",
+    "fan",
+    "hum",
+    "loopable",
+    "noise",
+    "whirr"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:30:59.739571Z",
+  "loudness_lufs": -16.19,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

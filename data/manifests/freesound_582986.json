@@ -1,0 +1,26 @@
+{
+  "id": "freesound_582986",
+  "filename": "582986_low-battery-mp3.mp3",
+  "title": "Low-battery.mp3",
+  "channel": "power_battery",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/oysterqueen/sounds/582986/",
+  "source_id": "582986",
+  "license": "CC0-1.0",
+  "license_attribution": "oysterqueen",
+  "duration_sec": 1.176576,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "battery",
+    "low",
+    "notification",
+    "warning",
+    "windows"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-05-22T00:30:51.575379Z",
+  "loudness_lufs": -15.97,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}
