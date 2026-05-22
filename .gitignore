@@ -1,0 +1,28 @@
+# Audio data — keep manifests, not the binary blobs (rebuildable from manifests)
+data/raw/
+data/normalized/
+
+# Generated channel data — rebuilt by scripts/build_channels.py
+web/channels.json
+# Symlink to data/normalized/ for the dev server (created by setup)
+web/audio
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
