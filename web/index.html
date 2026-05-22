@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Machine Yearning</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="cabinet">
+    <header class="masthead">
+      <div class="brand">
+        <span class="brand-dot" id="signal-dot"></span>
+        <span class="brand-name">MACHINE YEARNING</span>
+      </div>
+      <div class="subtitle">a radio station of obsolete sounds</div>
+    </header>
+
+    <section class="channels" id="channel-bank" role="tablist" aria-label="Channels">
+      <!-- Channel buttons inserted by app.js -->
+    </section>
+
+    <section class="display" aria-live="polite">
+      <div class="display-row">
+        <span class="display-label">NOW</span>
+        <span class="display-value" id="now-title">—</span>
+      </div>
+      <div class="display-row">
+        <span class="display-label">MACHINE</span>
+        <span class="display-value" id="now-machine">—</span>
+      </div>
+      <div class="display-row">
+        <span class="display-label">LICENSE</span>
+        <span class="display-value" id="now-license">—</span>
+      </div>
+      <div class="display-row source-row">
+        <span class="display-label">SOURCE</span>
+        <a class="display-value" id="now-source" href="#" target="_blank" rel="noopener noreferrer">—</a>
+      </div>
+    </section>
+
+    <section class="controls">
+      <button id="btn-toggle" type="button" aria-label="Play / pause">▶</button>
+      <button id="btn-skip" type="button" aria-label="Skip">⏭</button>
+      <span class="counter" id="counter">—</span>
+    </section>
+
+    <footer class="footer">
+      <span id="channel-name">no channel</span>
+      <span class="dash">·</span>
+      <span id="channel-stats">—</span>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

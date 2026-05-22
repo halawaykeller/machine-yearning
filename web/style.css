@@ -1,0 +1,246 @@
+/* Machine Yearning — vintage-radio meets serial-terminal aesthetic. */
+
+:root {
+  --bg: #1a1612;
+  --panel: #2a221c;
+  --panel-edge: #0e0a07;
+  --ink: #e8d8a8;
+  --ink-dim: #8a7a55;
+  --amber: #f0b34a;
+  --amber-bright: #ffd170;
+  --signal: #6fdc8c;
+  --signal-off: #3a4a3a;
+  --warning: #d8704a;
+  --rule: rgba(232, 216, 168, 0.15);
+  --font-mono: "JetBrains Mono", "Menlo", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 30% 20%, rgba(240, 179, 74, 0.05), transparent 60%),
+    var(--bg);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 15px;
+  min-height: 100vh;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  padding: 2rem 1rem;
+}
+
+.cabinet {
+  width: min(720px, 100%);
+  background: var(--panel);
+  border: 1px solid var(--panel-edge);
+  border-radius: 6px;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.03) inset,
+    0 30px 60px rgba(0, 0, 0, 0.5);
+  padding: 2rem 2rem 1.5rem;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 1.5rem;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+}
+
+.brand-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--signal-off);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4) inset;
+  transition: background-color 0.15s;
+}
+
+.brand-dot.on {
+  background: var(--signal);
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.4) inset,
+    0 0 12px rgba(111, 220, 140, 0.6);
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.85; }
+  50% { opacity: 1; }
+}
+
+.subtitle {
+  color: var(--ink-dim);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+}
+
+/* ---------- channels ---------- */
+
+.channels {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+  margin-bottom: 1.5rem;
+}
+
+.channel-btn {
+  background: transparent;
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  padding: 1rem 1.1rem;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: border-color 0.12s, background 0.12s;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.channel-btn:hover {
+  border-color: var(--ink-dim);
+  background: rgba(232, 216, 168, 0.03);
+}
+
+.channel-btn.active {
+  border-color: var(--amber);
+  background: rgba(240, 179, 74, 0.08);
+  color: var(--amber-bright);
+}
+
+.channel-btn .ch-num {
+  font-size: 0.7rem;
+  color: var(--ink-dim);
+  letter-spacing: 0.2em;
+}
+
+.channel-btn.active .ch-num { color: var(--amber); }
+
+.channel-btn .ch-name {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+/* ---------- display ---------- */
+
+.display {
+  background: #0c0907;
+  border: 1px solid var(--panel-edge);
+  border-radius: 3px;
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 1.2rem;
+  font-size: 0.88rem;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.02) inset;
+}
+
+.display-row {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 0.8rem;
+  padding: 0.25rem 0;
+  align-items: baseline;
+}
+
+.display-label {
+  color: var(--ink-dim);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+}
+
+.display-value {
+  color: var(--amber-bright);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.source-row .display-value {
+  color: var(--ink-dim);
+  text-decoration: none;
+  font-size: 0.75rem;
+}
+
+.source-row .display-value:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+/* ---------- controls ---------- */
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1.2rem;
+}
+
+.controls button {
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition: border-color 0.12s, transform 0.05s;
+}
+
+.controls button:hover {
+  border-color: var(--amber);
+  color: var(--amber-bright);
+}
+
+.controls button:active {
+  transform: scale(0.95);
+}
+
+.counter {
+  margin-left: auto;
+  color: var(--ink-dim);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+}
+
+/* ---------- footer ---------- */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  color: var(--ink-dim);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  border-top: 1px solid var(--rule);
+  padding-top: 0.9rem;
+}
+
+.dash { opacity: 0.4; }
+
+@media (max-width: 520px) {
+  .cabinet { padding: 1.4rem 1.2rem; }
+  .channels { grid-template-columns: 1fr; }
+  .display-row { grid-template-columns: 70px 1fr; }
+}
