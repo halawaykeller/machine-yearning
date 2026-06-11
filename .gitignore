@@ -2,6 +2,10 @@
 data/raw/
 data/normalized/
 
+# Transition clips: the normalized .mp3s ARE checked in (player needs them
+# and they're tiny); only the unprocessed originals are excluded.
+data/transitions/_raw/
+
 # Generated channel data — rebuilt by scripts/build_channels.py
 web/channels.json
 # Symlink to data/normalized/ for the dev server (created by setup)
