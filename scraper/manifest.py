@@ -11,16 +11,16 @@ from typing import Literal
 
 from pydantic import BaseModel, Field, HttpUrl
 
-CHANNELS = ("boot_shutdown", "power_battery", "fans_drives", "alerts_errors")
-Channel = Literal["boot_shutdown", "power_battery", "fans_drives", "alerts_errors"]
+CHANNELS = ("turn_me_on", "charge_me", "in_your_ear", "talk_to_me")
+Channel = Literal["turn_me_on", "charge_me", "in_your_ear", "talk_to_me"]
 
 # Display titles shown to the listener. IDs above are machine identifiers;
 # these are the editorial names the player surfaces.
 CHANNEL_TITLES: dict[str, str] = {
-    "boot_shutdown": "turn me on",
-    "power_battery": "charge me",
-    "fans_drives":   "put me in your ear",
-    "alerts_errors": "talk to me",
+    "turn_me_on":  "turn me on",
+    "charge_me":   "charge me",
+    "in_your_ear": "put me in your ear",
+    "talk_to_me":  "talk to me",
 }
 
 Source = Literal["freesound", "archive_org", "bbc", "local"]
