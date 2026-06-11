@@ -1,18 +1,12 @@
 // Machine Yearning — minimal radio player.
 // Loads channels.json, shuffles per channel, plays clips with a small gap.
 
-const CHANNEL_LABELS = {
-  boot_shutdown: "Boot / Shutdown",
-  power_battery: "Power & Battery",
-  fans_drives:   "Fans & Drives",
-  alerts_errors: "Alerts & Errors",
-};
-
 const INTER_CLIP_GAP_MS = 800;
 const FADE_MS = 200;
 
 const state = {
   channels: {},        // id -> array of clip objects
+  titles: {},          // id -> display title
   currentChannel: null,
   queue: [],           // shuffled clip ids for current channel
   cursor: 0,
@@ -29,7 +23,9 @@ async function init() {
   try {
     const res = await fetch("channels.json", { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    state.channels = await res.json();
+    const data = await res.json();
+    state.channels = data.channels;
+    state.titles = data.titles;
   } catch (e) {
     setDisplay({ title: "channels.json not found — run scripts/build_channels.py" });
     console.error(e);
@@ -44,7 +40,7 @@ function renderChannels() {
   const bank = document.getElementById("channel-bank");
   bank.innerHTML = "";
   let i = 1;
-  for (const id of Object.keys(CHANNEL_LABELS)) {
+  for (const id of Object.keys(state.channels)) {
     const count = (state.channels[id] || []).length;
     const btn = document.createElement("button");
     btn.className = "channel-btn";
@@ -53,7 +49,7 @@ function renderChannels() {
     btn.disabled = count === 0;
     btn.innerHTML = `
       <span class="ch-num">CH ${String(i).padStart(2, "0")} · ${count} clips</span>
-      <span class="ch-name">${CHANNEL_LABELS[id]}</span>
+      <span class="ch-name">${state.titles[id] || id}</span>
     `;
     btn.addEventListener("click", () => selectChannel(id));
     bank.appendChild(btn);
@@ -91,7 +87,7 @@ function selectChannel(channelId) {
     document.querySelectorAll(".channel-btn").forEach(b => {
       b.classList.toggle("active", b.dataset.channel === channelId);
     });
-    document.getElementById("channel-name").textContent = CHANNEL_LABELS[channelId];
+    document.getElementById("channel-name").textContent = state.titles[channelId] || channelId;
     document.getElementById("channel-stats").textContent = `${clips.length} clips`;
 
     startPlayback();
@@ -119,7 +115,7 @@ function stopPlayback() {
 function togglePlay() {
   if (!state.currentChannel) {
     // Pick the first non-empty channel
-    const first = Object.keys(CHANNEL_LABELS).find(c => (state.channels[c] || []).length > 0);
+    const first = Object.keys(state.channels).find(c => (state.channels[c] || []).length > 0);
     if (first) selectChannel(first);
     return;
   }

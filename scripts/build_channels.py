@@ -16,7 +16,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO))
 
-from scraper.manifest import CHANNELS, Clip, NORMALIZED_DIR  # noqa: E402
+from scraper.manifest import CHANNEL_TITLES, CHANNELS, Clip, NORMALIZED_DIR  # noqa: E402
 
 OUT = REPO / "web" / "channels.json"
 MVP_MIN_PER_CHANNEL = 20
@@ -46,16 +46,20 @@ def main() -> int:
         })
 
     # Stable order per channel — alphabetical by id
-    out_data = {ch: sorted(by_channel.get(ch, []), key=lambda x: x["id"]) for ch in CHANNELS}
+    channels_out = {ch: sorted(by_channel.get(ch, []), key=lambda x: x["id"]) for ch in CHANNELS}
+    out_data = {
+        "titles": {ch: CHANNEL_TITLES[ch] for ch in CHANNELS},
+        "channels": channels_out,
+    }
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out_data, indent=2))
 
     print(f"Wrote {OUT} with:")
     for ch in CHANNELS:
-        n = len(out_data[ch])
+        n = len(channels_out[ch])
         flag = "  ⚠ below MVP target" if n < MVP_MIN_PER_CHANNEL else ""
-        print(f"  {ch}: {n}{flag}")
+        print(f"  {ch} ({CHANNEL_TITLES[ch]}): {n}{flag}")
 
     if missing_audio:
         print(f"\nSkipped {len(missing_audio)} clip(s) without normalized audio:")

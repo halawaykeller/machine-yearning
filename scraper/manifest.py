@@ -13,6 +13,16 @@ from pydantic import BaseModel, Field, HttpUrl
 
 CHANNELS = ("boot_shutdown", "power_battery", "fans_drives", "alerts_errors")
 Channel = Literal["boot_shutdown", "power_battery", "fans_drives", "alerts_errors"]
+
+# Display titles shown to the listener. IDs above are machine identifiers;
+# these are the editorial names the player surfaces.
+CHANNEL_TITLES: dict[str, str] = {
+    "boot_shutdown": "turn me on",
+    "power_battery": "charge me",
+    "fans_drives":   "put me in your ear",
+    "alerts_errors": "talk to me",
+}
+
 Source = Literal["freesound", "archive_org", "bbc", "local"]
 RecordedOrScraped = Literal["recorded", "scraped"]
 
