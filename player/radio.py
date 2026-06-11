@@ -199,8 +199,9 @@ class Player:
             self._mpv.command("set_property", "pause", False)
             # Give mpv a moment to actually start playback before the fade
             time.sleep(0.25)
-            _fade(self._mpv, 0, 100, FADE_IN_MS)
-            # Belt-and-suspenders: ensure volume sticks at 100
+            # FADE-IN DISABLED while we debug — just slam volume to 100.
+            self._mpv.set_volume(100)
+            time.sleep(0.05)
             self._mpv.set_volume(100)
             self.current_channel = channel
             print(f"♪ {self.titles[channel]}  ({len(files)} clips)")
