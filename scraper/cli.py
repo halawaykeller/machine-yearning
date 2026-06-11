@@ -57,6 +57,30 @@ def bbc(channel: Channel, limit: int, accept_license: bool) -> None:
 
 
 @cli.group()
+def bigsoundbank() -> None:
+    """Two-pass scraper for bigsoundbank museum-of-sounds clips."""
+
+
+@bigsoundbank.command("gather")
+def bigsoundbank_gather() -> None:
+    """Collect candidates from curated museum searches. Emits a JSON file
+    for you to review and mark `approved: true` on the clips to keep."""
+    from .sources import bigsoundbank as bsb
+    click.echo("Gathering bigsoundbank candidates…")
+    out = bsb.gather_candidates()
+    click.echo(f"Wrote {out}. Review it, set approved:true on keepers, then "
+               f"run `python -m scraper bigsoundbank download`.")
+
+
+@bigsoundbank.command("download")
+def bigsoundbank_download() -> None:
+    """Download approved candidates from the JSON file."""
+    from .sources import bigsoundbank as bsb
+    clips = bsb.download_approved()
+    click.echo(f"Added {len(clips)} new clip(s).")
+
+
+@cli.group()
 def local() -> None:
     """Ingest your own recordings."""
 

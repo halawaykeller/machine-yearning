@@ -10,6 +10,7 @@ dependencies = [
     "ffmpeg-python>=0.2",
     "click>=8.1",
     "internetarchive>=4.0",
+    "beautifulsoup4>=4.12",
 ]
 
 [project.optional-dependencies]

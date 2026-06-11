@@ -23,7 +23,7 @@ CHANNEL_TITLES: dict[str, str] = {
     "talk_to_me":  "talk to me",
 }
 
-Source = Literal["freesound", "archive_org", "bbc", "local"]
+Source = Literal["freesound", "archive_org", "bbc", "bigsoundbank", "local"]
 RecordedOrScraped = Literal["recorded", "scraped"]
 
 MANIFEST_DIR = Path("data/manifests")

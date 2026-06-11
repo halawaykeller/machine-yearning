@@ -18,6 +18,7 @@ Target ~20–30 clips per channel for MVP.
 - **Freesound**: only download clips with a CC license (`CC0`, `CC-BY`, `CC-BY-NC`, etc.). Filter via the API; never download `All Rights Reserved`. Always record the license + uploader attribution in the manifest.
 - **archive.org**: only public-domain or CC-licensed items.
 - **BBC Sound Effects**: their stated license restricts commercial reuse. OK for personal/art-show use; **re-check the current license before any public-web deployment**. Downloads gated behind `--accept-license`.
+- **bigsoundbank**: Joseph SARDIN's library. Many museum-of-sounds clips are CC0 (verify per-clip on the detail page); others are "free to use" with attribution but no resale. Tag CC0 ones as `CC0-1.0` and anything else as `bigsoundbank-free`. Attribute the author (Joseph SARDIN) and link the source page. Personal/art-show use is fine; re-confirm before commercial reuse.
 - **No YouTube.** Even with yt-dlp, the licensing for redistribution is unclear and risky. Don't add a YouTube source without a separate conversation.
 - **Own recordings**: license `self`. Annotate generously — these are the rarest and most interesting clips.
 
