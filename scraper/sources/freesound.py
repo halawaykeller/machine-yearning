@@ -26,10 +26,34 @@ SEARCH_URL = f"{API_BASE}/search/text/"
 # Freesound's `query` param does not support OR; we issue one search per term
 # and dedupe across them. Tunable — the editorial pass will fix mis-tagging.
 CHANNEL_QUERIES: dict[str, list[str]] = {
-    "turn_me_on":  ["boot chime", "startup sound", "shutdown sound", "power on", "POST beep", "computer chime"],
-    "charge_me":   ["low battery", "battery beep", "charge sound", "UPS alarm", "plug in"],
-    "in_your_ear": ["computer fan", "hard drive", "floppy drive", "cooling fan", "server hum", "hdd"],
-    "talk_to_me":  ["error beep", "modem", "dial-up", "fax tone", "notification sound", "alert"],
+    "turn_me_on": [
+        "boot chime", "startup sound", "shutdown sound", "power on", "power up",
+        "POST beep", "BIOS beep", "computer chime", "mac startup", "windows startup",
+        "windows shutdown", "system boot", "system startup", "login sound", "logoff sound",
+        "welcome chime", "shutdown jingle", "computer power on", "terminal boot",
+        "operating system startup", "splash sound", "wake up sound",
+    ],
+    "charge_me": [
+        "low battery", "battery beep", "charge sound", "UPS alarm", "plug in", "charging",
+        "power adapter", "battery alert", "battery warning", "power loss", "power alarm",
+        "unplug", "power chime", "battery notification", "low power", "electric charge",
+        "charger plugged", "battery charging", "power supply beep", "device charging",
+        "ac adapter", "battery dying",
+    ],
+    "in_your_ear": [
+        "computer fan", "hard drive", "floppy drive", "cooling fan", "server hum", "hdd",
+        "hard disk", "floppy disk", "CD drive", "DVD drive", "server room",
+        "computer hum", "fan noise", "drive seek", "HDD click", "fan whirr",
+        "desktop fan", "computer ambient", "PC fan", "spinning drive", "server fan",
+        "data center", "machine hum", "white noise computer", "tape drive",
+    ],
+    "talk_to_me": [
+        "error beep", "modem", "dial-up", "fax tone", "notification sound", "alert",
+        "modem handshake", "error tone", "system error", "error chime", "notification chime",
+        "alarm beep", "warning beep", "modem connect", "dial tone", "busy signal",
+        "fax beep", "error alert", "system alert", "chat notification", "email notification",
+        "text message tone", "old phone ring", "telegraph", "pager beep",
+    ],
 }
 
 # Map Freesound license values to our SPDX-ish tags. Filter out non-CC.
