@@ -147,8 +147,10 @@ class Player:
             "--keep-open=no",
             "--gapless-audio=yes",
         ]
+        # Keep mpv's stderr so we can see playback errors
+        mpv_log = open("/tmp/machine-yearning-mpv.log", "w")
         self._mpv_proc = subprocess.Popen(
-            cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
+            cmd, stdout=mpv_log, stderr=mpv_log
         )
         self._mpv = MPV(SOCKET_PATH)
         self._load_channel(channel)
@@ -185,9 +187,15 @@ class Player:
                 _fade(self._mpv, 80, 0, STATIC_FADE_MS, steps=8)
             # Load new channel playlist while volume is at 0
             files = _channel_files(channel, self.channels)
+            if not files:
+                print(f"  ! no playable files for {channel}", file=sys.stderr)
+                return
+            print(f"  → loading {len(files)} files; first: {Path(files[0]).name}")
             self._mpv.command("loadfile", files[0], "replace")
             for f in files[1:]:
                 self._mpv.command("loadfile", f, "append")
+            # Give mpv a moment to actually start playback before the fade
+            time.sleep(0.15)
             _fade(self._mpv, 0, 100, FADE_IN_MS)
             self.current_channel = channel
             print(f"♪ {self.titles[channel]}  ({len(files)} clips)")
