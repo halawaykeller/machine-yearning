@@ -25,7 +25,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:35:17.051789Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.02,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

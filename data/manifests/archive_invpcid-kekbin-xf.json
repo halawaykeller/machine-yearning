@@ -8,13 +8,13 @@
   "source_id": "invpcid-kekbin-xf",
   "license": "PD",
   "license_attribution": "KEKBIN XF",
-  "duration_sec": 0.0,
+  "duration_sec": 142.267256,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:45:42.611043Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.85,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

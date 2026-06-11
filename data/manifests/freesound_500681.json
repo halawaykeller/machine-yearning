@@ -8,7 +8,7 @@
   "source_id": "500681",
   "license": "CC0-1.0",
   "license_attribution": "bigspider95",
-  "duration_sec": 6.59605,
+  "duration_sec": 6.492698,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:23:54.703535Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -17.03,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

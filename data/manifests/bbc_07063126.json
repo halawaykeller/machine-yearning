@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07063126",
+  "filename": "07063126.mp3",
+  "title": "Isuzu 2.8 turbo diesel - city drive.",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07063126",
+  "source_id": "07063126",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 178.62805,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:32.461281Z",
+  "loudness_lufs": -15.42,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

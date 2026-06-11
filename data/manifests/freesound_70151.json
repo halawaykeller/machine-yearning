@@ -8,7 +8,7 @@
   "source_id": "70151",
   "license": "CC-BY-4.0",
   "license_attribution": "JustinBW",
-  "duration_sec": 7.93703,
+  "duration_sec": 7.936871,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -20,7 +20,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:27:37.855475Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.62,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

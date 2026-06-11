@@ -8,7 +8,7 @@
   "source_id": "454651",
   "license": "CC0-1.0",
   "license_attribution": "G_M_D_THREE",
-  "duration_sec": 21.8384,
+  "duration_sec": 20.868254,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:33:57.472979Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -17.54,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

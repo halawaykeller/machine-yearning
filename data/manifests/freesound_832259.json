@@ -8,7 +8,7 @@
   "source_id": "832259",
   "license": "CC0-1.0",
   "license_attribution": "HOrvi64",
-  "duration_sec": 27.541,
+  "duration_sec": 24.291497,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -33,7 +33,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:33:30.926468Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.5,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

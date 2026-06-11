@@ -8,7 +8,7 @@
   "source_id": "205946",
   "license": "CC-BY-NC-3.0",
   "license_attribution": "E1ectr0n1cF4n",
-  "duration_sec": 7.38066,
+  "duration_sec": 7.235238,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:24:19.733222Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.0,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

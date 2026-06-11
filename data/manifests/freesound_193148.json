@@ -8,7 +8,7 @@
   "source_id": "193148",
   "license": "CC-BY-4.0",
   "license_attribution": "B_Lamerichs",
-  "duration_sec": 5.86556,
+  "duration_sec": 3.234308,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:19:02.529800Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -14.16,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "192111",
   "license": "CC-BY-4.0",
   "license_attribution": "b055man",
-  "duration_sec": 2.20073,
+  "duration_sec": 2.180091,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:23:55.584488Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -22.12,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

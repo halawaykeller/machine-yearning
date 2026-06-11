@@ -8,7 +8,7 @@
   "source_id": "378913",
   "license": "CC0-1.0",
   "license_attribution": "EverydaySounds",
-  "duration_sec": 20.0,
+  "duration_sec": 19.996032,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:51.730581Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.24,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -1,0 +1,22 @@
+{
+  "id": "local_2026-06-11_robot-vacuum-error-5",
+  "filename": "local_2026-06-11_robot-vacuum-error-5.m4a",
+  "title": "Robot vacuum error 5",
+  "channel": "talk_to_me",
+  "source": "local",
+  "source_url": null,
+  "source_id": null,
+  "license": "self",
+  "license_attribution": null,
+  "duration_sec": 10.303878,
+  "machine_type": "vacuum",
+  "machine_specifics": "robot vacuum",
+  "mood_tags": [
+    "error"
+  ],
+  "recorded_or_scraped": "recorded",
+  "scraped_at": "2026-06-11T18:54:49.580088Z",
+  "loudness_lufs": -17.98,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

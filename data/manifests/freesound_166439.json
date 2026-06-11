@@ -8,7 +8,7 @@
   "source_id": "166439",
   "license": "CC-BY-4.0",
   "license_attribution": "ultradust",
-  "duration_sec": 22.3144,
+  "duration_sec": 21.402086,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:17.371590Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -26.69,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "610484",
   "license": "CC0-1.0",
   "license_attribution": "toumas",
-  "duration_sec": 1.57447,
+  "duration_sec": 0.780703,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:18:05.342305Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.04,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

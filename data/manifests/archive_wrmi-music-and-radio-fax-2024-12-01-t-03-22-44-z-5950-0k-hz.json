@@ -8,13 +8,13 @@
   "source_id": "wrmi-music-and-radio-fax.-2024-12-01-t-03-22-44-z-5950.0k-hz",
   "license": "PD",
   "license_attribution": "J. Christie",
-  "duration_sec": 0.0,
+  "duration_sec": 3014.784014,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:46:45.373768Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.17,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

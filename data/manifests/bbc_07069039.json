@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07069039",
+  "filename": "07069039.mp3",
+  "title": "Wheatstone receiver, 1870.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07069039",
+  "source_id": "07069039",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 79.815964,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:30.151044Z",
+  "loudness_lufs": -14.62,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

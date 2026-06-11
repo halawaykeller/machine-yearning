@@ -8,7 +8,7 @@
   "source_id": "112167",
   "license": "CC-BY-NC-4.0",
   "license_attribution": "Timbre",
-  "duration_sec": 7.76054,
+  "duration_sec": 3.55898,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -32,7 +32,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:08.965845Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.63,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

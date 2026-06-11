@@ -8,7 +8,7 @@
   "source_id": "190925",
   "license": "CC-BY-3.0",
   "license_attribution": "sangtao",
-  "duration_sec": 11.8796,
+  "duration_sec": 11.850884,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:21:33.971385Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.09,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

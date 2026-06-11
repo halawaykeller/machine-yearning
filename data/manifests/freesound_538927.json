@@ -8,7 +8,7 @@
   "source_id": "538927",
   "license": "CC0-1.0",
   "license_attribution": "Rico_Casazza",
-  "duration_sec": 29.6556,
+  "duration_sec": 28.999819,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:45.003424Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.68,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

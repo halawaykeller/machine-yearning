@@ -8,7 +8,7 @@
   "source_id": "611215",
   "license": "CC0-1.0",
   "license_attribution": "SieuAmThanh",
-  "duration_sec": 10.765,
+  "duration_sec": 10.595351,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -23,7 +23,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:31:19.410418Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -21.95,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

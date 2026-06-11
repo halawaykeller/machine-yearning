@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07034083",
+  "filename": "07034083.mp3",
+  "title": "Submarine: 1960 'P' class, Control room telegraph with reply gongs.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07034083",
+  "source_id": "07034083",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 6.496667,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:19.388536Z",
+  "loudness_lufs": -21.23,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

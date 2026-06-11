@@ -8,7 +8,7 @@
   "source_id": "222628",
   "license": "CC-BY-3.0",
   "license_attribution": "vumseplutten1709",
-  "duration_sec": 8.5,
+  "duration_sec": 0.110408,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -20,6 +20,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:22:41.174809Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

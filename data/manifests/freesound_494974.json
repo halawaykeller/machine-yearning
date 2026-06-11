@@ -8,7 +8,7 @@
   "source_id": "494974",
   "license": "CC-BY-4.0",
   "license_attribution": "steelsoldier",
-  "duration_sec": 13.9378,
+  "duration_sec": 13.543741,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:21:15.846391Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.54,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

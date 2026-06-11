@@ -1,0 +1,20 @@
+{
+  "id": "local_2026-06-11_subway-sounds-like-music",
+  "filename": "local_2026-06-11_subway-sounds-like-music.m4a",
+  "title": "Subway sounds like music",
+  "channel": "in_your_ear",
+  "source": "local",
+  "source_url": null,
+  "source_id": null,
+  "license": "self",
+  "license_attribution": null,
+  "duration_sec": 100.721701,
+  "machine_type": "subway",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "recorded",
+  "scraped_at": "2026-06-11T18:54:49.581811Z",
+  "loudness_lufs": -17.52,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

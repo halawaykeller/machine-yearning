@@ -8,7 +8,7 @@
   "source_id": "487355",
   "license": "CC0-1.0",
   "license_attribution": "whathead07",
-  "duration_sec": 29.9776,
+  "duration_sec": 29.826735,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:27:28.390894Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.61,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

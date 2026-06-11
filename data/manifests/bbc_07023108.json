@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07023108",
+  "filename": "07023108.mp3",
+  "title": "Cars: 1980 model, 1300cc engine Ford Fiesta. Exterior, fast drive on country road, slows down at 1', fastest run from 2'",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07023108",
+  "source_id": "07023108",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 249.38517,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:48.645311Z",
+  "loudness_lufs": -15.42,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

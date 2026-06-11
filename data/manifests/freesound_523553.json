@@ -8,7 +8,7 @@
   "source_id": "523553",
   "license": "CC0-1.0",
   "license_attribution": "LilMati",
-  "duration_sec": 1.17617,
+  "duration_sec": 0.633878,
   "machine_type": "laptop",
   "machine_specifics": null,
   "mood_tags": [
@@ -45,7 +45,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:19:25.741542Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.02,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

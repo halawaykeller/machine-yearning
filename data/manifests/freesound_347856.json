@@ -8,7 +8,7 @@
   "source_id": "347856",
   "license": "CC-BY-3.0",
   "license_attribution": "Ev-Dawg",
-  "duration_sec": 1.0449,
+  "duration_sec": 1.044898,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -31,7 +31,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:36:16.435970Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -24.24,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

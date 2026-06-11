@@ -8,7 +8,7 @@
   "source_id": "735666",
   "license": "CC-BY-4.0",
   "license_attribution": "KVV_Audio",
-  "duration_sec": 2.089,
+  "duration_sec": 1.921973,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -29,7 +29,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:35:42.483435Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -25.51,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

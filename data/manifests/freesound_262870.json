@@ -8,7 +8,7 @@
   "source_id": "262870",
   "license": "CC0-1.0",
   "license_attribution": "jaegrover",
-  "duration_sec": 25.5158,
+  "duration_sec": 25.401088,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -27,7 +27,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:21.040327Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -14.59,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

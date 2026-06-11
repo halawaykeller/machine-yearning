@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07069033",
+  "filename": "07069033.mp3",
+  "title": "Cooke's portable 2-needle telegraph, 1838.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07069033",
+  "source_id": "07069033",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 63.240998,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:15.464648Z",
+  "loudness_lufs": -18.48,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

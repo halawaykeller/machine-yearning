@@ -8,7 +8,7 @@
   "source_id": "60126",
   "license": "CC-BY-4.0",
   "license_attribution": "creebefu",
-  "duration_sec": 4.6154,
+  "duration_sec": 4.615397,
   "machine_type": "battery",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:22:04.602656Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.5,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

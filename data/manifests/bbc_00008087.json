@@ -1,0 +1,20 @@
+{
+  "id": "bbc_00008087",
+  "filename": "00008087.mp3",
+  "title": "Quiet room",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=00008087",
+  "source_id": "00008087",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 29.005578,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:56.824036Z",
+  "loudness_lufs": -18.57,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

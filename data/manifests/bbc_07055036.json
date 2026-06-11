@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07055036",
+  "filename": "07055036.mp3",
+  "title": "Personnel radiation check room.",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07055036",
+  "source_id": "07055036",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 116.265986,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:02.458315Z",
+  "loudness_lufs": -16.92,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

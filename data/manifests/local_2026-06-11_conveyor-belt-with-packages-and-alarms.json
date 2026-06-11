@@ -1,0 +1,22 @@
+{
+  "id": "local_2026-06-11_conveyor-belt-with-packages-and-alarms",
+  "filename": "local_2026-06-11_conveyor-belt-with-packages-and-alarms.m4a",
+  "title": "Conveyor belt with packages and alarms",
+  "channel": "talk_to_me",
+  "source": "local",
+  "source_url": null,
+  "source_id": null,
+  "license": "self",
+  "license_attribution": null,
+  "duration_sec": 34.927188,
+  "machine_type": "conveyor",
+  "machine_specifics": "with packages + alarms",
+  "mood_tags": [
+    "alarm"
+  ],
+  "recorded_or_scraped": "recorded",
+  "scraped_at": "2026-06-11T18:54:49.576557Z",
+  "loudness_lufs": -16.16,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

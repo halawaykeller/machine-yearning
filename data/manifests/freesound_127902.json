@@ -8,7 +8,7 @@
   "source_id": "127902",
   "license": "CC0-1.0",
   "license_attribution": "-Hero_of_the_Winds-",
-  "duration_sec": 27.8214,
+  "duration_sec": 27.469456,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -19,7 +19,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:35:01.483987Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -14.6,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "82782",
   "license": "CC-BY-3.0",
   "license_attribution": "Sikoses",
-  "duration_sec": 15.0,
+  "duration_sec": 14.998209,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -17,7 +17,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:34:47.855050Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -17.01,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "234523",
   "license": "CC-BY-NC-4.0",
   "license_attribution": "FoolBoyMedia",
-  "duration_sec": 2.46132,
+  "duration_sec": 1.523492,
   "machine_type": "phone",
   "machine_specifics": null,
   "mood_tags": [
@@ -33,7 +33,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:36:30.100165Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.97,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "586442",
   "license": "CC-BY-4.0",
   "license_attribution": "berdnikov2004",
-  "duration_sec": 20.48,
+  "duration_sec": 20.478821,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:34:02.185328Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.05,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

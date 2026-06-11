@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07034082",
+  "filename": "07034082.mp3",
+  "title": "Submarine: 1960 'P' class, Control room telegraph of submarine.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07034082",
+  "source_id": "07034082",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 5.662766,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:20.282996Z",
+  "loudness_lufs": -22.69,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

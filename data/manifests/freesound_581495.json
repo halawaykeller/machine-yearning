@@ -8,7 +8,7 @@
   "source_id": "581495",
   "license": "CC0-1.0",
   "license_attribution": "jess90",
-  "duration_sec": 8.18503,
+  "duration_sec": 8.185034,
   "machine_type": "laptop",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:32:56.680977Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.38,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

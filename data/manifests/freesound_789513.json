@@ -8,7 +8,7 @@
   "source_id": "789513",
   "license": "CC0-1.0",
   "license_attribution": "Ultra-Edward",
-  "duration_sec": 13.7213,
+  "duration_sec": 12.896825,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:25:33.795701Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.81,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

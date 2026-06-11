@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07015159",
+  "filename": "07015159.mp3",
+  "title": "Telegraph bell signals. Slow engines, various bell sequences. Engines gather speed.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07015159",
+  "source_id": "07015159",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 119.261088,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:38.636582Z",
+  "loudness_lufs": -18.23,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

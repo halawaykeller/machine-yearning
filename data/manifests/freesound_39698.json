@@ -8,7 +8,7 @@
   "source_id": "39698",
   "license": "CC0-1.0",
   "license_attribution": "KRAFTWERK2K1",
-  "duration_sec": 1.61037,
+  "duration_sec": 1.610385,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:31:00.948003Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -23.87,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

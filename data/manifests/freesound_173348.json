@@ -8,7 +8,7 @@
   "source_id": "173348",
   "license": "CC0-1.0",
   "license_attribution": "freesoundjon01",
-  "duration_sec": 25.6627,
+  "duration_sec": 25.661156,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:26:24.369036Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.89,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

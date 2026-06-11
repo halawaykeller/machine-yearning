@@ -8,7 +8,7 @@
   "source_id": "345725",
   "license": "CC0-1.0",
   "license_attribution": "kb7clx",
-  "duration_sec": 16.0107,
+  "duration_sec": 15.902063,
   "machine_type": "battery",
   "machine_specifics": null,
   "mood_tags": [
@@ -36,7 +36,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:21:50.759236Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.16,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

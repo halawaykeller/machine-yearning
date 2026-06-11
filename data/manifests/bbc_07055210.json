@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07055210",
+  "filename": "07055210.mp3",
+  "title": "interior - start, drive in busy town, occasional puddles, stop, switch off",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07055210",
+  "source_id": "07055210",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 267.214127,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:50.244315Z",
+  "loudness_lufs": -16.14,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

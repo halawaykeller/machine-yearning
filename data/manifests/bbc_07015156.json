@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07015156",
+  "filename": "07015156.mp3",
+  "title": "Telegraph bell signals. Going astern.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07015156",
+  "source_id": "07015156",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 48.697755,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:11.305945Z",
+  "loudness_lufs": -20.96,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

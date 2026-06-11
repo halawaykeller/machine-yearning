@@ -8,7 +8,7 @@
   "source_id": "497710",
   "license": "CC-BY-3.0",
   "license_attribution": "miksmusic",
-  "duration_sec": 0.995,
+  "duration_sec": 0.153152,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,6 +30,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:33:31.651703Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

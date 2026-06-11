@@ -8,7 +8,7 @@
   "source_id": "104475",
   "license": "CC-Sampling-Plus-1.0",
   "license_attribution": "rparson",
-  "duration_sec": 9.96678,
+  "duration_sec": 9.463401,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:24:48.886461Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.82,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

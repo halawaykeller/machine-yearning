@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07063145",
+  "filename": "07063145.mp3",
+  "title": "Citroen 2CV - lower top, start up, drive off.",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07063145",
+  "source_id": "07063145",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 136.547098,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:35.734920Z",
+  "loudness_lufs": -15.94,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

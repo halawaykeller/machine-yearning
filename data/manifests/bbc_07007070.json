@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07007070",
+  "filename": "07007070.mp3",
+  "title": "Warning klaxon sounds, charging on stationary ready-mixed cement lorry stops.",
+  "channel": "charge_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07007070",
+  "source_id": "07007070",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 137.384172,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:19.714131Z",
+  "loudness_lufs": -17.52,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

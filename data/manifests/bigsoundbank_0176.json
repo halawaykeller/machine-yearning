@@ -8,7 +8,7 @@
   "source_id": "0176",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 12.0,
+  "duration_sec": 12.683469,
   "machine_type": "phone",
   "machine_specifics": "Mobile Phone with Keys",
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:45.560785Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -28.0,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

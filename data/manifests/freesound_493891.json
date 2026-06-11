@@ -8,7 +8,7 @@
   "source_id": "493891",
   "license": "CC0-1.0",
   "license_attribution": "Crinkem",
-  "duration_sec": 26.2584,
+  "duration_sec": 26.25839,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:07.373117Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -18.18,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

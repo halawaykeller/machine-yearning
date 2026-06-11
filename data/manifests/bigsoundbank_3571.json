@@ -8,7 +8,7 @@
   "source_id": "3571",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 81.0,
+  "duration_sec": 79.999977,
   "machine_type": "pager",
   "machine_specifics": "Pager",
   "mood_tags": [
@@ -20,7 +20,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:35.457702Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.02,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

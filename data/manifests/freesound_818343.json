@@ -8,7 +8,7 @@
   "source_id": "818343",
   "license": "CC0-1.0",
   "license_attribution": "Johnmode",
-  "duration_sec": 12.0,
+  "duration_sec": 7.273129,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:18:13.646525Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -17.51,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

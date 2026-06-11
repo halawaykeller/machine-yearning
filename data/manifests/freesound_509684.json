@@ -8,7 +8,7 @@
   "source_id": "509684",
   "license": "CC0-1.0",
   "license_attribution": "dcloh",
-  "duration_sec": 8.3,
+  "duration_sec": 8.023039,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:25:35.471515Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.89,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

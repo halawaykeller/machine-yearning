@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07069041",
+  "filename": "07069041.mp3",
+  "title": "Creed keyboard perforator, 1925.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07069041",
+  "source_id": "07069041",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 128.499683,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:26.852127Z",
+  "loudness_lufs": -15.91,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

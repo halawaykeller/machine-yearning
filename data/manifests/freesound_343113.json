@@ -8,7 +8,7 @@
   "source_id": "343113",
   "license": "CC-BY-4.0",
   "license_attribution": "kb7clx",
-  "duration_sec": 17.6585,
+  "duration_sec": 17.658481,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -41,7 +41,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:22:27.353619Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.06,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "11149",
   "license": "CC-BY-3.0",
   "license_attribution": "phatsphere",
-  "duration_sec": 8.87653,
+  "duration_sec": 8.53381,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:30:51.685055Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -19.61,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

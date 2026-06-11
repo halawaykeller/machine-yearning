@@ -8,7 +8,7 @@
   "source_id": "523612",
   "license": "CC0-1.0",
   "license_attribution": "Sheyvan",
-  "duration_sec": 21.0,
+  "duration_sec": 20.250794,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -20,7 +20,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:26:02.240471Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -24.35,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

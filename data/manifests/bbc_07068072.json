@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07068072",
+  "filename": "07068072.mp3",
+  "title": "Interior - metro station ticket hall atmos. with one person passing through barrier - ticket franking machine operating with beep (rec. at Izvor metro station Bucharest).",
+  "channel": "charge_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07068072",
+  "source_id": "07068072",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 38.341293,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:15.031076Z",
+  "loudness_lufs": -17.3,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

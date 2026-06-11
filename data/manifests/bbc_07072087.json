@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07072087",
+  "filename": "07072087.mp3",
+  "title": "Ingersoll Rand compressor (1896) - belt drive, start and stop.",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07072087",
+  "source_id": "07072087",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 145.836463,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:47.249534Z",
+  "loudness_lufs": -16.64,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

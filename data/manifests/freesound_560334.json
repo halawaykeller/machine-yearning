@@ -8,7 +8,7 @@
   "source_id": "560334",
   "license": "CC-BY-4.0",
   "license_attribution": "F.M.Audio",
-  "duration_sec": 0.539354,
+  "duration_sec": 0.065941,
   "machine_type": "battery",
   "machine_specifics": null,
   "mood_tags": [
@@ -31,6 +31,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:21:28.561008Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

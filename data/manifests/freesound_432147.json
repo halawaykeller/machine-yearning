@@ -8,7 +8,7 @@
   "source_id": "432147",
   "license": "CC0-1.0",
   "license_attribution": "Danwardvs",
-  "duration_sec": 6.09524,
+  "duration_sec": 6.053673,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -23,7 +23,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:38.218663Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.44,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

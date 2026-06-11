@@ -8,7 +8,7 @@
   "source_id": "199685",
   "license": "CC-BY-NC-4.0",
   "license_attribution": "WaveAdventurer",
-  "duration_sec": 14.0419,
+  "duration_sec": 13.962494,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:29.403384Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.97,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

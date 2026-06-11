@@ -8,7 +8,7 @@
   "source_id": "278205",
   "license": "CC0-1.0",
   "license_attribution": "IanStarGem",
-  "duration_sec": 0.975635,
+  "duration_sec": 0.08771,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -39,6 +39,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:17.648796Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

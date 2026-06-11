@@ -8,13 +8,13 @@
   "source_id": "pleasant-violin-notification-12-186545",
   "license": "PD",
   "license_attribution": "Anónimo",
-  "duration_sec": 0.0,
+  "duration_sec": 3.14415,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:45:54.663355Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.9,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "8046",
   "license": "CC-BY-4.0",
   "license_attribution": "schluppipuppie",
-  "duration_sec": 1.90168,
+  "duration_sec": 1.901678,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:33:36.063489Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.97,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

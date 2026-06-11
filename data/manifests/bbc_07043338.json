@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07043338",
+  "filename": "07043338.mp3",
+  "title": "Paddle Steamer, engine room telegraph, engine start.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07043338",
+  "source_id": "07043338",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 121.312608,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:16.563176Z",
+  "loudness_lufs": -15.18,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

@@ -8,7 +8,7 @@
   "source_id": "764267",
   "license": "CC0-1.0",
   "license_attribution": "ShangusBurger",
-  "duration_sec": 11.0344,
+  "duration_sec": 10.174195,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:23:15.803425Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.58,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

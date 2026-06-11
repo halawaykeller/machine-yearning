@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07015157",
+  "filename": "07015157.mp3",
+  "title": "Telegraph bell signals. Ahead.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07015157",
+  "source_id": "07015157",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 68.890204,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:10.202684Z",
+  "loudness_lufs": -16.77,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

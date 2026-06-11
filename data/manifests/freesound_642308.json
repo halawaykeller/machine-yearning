@@ -8,7 +8,7 @@
   "source_id": "642308",
   "license": "CC-BY-4.0",
   "license_attribution": "sketchy.dog",
-  "duration_sec": 1.57083,
+  "duration_sec": 0.891383,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:21:45.727599Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.04,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

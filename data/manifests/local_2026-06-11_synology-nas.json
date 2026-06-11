@@ -1,0 +1,20 @@
+{
+  "id": "local_2026-06-11_synology-nas",
+  "filename": "local_2026-06-11_synology-nas.m4a",
+  "title": "Synology NAS",
+  "channel": "in_your_ear",
+  "source": "local",
+  "source_url": null,
+  "source_id": null,
+  "license": "self",
+  "license_attribution": null,
+  "duration_sec": 68.300295,
+  "machine_type": "nas",
+  "machine_specifics": "Synology",
+  "mood_tags": [],
+  "recorded_or_scraped": "recorded",
+  "scraped_at": "2026-06-11T18:54:49.582837Z",
+  "loudness_lufs": -16.47,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

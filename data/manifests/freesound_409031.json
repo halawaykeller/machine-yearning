@@ -8,7 +8,7 @@
   "source_id": "409031",
   "license": "CC-BY-NC-4.0",
   "license_attribution": "HelterSkelter1114",
-  "duration_sec": 18.296,
+  "duration_sec": 17.098254,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -25,7 +25,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:25.907225Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -18.06,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

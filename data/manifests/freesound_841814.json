@@ -8,7 +8,7 @@
   "source_id": "841814",
   "license": "CC0-1.0",
   "license_attribution": "izzint",
-  "duration_sec": 4.27059,
+  "duration_sec": 4.260249,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:31:25.073747Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.41,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "387350",
   "license": "CC-BY-3.0",
   "license_attribution": "CosmicEmbers",
-  "duration_sec": 21.1824,
+  "duration_sec": 21.177937,
   "machine_type": "laptop",
   "machine_specifics": null,
   "mood_tags": [
@@ -35,7 +35,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:32:12.621717Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.99,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

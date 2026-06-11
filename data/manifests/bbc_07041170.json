@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07041170",
+  "filename": "07041170.mp3",
+  "title": "Creed Machine operating (100 wpm.)",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07041170",
+  "source_id": "07041170",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 30.007619,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:35.314308Z",
+  "loudness_lufs": -17.16,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

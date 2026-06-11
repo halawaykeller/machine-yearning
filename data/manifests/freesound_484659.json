@@ -8,7 +8,7 @@
   "source_id": "484659",
   "license": "CC-BY-4.0",
   "license_attribution": "InspectorJ",
-  "duration_sec": 11.3184,
+  "duration_sec": 10.999932,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:15.842119Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -19.48,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "524263",
   "license": "CC0-1.0",
   "license_attribution": "Flares.fr",
-  "duration_sec": 11.4167,
+  "duration_sec": 9.202585,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:28.890769Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.09,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

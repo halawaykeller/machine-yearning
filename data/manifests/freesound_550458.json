@@ -8,7 +8,7 @@
   "source_id": "550458",
   "license": "CC0-1.0",
   "license_attribution": "607freesound",
-  "duration_sec": 22.1233,
+  "duration_sec": 21.771927,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -25,7 +25,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:31:39.610819Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -17.47,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

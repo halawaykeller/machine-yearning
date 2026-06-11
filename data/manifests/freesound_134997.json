@@ -8,7 +8,7 @@
   "source_id": "134997",
   "license": "CC-BY-3.0",
   "license_attribution": "hdrck16",
-  "duration_sec": 10.8205,
+  "duration_sec": 10.818639,
   "machine_type": "laptop",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:27:59.877865Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -18.77,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

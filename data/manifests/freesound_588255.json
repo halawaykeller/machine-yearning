@@ -8,7 +8,7 @@
   "source_id": "588255",
   "license": "CC-BY-NC-3.0",
   "license_attribution": "Romeo_Kaleikau",
-  "duration_sec": 3.11829,
+  "duration_sec": 3.118299,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -20,7 +20,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:35:35.079908Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.86,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

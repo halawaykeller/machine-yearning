@@ -8,7 +8,7 @@
   "source_id": "750462",
   "license": "CC0-1.0",
   "license_attribution": "ManDaKi",
-  "duration_sec": 3.49073,
+  "duration_sec": 2.405714,
   "machine_type": "ups",
   "machine_specifics": null,
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:23:58.240820Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.99,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

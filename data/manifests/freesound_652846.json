@@ -8,7 +8,7 @@
   "source_id": "652846",
   "license": "CC0-1.0",
   "license_attribution": "MisticalSounds2.o",
-  "duration_sec": 5.79918,
+  "duration_sec": 5.474422,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -29,7 +29,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:31.804367Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.48,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

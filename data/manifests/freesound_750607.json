@@ -8,7 +8,7 @@
   "source_id": "750607",
   "license": "CC0-1.0",
   "license_attribution": "deadrobotmusic",
-  "duration_sec": 0.601701,
+  "duration_sec": 0.296372,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,6 +30,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:36:26.474763Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

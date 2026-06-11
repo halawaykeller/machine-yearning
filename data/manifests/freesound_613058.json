@@ -8,7 +8,7 @@
   "source_id": "613058",
   "license": "CC-BY-3.0",
   "license_attribution": "day-garwood",
-  "duration_sec": 26.47,
+  "duration_sec": 23.754785,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -18,7 +18,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:32:05.435700Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.42,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "174831",
   "license": "CC-BY-3.0",
   "license_attribution": "jakobthiesen",
-  "duration_sec": 3.44533,
+  "duration_sec": 2.561066,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:51.727019Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -25.06,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

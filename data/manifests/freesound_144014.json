@@ -8,7 +8,7 @@
   "source_id": "144014",
   "license": "CC-BY-4.0",
   "license_attribution": "vartioh",
-  "duration_sec": 13.0223,
+  "duration_sec": 12.205782,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -35,7 +35,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:22:49.560542Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.6,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

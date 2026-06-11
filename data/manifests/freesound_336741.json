@@ -8,7 +8,7 @@
   "source_id": "336741",
   "license": "CC-BY-4.0",
   "license_attribution": "steshystesh",
-  "duration_sec": 6.36063,
+  "duration_sec": 6.18542,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -33,7 +33,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:22:51.263923Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -14.8,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

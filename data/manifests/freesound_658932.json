@@ -8,7 +8,7 @@
   "source_id": "658932",
   "license": "CC0-1.0",
   "license_attribution": "thearchiveguy99",
-  "duration_sec": 19.2998,
+  "duration_sec": 19.07254,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -26,7 +26,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:35:27.447479Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.02,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

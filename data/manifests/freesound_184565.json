@@ -8,7 +8,7 @@
   "source_id": "184565",
   "license": "CC0-1.0",
   "license_attribution": "magnus589",
-  "duration_sec": 23.7786,
+  "duration_sec": 23.710091,
   "machine_type": "laptop",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:27:56.814122Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.13,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

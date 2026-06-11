@@ -8,7 +8,7 @@
   "source_id": "397483",
   "license": "CC0-1.0",
   "license_attribution": "Theogobbo",
-  "duration_sec": 15.2107,
+  "duration_sec": 13.868526,
   "machine_type": "hdd",
   "machine_specifics": null,
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:31.528367Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.98,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

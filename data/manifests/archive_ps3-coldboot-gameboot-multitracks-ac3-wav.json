@@ -8,13 +8,13 @@
   "source_id": "ps3-coldboot-gameboot-multitracks-ac3-wav",
   "license": "CC0-1.0",
   "license_attribution": "Sony Computer Entertainment",
-  "duration_sec": 0.0,
+  "duration_sec": 1.200499,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:39:14.412747Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.01,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

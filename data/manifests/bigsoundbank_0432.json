@@ -8,7 +8,7 @@
   "source_id": "0432",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 19.0,
+  "duration_sec": 19.126757,
   "machine_type": "crt",
   "machine_specifics": "CRT Screen",
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:24.395963Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.98,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

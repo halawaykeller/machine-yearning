@@ -8,7 +8,7 @@
   "source_id": "28341",
   "license": "CC-Sampling-Plus-1.0",
   "license_attribution": "xsub",
-  "duration_sec": 2.96957,
+  "duration_sec": 1.813855,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:24.072749Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -23.68,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

@@ -8,7 +8,7 @@
   "source_id": "86744",
   "license": "CC-Sampling-Plus-1.0",
   "license_attribution": "admiral_potato",
-  "duration_sec": 29.977,
+  "duration_sec": 29.15907,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:43.747804Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -18.5,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

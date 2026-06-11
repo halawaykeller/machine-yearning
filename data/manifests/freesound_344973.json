@@ -8,7 +8,7 @@
   "source_id": "344973",
   "license": "CC0-1.0",
   "license_attribution": "VKProduktion",
-  "duration_sec": 5.10608,
+  "duration_sec": 4.456304,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -26,7 +26,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:27:43.102525Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.57,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

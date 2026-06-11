@@ -8,7 +8,7 @@
   "source_id": "3555",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 5.0,
+  "duration_sec": 4.637959,
   "machine_type": "calculator",
   "machine_specifics": "Printing Calculator",
   "mood_tags": [
@@ -36,7 +36,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:00.293431Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.04,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

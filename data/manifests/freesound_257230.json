@@ -8,7 +8,7 @@
   "source_id": "257230",
   "license": "CC-BY-4.0",
   "license_attribution": "JavierZumer",
-  "duration_sec": 4.19701,
+  "duration_sec": 4.197007,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -22,7 +22,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:26:09.560027Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.0,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

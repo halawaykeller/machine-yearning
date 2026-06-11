@@ -8,7 +8,7 @@
   "source_id": "191316",
   "license": "CC-BY-4.0",
   "license_attribution": "qubodup",
-  "duration_sec": 10.0023,
+  "duration_sec": 9.994853,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -31,7 +31,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:19:41.814120Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.95,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

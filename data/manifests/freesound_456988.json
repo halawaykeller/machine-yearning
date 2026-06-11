@@ -8,7 +8,7 @@
   "source_id": "456988",
   "license": "CC0-1.0",
   "license_attribution": "RegoneFF",
-  "duration_sec": 1.15472,
+  "duration_sec": 0.369274,
   "machine_type": "camera",
   "machine_specifics": null,
   "mood_tags": [
@@ -27,6 +27,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:23:29.252734Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

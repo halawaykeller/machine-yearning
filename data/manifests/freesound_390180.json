@@ -8,7 +8,7 @@
   "source_id": "390180",
   "license": "CC-BY-NC-4.0",
   "license_attribution": "Debsound",
-  "duration_sec": 5.28535,
+  "duration_sec": 5.285374,
   "machine_type": "modem",
   "machine_specifics": null,
   "mood_tags": [
@@ -45,7 +45,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:36:24.130227Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.94,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

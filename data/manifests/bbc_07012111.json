@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07012111",
+  "filename": "07012111.mp3",
+  "title": "Electronic alarm signal.",
+  "channel": "charge_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07012111",
+  "source_id": "07012111",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 59.111338,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:25.890157Z",
+  "loudness_lufs": -15.51,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

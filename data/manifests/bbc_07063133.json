@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07063133",
+  "filename": "07063133.mp3",
+  "title": "BMW 320i convertible - city drive.",
+  "channel": "in_your_ear",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07063133",
+  "source_id": "07063133",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 179.708413,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:30.838359Z",
+  "loudness_lufs": -15.41,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

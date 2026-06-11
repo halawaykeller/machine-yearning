@@ -8,13 +8,13 @@
   "source_id": "aporee_57603_65939",
   "license": "PD",
   "license_attribution": "kate.morley",
-  "duration_sec": 0.0,
+  "duration_sec": 198.354036,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:44:44.778544Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.94,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

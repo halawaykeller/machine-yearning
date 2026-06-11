@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07034039",
+  "filename": "07034039.mp3",
+  "title": "Paddle Steamer: Built 1940, horizontal steam engine, stop with telegraph, in engine room.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07034039",
+  "source_id": "07034039",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 203.732041,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:36.451038Z",
+  "loudness_lufs": -15.78,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

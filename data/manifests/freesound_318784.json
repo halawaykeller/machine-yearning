@@ -8,7 +8,7 @@
   "source_id": "318784",
   "license": "CC-BY-3.0",
   "license_attribution": "deleted_user_4798915",
-  "duration_sec": 13.4676,
+  "duration_sec": 13.467574,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -44,7 +44,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:26:46.669948Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.0,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

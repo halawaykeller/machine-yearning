@@ -8,7 +8,7 @@
   "source_id": "529055",
   "license": "CC0-1.0",
   "license_attribution": "welcometoelmundo",
-  "duration_sec": 4.81814,
+  "duration_sec": 3.573855,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [
@@ -21,7 +21,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:18:04.441671Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -12.37,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

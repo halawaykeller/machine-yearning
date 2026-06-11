@@ -8,7 +8,7 @@
   "source_id": "342957",
   "license": "CC-BY-4.0",
   "license_attribution": "Vlaxim",
-  "duration_sec": 9.99601,
+  "duration_sec": 9.991156,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:08.551935Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -16.31,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

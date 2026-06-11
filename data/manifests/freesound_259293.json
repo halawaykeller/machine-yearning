@@ -8,7 +8,7 @@
   "source_id": "259293",
   "license": "CC-BY-4.0",
   "license_attribution": "MrAuralization",
-  "duration_sec": 2.4473,
+  "duration_sec": 1.490295,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:30:48.235480Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -21.91,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

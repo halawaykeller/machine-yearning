@@ -8,7 +8,7 @@
   "source_id": "1919",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 23.0,
+  "duration_sec": 22.5,
   "machine_type": "telegraph",
   "machine_specifics": "Morse Telegraph",
   "mood_tags": [
@@ -24,7 +24,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:29:15.279030Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -15.91,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

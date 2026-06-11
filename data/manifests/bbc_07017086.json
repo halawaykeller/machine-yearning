@@ -8,13 +8,13 @@
   "source_id": "07017086",
   "license": "BBC-personal-use",
   "license_attribution": "BBC Sound Effects",
-  "duration_sec": 278.272834,
+  "duration_sec": 277.163651,
   "machine_type": "unknown",
   "machine_specifics": null,
   "mood_tags": [],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:39:51.154249Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -18.03,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

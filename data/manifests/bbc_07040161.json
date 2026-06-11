@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07040161",
+  "filename": "07040161.mp3",
+  "title": "Post Office radio link operating.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07040161",
+  "source_id": "07040161",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 179.717528,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:31.223172Z",
+  "loudness_lufs": -14.24,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

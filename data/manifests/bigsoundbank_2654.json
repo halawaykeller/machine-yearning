@@ -8,7 +8,7 @@
   "source_id": "2654",
   "license": "CC0-1.0",
   "license_attribution": "Joseph SARDIN",
-  "duration_sec": 2.0,
+  "duration_sec": 1.006213,
   "machine_type": "cd",
   "machine_specifics": "Compact Disc",
   "mood_tags": [
@@ -28,7 +28,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:28:19.019645Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -24.99,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

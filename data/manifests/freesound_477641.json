@@ -8,7 +8,7 @@
   "source_id": "477641",
   "license": "CC0-1.0",
   "license_attribution": "Joao_Janz",
-  "duration_sec": 0.678771,
+  "duration_sec": 0.283084,
   "machine_type": "fan",
   "machine_specifics": null,
   "mood_tags": [
@@ -46,6 +46,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:20:11.356798Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

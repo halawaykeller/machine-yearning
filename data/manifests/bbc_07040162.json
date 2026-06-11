@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07040162",
+  "filename": "07040162.mp3",
+  "title": "Teleprinter no. 15 operating (automatic transmitter & re-perforator). (Post Office Telegraph Equipment.)",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07040162",
+  "source_id": "07040162",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 111.599615,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:23.941006Z",
+  "loudness_lufs": -15.89,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

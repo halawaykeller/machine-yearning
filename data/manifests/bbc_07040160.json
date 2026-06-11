@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07040160",
+  "filename": "07040160.mp3",
+  "title": "Post Office Computer playing noughts & crosses.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07040160",
+  "source_id": "07040160",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 193.751383,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:33.255321Z",
+  "loudness_lufs": -16.82,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

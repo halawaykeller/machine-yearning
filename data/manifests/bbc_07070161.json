@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07070161",
+  "filename": "07070161.mp3",
+  "title": "Portable electric alarm clock",
+  "channel": "charge_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07070161",
+  "source_id": "07070161",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 36.902449,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:47:23.660418Z",
+  "loudness_lufs": -15.22,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

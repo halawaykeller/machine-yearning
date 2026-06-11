@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07069042",
+  "filename": "07069042.mp3",
+  "title": "Creed transmitter, 1925.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07069042",
+  "source_id": "07069042",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 145.712086,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:48:29.086690Z",
+  "loudness_lufs": -14.93,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
+}

@@ -8,7 +8,7 @@
   "source_id": "628244",
   "license": "CC0-1.0",
   "license_attribution": "asiekierka",
-  "duration_sec": 0.492086,
+  "duration_sec": 0.210975,
   "machine_type": "floppy",
   "machine_specifics": null,
   "mood_tags": [
@@ -19,6 +19,6 @@
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:30:52.426410Z",
   "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }

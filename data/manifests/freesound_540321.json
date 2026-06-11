@@ -8,7 +8,7 @@
   "source_id": "540321",
   "license": "CC0-1.0",
   "license_attribution": "colorsCrimsonTears",
-  "duration_sec": 15.3813,
+  "duration_sec": 14.533288,
   "machine_type": "computer",
   "machine_specifics": null,
   "mood_tags": [
@@ -30,7 +30,7 @@
   ],
   "recorded_or_scraped": "scraped",
   "scraped_at": "2026-06-11T18:19:17.348186Z",
-  "loudness_lufs": null,
-  "sample_rate": null,
-  "bitrate_kbps": null
+  "loudness_lufs": -21.99,
+  "sample_rate": 44100,
+  "bitrate_kbps": 128
 }
