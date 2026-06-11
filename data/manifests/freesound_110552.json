@@ -1,0 +1,27 @@
+{
+  "id": "freesound_110552",
+  "filename": "110552_hard-drive-shut-down-01-wav.mp3",
+  "title": "hard_drive_shut_down_01.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Noisehag/sounds/110552/",
+  "source_id": "110552",
+  "license": "CC0-1.0",
+  "license_attribution": "Noisehag",
+  "duration_sec": 6.59324,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "down",
+    "drive",
+    "electric",
+    "hard",
+    "industrial",
+    "shut"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:10.721650Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

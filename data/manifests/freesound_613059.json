@@ -1,0 +1,24 @@
+{
+  "id": "freesound_613059",
+  "filename": "613059_fan-desk.mp3",
+  "title": "Fan (desk)",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/day-garwood/sounds/613059/",
+  "source_id": "613059",
+  "license": "CC-BY-3.0",
+  "license_attribution": "day-garwood",
+  "duration_sec": 19.95,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "air",
+    "cooling",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:57.687053Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

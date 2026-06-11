@@ -1,0 +1,25 @@
+{
+  "id": "freesound_54041",
+  "filename": "54041_modem-sex-wav.mp3",
+  "title": "Modem-sex.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/x3DGime/sounds/54041/",
+  "source_id": "54041",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "x3DGime",
+  "duration_sec": 10.1909,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "dial",
+    "dialin",
+    "internet",
+    "modem"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:34:04.966625Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "freesound_569760",
+  "filename": "569760_hdd2-mixdown2-wav.mp3",
+  "title": "hdd2_mixdown2.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/gecop/sounds/569760/",
+  "source_id": "569760",
+  "license": "CC0-1.0",
+  "license_attribution": "gecop",
+  "duration_sec": 24.4796,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "drive",
+    "hard",
+    "hard-disk",
+    "hard-drive",
+    "hdd",
+    "machine",
+    "noise",
+    "spinning",
+    "turning",
+    "windows"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:23.724123Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

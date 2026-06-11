@@ -1,0 +1,26 @@
+{
+  "id": "freesound_523612",
+  "filename": "523612_plugging-cable-2.mp3",
+  "title": "Plugging Cable 2",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Sheyvan/sounds/523612/",
+  "source_id": "523612",
+  "license": "CC0-1.0",
+  "license_attribution": "Sheyvan",
+  "duration_sec": 21.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Cable",
+    "In",
+    "Jack",
+    "Plug",
+    "out"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:02.240471Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

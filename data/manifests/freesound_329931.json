@@ -1,0 +1,30 @@
+{
+  "id": "freesound_329931",
+  "filename": "329931_magic-machine-failure-wav.mp3",
+  "title": "Magic machine failure.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/michael_kur95/sounds/329931/",
+  "source_id": "329931",
+  "license": "CC-BY-3.0",
+  "license_attribution": "michael_kur95",
+  "duration_sec": 18.6631,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "damage",
+    "device",
+    "device-fail",
+    "fairytale",
+    "game",
+    "machine",
+    "machine-fail",
+    "robot",
+    "shutdown"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:50.285799Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

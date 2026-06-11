@@ -1,0 +1,28 @@
+{
+  "id": "freesound_189985",
+  "filename": "189985_ac-start-up-fan-w-comp-flac.mp3",
+  "title": "AC start up fan w comp.flac",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/raygrote/sounds/189985/",
+  "source_id": "189985",
+  "license": "CC0-1.0",
+  "license_attribution": "raygrote",
+  "duration_sec": 17.64,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "AC",
+    "Air-conditioner",
+    "Close-up",
+    "Compressor",
+    "Fan",
+    "Power-on",
+    "Stereo"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:39.124644Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

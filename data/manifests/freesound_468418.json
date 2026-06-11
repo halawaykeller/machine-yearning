@@ -1,0 +1,28 @@
+{
+  "id": "freesound_468418",
+  "filename": "468418_fan-drone-sever-room-wav.mp3",
+  "title": "Fan Drone Sever Room.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MSEpitaph/sounds/468418/",
+  "source_id": "468418",
+  "license": "CC-BY-4.0",
+  "license_attribution": "MSEpitaph",
+  "duration_sec": 14.0,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Ambience",
+    "Computer",
+    "Dark",
+    "Drone",
+    "Electronic",
+    "Fan",
+    "Sever"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:13.712199Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

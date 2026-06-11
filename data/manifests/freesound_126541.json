@@ -1,0 +1,27 @@
+{
+  "id": "freesound_126541",
+  "filename": "126541_fax-machine-ring2-wav.mp3",
+  "title": "fax_machine_ring2.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/nnus/sounds/126541/",
+  "source_id": "126541",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "nnus",
+  "duration_sec": 2.8,
+  "machine_type": "fax",
+  "machine_specifics": null,
+  "mood_tags": [
+    "equipment",
+    "fax",
+    "machine",
+    "office",
+    "ring",
+    "tone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:22.959452Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

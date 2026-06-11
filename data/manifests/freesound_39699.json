@@ -1,0 +1,28 @@
+{
+  "id": "freesound_39699",
+  "filename": "39699_reading-floppy-disc-1-wav.mp3",
+  "title": "reading_floppy_disc_1.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/KRAFTWERK2K1/sounds/39699/",
+  "source_id": "39699",
+  "license": "CC0-1.0",
+  "license_attribution": "KRAFTWERK2K1",
+  "duration_sec": 12.178,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disc",
+    "drive",
+    "floppy",
+    "floppydisc",
+    "floppydrive",
+    "loading",
+    "reading"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:16.571772Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "freesound_216619",
+  "filename": "216619_powerup-wav.mp3",
+  "title": "powerup.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Hunski/sounds/216619/",
+  "source_id": "216619",
+  "license": "CC-BY-3.0",
+  "license_attribution": "Hunski",
+  "duration_sec": 25.9067,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Compressor",
+    "coffee",
+    "espresso",
+    "generator",
+    "machine",
+    "machinery",
+    "mechanical",
+    "power",
+    "up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:23.712190Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

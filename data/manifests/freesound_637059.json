@@ -1,0 +1,33 @@
+{
+  "id": "freesound_637059",
+  "filename": "637059_inserting-8-inch-floppy-disk-and-closing-drive-latch.mp3",
+  "title": "Inserting 8-inch floppy-disk and closing drive-latch",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/micropolis/sounds/637059/",
+  "source_id": "637059",
+  "license": "CC0-1.0",
+  "license_attribution": "micropolis",
+  "duration_sec": 3.33619,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "1970",
+    "1980",
+    "Computer",
+    "Computers",
+    "Disk",
+    "Fan",
+    "Floppy-Disk",
+    "Noise",
+    "Office",
+    "PC",
+    "Retrocomputing",
+    "Shugart"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:48.524718Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

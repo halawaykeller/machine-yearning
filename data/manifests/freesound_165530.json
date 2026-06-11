@@ -1,0 +1,25 @@
+{
+  "id": "freesound_165530",
+  "filename": "165530_quiet-computer-fan.mp3",
+  "title": "Quiet Computer Fan",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/EagleStealthTeam/sounds/165530/",
+  "source_id": "165530",
+  "license": "CC0-1.0",
+  "license_attribution": "EagleStealthTeam",
+  "duration_sec": 19.0288,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "ambiance",
+    "computer",
+    "fan",
+    "quiet"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:17.396036Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

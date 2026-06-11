@@ -1,0 +1,25 @@
+{
+  "id": "freesound_822713",
+  "filename": "822713_994hz-st-censor-beep.mp3",
+  "title": "994Hz ST - Censor beep",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Sadiquecat/sounds/822713/",
+  "source_id": "822713",
+  "license": "CC0-1.0",
+  "license_attribution": "Sadiquecat",
+  "duration_sec": 0.349729,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "994hz",
+    "Beep",
+    "Censor",
+    "tone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:21.034746Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

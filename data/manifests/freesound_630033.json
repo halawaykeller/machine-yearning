@@ -1,0 +1,28 @@
+{
+  "id": "freesound_630033",
+  "filename": "630033_space-ship-shutdown.mp3",
+  "title": "Space Ship Shutdown",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/el_boss/sounds/630033/",
+  "source_id": "630033",
+  "license": "CC0-1.0",
+  "license_attribution": "el_boss",
+  "duration_sec": 2.61689,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "ailens",
+    "closing",
+    "deactivate",
+    "laser",
+    "ship",
+    "shutdown",
+    "space"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:29.526259Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

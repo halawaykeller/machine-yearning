@@ -1,0 +1,28 @@
+{
+  "id": "freesound_414366",
+  "filename": "414366_metal-detector-beeping.mp3",
+  "title": "Metal Detector Beeping",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Amazing_Brick_Movies/sounds/414366/",
+  "source_id": "414366",
+  "license": "CC0-1.0",
+  "license_attribution": "Amazing_Brick_Movies",
+  "duration_sec": 19.3907,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "beep",
+    "beeping",
+    "error",
+    "metal-detector",
+    "testing",
+    "warning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:17.921557Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

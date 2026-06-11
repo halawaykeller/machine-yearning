@@ -1,0 +1,32 @@
+{
+  "id": "freesound_231461",
+  "filename": "231461_starting-up-device.mp3",
+  "title": "starting-up-device",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Eelke/sounds/231461/",
+  "source_id": "231461",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Eelke",
+  "duration_sec": 11.7887,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "buzz",
+    "device",
+    "lamps",
+    "power",
+    "science",
+    "simulator",
+    "starting",
+    "switch",
+    "up",
+    "van",
+    "zoom"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:11.774926Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

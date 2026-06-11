@@ -1,0 +1,27 @@
+{
+  "id": "freesound_63618",
+  "filename": "63618_cow-close-wav.mp3",
+  "title": "Cow Close.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Benboncan/sounds/63618/",
+  "source_id": "63618",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Benboncan",
+  "duration_sec": 24.5951,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "cow",
+    "field-recording",
+    "lowing",
+    "moo",
+    "stereo",
+    "xy"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:02.900108Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

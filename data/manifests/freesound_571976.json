@@ -1,0 +1,28 @@
+{
+  "id": "freesound_571976",
+  "filename": "571976_monster-charging.mp3",
+  "title": "monster charging",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/soundmast123/sounds/571976/",
+  "source_id": "571976",
+  "license": "CC-BY-3.0",
+  "license_attribution": "soundmast123",
+  "duration_sec": 8.55,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "angry",
+    "assault",
+    "charge",
+    "creature",
+    "gallop",
+    "mad",
+    "monster"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:26.569947Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

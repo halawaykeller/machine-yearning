@@ -1,0 +1,24 @@
+{
+  "id": "freesound_205946",
+  "filename": "205946_dubstep-alarm-mp3.mp3",
+  "title": "Dubstep Alarm.mp3",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/E1ectr0n1cF4n/sounds/205946/",
+  "source_id": "205946",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "E1ectr0n1cF4n",
+  "duration_sec": 7.38066,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Alarm",
+    "Dubstep",
+    "Screaming-robot"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:19.733222Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

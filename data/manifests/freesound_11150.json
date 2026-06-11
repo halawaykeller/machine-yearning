@@ -1,0 +1,24 @@
+{
+  "id": "freesound_11150",
+  "filename": "11150_floppy-out2-loop-wav.mp3",
+  "title": "floppy-out2-loop.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/phatsphere/sounds/11150/",
+  "source_id": "11150",
+  "license": "CC-BY-3.0",
+  "license_attribution": "phatsphere",
+  "duration_sec": 0.493152,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "drive",
+    "floppy",
+    "pc"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:49.002276Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

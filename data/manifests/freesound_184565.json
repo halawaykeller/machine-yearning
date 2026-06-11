@@ -1,0 +1,28 @@
+{
+  "id": "freesound_184565",
+  "filename": "184565_computer-fan.mp3",
+  "title": "Computer Fan",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/magnus589/sounds/184565/",
+  "source_id": "184565",
+  "license": "CC0-1.0",
+  "license_attribution": "magnus589",
+  "duration_sec": 23.7786,
+  "machine_type": "laptop",
+  "machine_specifics": null,
+  "mood_tags": [
+    "PC",
+    "blower",
+    "computer",
+    "fan",
+    "hard",
+    "laptop",
+    "working"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:56.814122Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "freesound_345954",
+  "filename": "345954_phone-malfunction-wav.mp3",
+  "title": "phone_malfunction.WAV",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/AlienXXX/sounds/345954/",
+  "source_id": "345954",
+  "license": "CC-BY-4.0",
+  "license_attribution": "AlienXXX",
+  "duration_sec": 23.9209,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "irritating",
+    "locked",
+    "malfunction",
+    "phone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:34.099196Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

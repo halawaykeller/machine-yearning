@@ -1,0 +1,24 @@
+{
+  "id": "freesound_154779",
+  "filename": "154779_hard-drive-spinning-wav.mp3",
+  "title": "Hard Drive Spinning.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/jpkweli/sounds/154779/",
+  "source_id": "154779",
+  "license": "CC0-1.0",
+  "license_attribution": "jpkweli",
+  "duration_sec": 25.8867,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Awesomeness",
+    "Drive",
+    "Hard"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:59.589149Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

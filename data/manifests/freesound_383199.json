@@ -1,0 +1,29 @@
+{
+  "id": "freesound_383199",
+  "filename": "383199_wep-pistol-load-01-wav.mp3",
+  "title": "WEP_PISTOL_LOAD_01.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ptwohig/sounds/383199/",
+  "source_id": "383199",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "ptwohig",
+  "duration_sec": 0.826939,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "charge",
+    "cock",
+    "gun",
+    "load",
+    "magazine",
+    "reload",
+    "rifle",
+    "weapon"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:20.994790Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "freesound_157335",
+  "filename": "157335_engine-shutdown.mp3",
+  "title": "Engine Shutdown",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/theyoungphilosopher/sounds/157335/",
+  "source_id": "157335",
+  "license": "CC0-1.0",
+  "license_attribution": "theyoungphilosopher",
+  "duration_sec": 10.8437,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "engine",
+    "helicopter",
+    "off",
+    "plane",
+    "pod-racer",
+    "podracer",
+    "shutdown",
+    "star-wars",
+    "turn",
+    "turning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:24.819328Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

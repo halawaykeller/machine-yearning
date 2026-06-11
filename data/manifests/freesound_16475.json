@@ -1,0 +1,26 @@
+{
+  "id": "freesound_16475",
+  "filename": "16475_dialup-mp3.mp3",
+  "title": "Dialup.mp3",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Jlew/sounds/16475/",
+  "source_id": "16475",
+  "license": "CC-BY-3.0",
+  "license_attribution": "Jlew",
+  "duration_sec": 27.5733,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "america-online",
+    "aol",
+    "dial",
+    "dial-up",
+    "modem"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:35:09.265668Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "freesound_190924",
+  "filename": "190924_electric-toothbrush-dead-batteries-2-wav.mp3",
+  "title": "Electric Toothbrush dead batteries 2.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/sangtao/sounds/190924/",
+  "source_id": "190924",
+  "license": "CC-BY-3.0",
+  "license_attribution": "sangtao",
+  "duration_sec": 11.2861,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Bathroom",
+    "LCS13",
+    "electric",
+    "motor",
+    "teeth",
+    "toothbrush"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:36.702392Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

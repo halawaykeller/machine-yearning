@@ -1,0 +1,27 @@
+{
+  "id": "freesound_361155",
+  "filename": "361155_phone-call-full-dialing-number-ringtone-pick-up-mp3.mp3",
+  "title": "Phone Call FULL (Dialing Number, Ringtone, Pick Up).MP3",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/FunWithSound/sounds/361155/",
+  "source_id": "361155",
+  "license": "CC0-1.0",
+  "license_attribution": "FunWithSound",
+  "duration_sec": 26.4239,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "call",
+    "home-phone",
+    "phone",
+    "ring",
+    "ringtone",
+    "telephone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:35:34.276199Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

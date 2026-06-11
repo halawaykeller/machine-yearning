@@ -1,0 +1,28 @@
+{
+  "id": "freesound_257230",
+  "filename": "257230_charging-loop-3.mp3",
+  "title": "charging loop 3",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/JavierZumer/sounds/257230/",
+  "source_id": "257230",
+  "license": "CC-BY-4.0",
+  "license_attribution": "JavierZumer",
+  "duration_sec": 4.19701,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "charging",
+    "energy",
+    "loop",
+    "massive",
+    "pad",
+    "power",
+    "synth"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:09.560027Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

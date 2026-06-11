@@ -1,0 +1,27 @@
+{
+  "id": "freesound_146950",
+  "filename": "146950_computer-hum-3.mp3",
+  "title": "Computer Hum 3",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/elle-trudgett/sounds/146950/",
+  "source_id": "146950",
+  "license": "CC0-1.0",
+  "license_attribution": "elle-trudgett",
+  "duration_sec": 5.87925,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "hum",
+    "loopable",
+    "noise",
+    "whirr"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:58.202824Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

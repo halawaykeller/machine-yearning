@@ -1,0 +1,26 @@
+{
+  "id": "freesound_410914",
+  "filename": "410914_pizza-cutter-wav.mp3",
+  "title": "pizza cutter.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/jimmyfisher/sounds/410914/",
+  "source_id": "410914",
+  "license": "CC0-1.0",
+  "license_attribution": "jimmyfisher",
+  "duration_sec": 5.51747,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "drive",
+    "hard",
+    "hit",
+    "metal",
+    "utensil"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:25.748753Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

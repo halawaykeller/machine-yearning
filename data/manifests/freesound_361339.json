@@ -1,0 +1,31 @@
+{
+  "id": "freesound_361339",
+  "filename": "361339_device-powering-up-wav.mp3",
+  "title": "Device powering up.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/spoonsandlessspoons/sounds/361339/",
+  "source_id": "361339",
+  "license": "CC-BY-4.0",
+  "license_attribution": "spoonsandlessspoons",
+  "duration_sec": 14.498,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "IGNITION",
+    "MOTOR",
+    "device",
+    "electric",
+    "generator",
+    "machine",
+    "machinery",
+    "power",
+    "powering",
+    "up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:55.448149Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

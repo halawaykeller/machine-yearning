@@ -1,0 +1,28 @@
+{
+  "id": "freesound_86744",
+  "filename": "86744_admirals-experience-with-western-digital-wav.mp3",
+  "title": "admirals_experience_with_western_digital.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/admiral_potato/sounds/86744/",
+  "source_id": "86744",
+  "license": "CC-Sampling-Plus-1.0",
+  "license_attribution": "admiral_potato",
+  "duration_sec": 29.977,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "click",
+    "clicking",
+    "digital",
+    "drive",
+    "failure",
+    "hard",
+    "western"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:43.747804Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

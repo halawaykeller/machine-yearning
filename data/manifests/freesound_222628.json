@@ -1,0 +1,25 @@
+{
+  "id": "freesound_222628",
+  "filename": "222628_element047-wav.mp3",
+  "title": "element047.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/vumseplutten1709/sounds/222628/",
+  "source_id": "222628",
+  "license": "CC-BY-3.0",
+  "license_attribution": "vumseplutten1709",
+  "duration_sec": 8.5,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bits",
+    "buiding-elements",
+    "fragments",
+    "lumps"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:41.174809Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

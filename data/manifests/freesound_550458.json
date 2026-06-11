@@ -1,0 +1,31 @@
+{
+  "id": "freesound_550458",
+  "filename": "550458_internal-diskette-drive-reading.mp3",
+  "title": "Internal diskette drive reading",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/607freesound/sounds/550458/",
+  "source_id": "550458",
+  "license": "CC0-1.0",
+  "license_attribution": "607freesound",
+  "duration_sec": 22.1233,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "atari",
+    "computer",
+    "data",
+    "diskette",
+    "floppy",
+    "loading",
+    "reading",
+    "retro",
+    "st",
+    "ste"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:39.610819Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

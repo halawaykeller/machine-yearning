@@ -1,0 +1,26 @@
+{
+  "id": "freesound_71929",
+  "filename": "71929_ns-hardrive-wav.mp3",
+  "title": "ns_hardrive.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/cmusounddesign/sounds/71929/",
+  "source_id": "71929",
+  "license": "CC-BY-4.0",
+  "license_attribution": "cmusounddesign",
+  "duration_sec": 25.0776,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "click",
+    "computer",
+    "disk",
+    "drive",
+    "hard"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:16.959561Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

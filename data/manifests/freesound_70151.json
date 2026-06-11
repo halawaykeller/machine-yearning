@@ -1,0 +1,26 @@
+{
+  "id": "freesound_70151",
+  "filename": "70151_desktop-computer-position-1-wav.mp3",
+  "title": "desktop computer position 1.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/JustinBW/sounds/70151/",
+  "source_id": "70151",
+  "license": "CC-BY-4.0",
+  "license_attribution": "JustinBW",
+  "duration_sec": 7.93703,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "desktop",
+    "electronic",
+    "fan",
+    "noisy"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:37.855475Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

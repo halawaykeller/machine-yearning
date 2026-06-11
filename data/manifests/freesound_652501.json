@@ -1,0 +1,25 @@
+{
+  "id": "freesound_652501",
+  "filename": "652501_alarm1-loop-wav.mp3",
+  "title": "alarm1-loop.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Krokulator/sounds/652501/",
+  "source_id": "652501",
+  "license": "CC0-1.0",
+  "license_attribution": "Krokulator",
+  "duration_sec": 0.5,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "alert",
+    "alerts",
+    "siren"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:17.774955Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

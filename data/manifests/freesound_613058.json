@@ -1,0 +1,24 @@
+{
+  "id": "freesound_613058",
+  "filename": "613058_fan-standalone.mp3",
+  "title": "Fan (standalone)",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/day-garwood/sounds/613058/",
+  "source_id": "613058",
+  "license": "CC-BY-3.0",
+  "license_attribution": "day-garwood",
+  "duration_sec": 26.47,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "air",
+    "cooling",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:05.435700Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

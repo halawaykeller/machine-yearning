@@ -1,0 +1,27 @@
+{
+  "id": "freesound_234247",
+  "filename": "234247_alarm.mp3",
+  "title": "Alarm",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/rivernile7/sounds/234247/",
+  "source_id": "234247",
+  "license": "CC-BY-3.0",
+  "license_attribution": "rivernile7",
+  "duration_sec": 17.3206,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "AM",
+    "Alarm",
+    "Clock",
+    "Electronics",
+    "Radio",
+    "Static"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:48.151065Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

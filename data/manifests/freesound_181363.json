@@ -1,0 +1,25 @@
+{
+  "id": "freesound_181363",
+  "filename": "181363_alarm-clock.mp3",
+  "title": "Alarm clock ",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/AldebaranCW/sounds/181363/",
+  "source_id": "181363",
+  "license": "CC-BY-4.0",
+  "license_attribution": "AldebaranCW",
+  "duration_sec": 27.8468,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "clock",
+    "irritating",
+    "morning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:59.229810Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

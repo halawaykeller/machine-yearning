@@ -1,0 +1,24 @@
+{
+  "id": "freesound_466343",
+  "filename": "466343_1-5-fan-wav.mp3",
+  "title": "1 (5)_fan.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/valli39/sounds/466343/",
+  "source_id": "466343",
+  "license": "CC0-1.0",
+  "license_attribution": "valli39",
+  "duration_sec": 23.5813,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "background-noise",
+    "computer",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:49.978392Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

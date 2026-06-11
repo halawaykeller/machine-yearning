@@ -1,0 +1,28 @@
+{
+  "id": "freesound_326878",
+  "filename": "326878_rattling-wav.mp3",
+  "title": "Rattling.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/bikamek1/sounds/326878/",
+  "source_id": "326878",
+  "license": "CC-BY-3.0",
+  "license_attribution": "bikamek1",
+  "duration_sec": 15.0213,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Drive",
+    "Drives",
+    "Hard",
+    "USB",
+    "humming",
+    "keys",
+    "pen"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:35.084908Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

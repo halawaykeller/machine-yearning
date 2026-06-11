@@ -1,0 +1,31 @@
+{
+  "id": "freesound_78657",
+  "filename": "78657_modem1200-wav.mp3",
+  "title": "modem1200.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/guitarguy1985/sounds/78657/",
+  "source_id": "78657",
+  "license": "CC0-1.0",
+  "license_attribution": "guitarguy1985",
+  "duration_sec": 5.63193,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "1200",
+    "baud",
+    "beep",
+    "computer",
+    "data",
+    "dialup",
+    "internet",
+    "lo-fi",
+    "modem",
+    "noise"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:34:25.746714Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

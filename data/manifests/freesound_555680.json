@@ -1,0 +1,33 @@
+{
+  "id": "freesound_555680",
+  "filename": "555680_quacking-sound-with-lips-2.mp3",
+  "title": "Quacking sound with lips 2",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/bogenseeberg/sounds/555680/",
+  "source_id": "555680",
+  "license": "CC-BY-3.0",
+  "license_attribution": "bogenseeberg",
+  "duration_sec": 12.8,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Quacking",
+    "application",
+    "bleep",
+    "clicks",
+    "desktop",
+    "effect",
+    "intro",
+    "intros",
+    "lips",
+    "sound",
+    "startup",
+    "voice"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:18:20.170823Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

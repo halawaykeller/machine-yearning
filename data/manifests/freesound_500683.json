@@ -1,0 +1,28 @@
+{
+  "id": "freesound_500683",
+  "filename": "500683_hurt-grunt-v2-wav.mp3",
+  "title": "Hurt_grunt_V2.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/bigspider95/sounds/500683/",
+  "source_id": "500683",
+  "license": "CC0-1.0",
+  "license_attribution": "bigspider95",
+  "duration_sec": 8.0224,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Hi",
+    "creepy",
+    "demonic",
+    "effects",
+    "game",
+    "quality",
+    "sound"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:52.906902Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

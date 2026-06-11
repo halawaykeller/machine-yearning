@@ -1,0 +1,32 @@
+{
+  "id": "freesound_512136",
+  "filename": "512136_notification-sound.mp3",
+  "title": "Notification Sound",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/BeezleFM/sounds/512136/",
+  "source_id": "512136",
+  "license": "CC-BY-4.0",
+  "license_attribution": "BeezleFM",
+  "duration_sec": 0.717211,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alert",
+    "effect",
+    "field-recording",
+    "foley",
+    "fx",
+    "new",
+    "notification",
+    "pop-up",
+    "popup",
+    "sfx",
+    "sound"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:29.298485Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

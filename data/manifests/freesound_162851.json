@@ -1,0 +1,28 @@
+{
+  "id": "freesound_162851",
+  "filename": "162851_alarm-wav.mp3",
+  "title": "Alarm.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Tempouser/sounds/162851/",
+  "source_id": "162851",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "Tempouser",
+  "duration_sec": 4.41578,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "clock",
+    "default",
+    "digital",
+    "mobile",
+    "phone",
+    "ringtones"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:30.896107Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

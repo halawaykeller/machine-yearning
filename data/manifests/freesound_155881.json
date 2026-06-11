@@ -1,0 +1,28 @@
+{
+  "id": "freesound_155881",
+  "filename": "155881_wdac21200-5200rpm-bb.mp3",
+  "title": "WDAC21200 - 5200rpm - BB",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Klerrp/sounds/155881/",
+  "source_id": "155881",
+  "license": "CC0-1.0",
+  "license_attribution": "Klerrp",
+  "duration_sec": 17.2662,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disk",
+    "drive",
+    "hard",
+    "hdd",
+    "machine",
+    "motor",
+    "rattle"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:48.732818Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

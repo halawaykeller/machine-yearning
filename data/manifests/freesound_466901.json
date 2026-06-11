@@ -1,0 +1,28 @@
+{
+  "id": "freesound_466901",
+  "filename": "466901_computer-ambient.mp3",
+  "title": "Computer Ambient",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Zi7ar21/sounds/466901/",
+  "source_id": "466901",
+  "license": "CC0-1.0",
+  "license_attribution": "Zi7ar21",
+  "duration_sec": 19.9843,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Computer",
+    "Cooling",
+    "Electronics",
+    "Fan",
+    "Machine",
+    "Normalized",
+    "Un-Compressed"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:18.211380Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

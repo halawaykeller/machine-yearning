@@ -1,0 +1,33 @@
+{
+  "id": "freesound_164035",
+  "filename": "164035_fetap-hangup-wav.mp3",
+  "title": "fetap-hangup.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/DrNI/sounds/164035/",
+  "source_id": "164035",
+  "license": "CC0-1.0",
+  "license_attribution": "DrNI",
+  "duration_sec": 2.59348,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "611-2",
+    "deutsche-bundespost",
+    "dial",
+    "dialing",
+    "fetap",
+    "hang-up",
+    "hanging-up",
+    "plate",
+    "pulse",
+    "seventies",
+    "telephone",
+    "vintage"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:15.746263Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "freesound_109310",
+  "filename": "109310_computer-wav.mp3",
+  "title": "Computer.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Ryding/sounds/109310/",
+  "source_id": "109310",
+  "license": "CC0-1.0",
+  "license_attribution": "Ryding",
+  "duration_sec": 19.0012,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "noise"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:09.820181Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

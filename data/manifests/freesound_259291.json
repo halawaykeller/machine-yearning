@@ -1,0 +1,30 @@
+{
+  "id": "freesound_259291",
+  "filename": "259291_floppy-disk-drive-write.mp3",
+  "title": "Floppy disk drive - write",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MrAuralization/sounds/259291/",
+  "source_id": "259291",
+  "license": "CC-BY-4.0",
+  "license_attribution": "MrAuralization",
+  "duration_sec": 25.0959,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "disk",
+    "diskette",
+    "drive",
+    "fdd",
+    "floppy",
+    "hard-drive",
+    "write",
+    "writing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:47.408689Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

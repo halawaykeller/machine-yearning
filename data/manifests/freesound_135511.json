@@ -1,0 +1,24 @@
+{
+  "id": "freesound_135511",
+  "filename": "135511_muted-alarm-wav.mp3",
+  "title": "muted alarm.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MichellePamelaLyons/sounds/135511/",
+  "source_id": "135511",
+  "license": "CC0-1.0",
+  "license_attribution": "MichellePamelaLyons",
+  "duration_sec": 16.5378,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "beep",
+    "slow"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:46.148042Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

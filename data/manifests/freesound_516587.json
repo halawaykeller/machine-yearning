@@ -1,0 +1,26 @@
+{
+  "id": "freesound_516587",
+  "filename": "516587_battery-drill-run.mp3",
+  "title": "Battery Drill Run",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/jameswrowles/sounds/516587/",
+  "source_id": "516587",
+  "license": "CC0-1.0",
+  "license_attribution": "jameswrowles",
+  "duration_sec": 7.2051,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "battery-drill",
+    "drill",
+    "power-tools",
+    "tools",
+    "workshop"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:44.027170Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

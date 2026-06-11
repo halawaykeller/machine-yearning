@@ -1,0 +1,30 @@
+{
+  "id": "freesound_517187",
+  "filename": "517187_plugging-in-electric-guitar-faulty-jack.mp3",
+  "title": "Plugging In Electric Guitar - faulty jack",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Sassaby/sounds/517187/",
+  "source_id": "517187",
+  "license": "CC0-1.0",
+  "license_attribution": "Sassaby",
+  "duration_sec": 19.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Electric",
+    "Faulty",
+    "Guitar",
+    "In",
+    "Jack",
+    "Plugging",
+    "amp",
+    "hum",
+    "noise"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:07.926127Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

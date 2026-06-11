@@ -1,0 +1,28 @@
+{
+  "id": "freesound_173856",
+  "filename": "173856_hitachi-ds-5k3000-5900rpm-fdb.mp3",
+  "title": "Hitachi DS 5K3000 - 5900rpm - FDB",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Klerrp/sounds/173856/",
+  "source_id": "173856",
+  "license": "CC0-1.0",
+  "license_attribution": "Klerrp",
+  "duration_sec": 27.2337,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disk",
+    "drive",
+    "hard",
+    "hdd",
+    "machine",
+    "motor",
+    "rattle"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:04.201080Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

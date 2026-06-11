@@ -1,0 +1,26 @@
+{
+  "id": "freesound_434937",
+  "filename": "434937_s-f-alarm-wav.mp3",
+  "title": "s_f_alarm.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SoundsofTh/sounds/434937/",
+  "source_id": "434937",
+  "license": "CC-BY-4.0",
+  "license_attribution": "SoundsofTh",
+  "duration_sec": 4.03098,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Alarm",
+    "Alert",
+    "Beep",
+    "Electronic",
+    "Emergency"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:41.482854Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

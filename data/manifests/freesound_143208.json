@@ -1,0 +1,29 @@
+{
+  "id": "freesound_143208",
+  "filename": "143208_maxtor-diamondmax-d540x-5400rpm-bb.mp3",
+  "title": "Maxtor DiamondMax D540X - 5400rpm - BB",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Klerrp/sounds/143208/",
+  "source_id": "143208",
+  "license": "CC0-1.0",
+  "license_attribution": "Klerrp",
+  "duration_sec": 22.6959,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disk",
+    "drive",
+    "hard",
+    "hdd",
+    "machine",
+    "maxtor",
+    "motor",
+    "rattle"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:23.174184Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

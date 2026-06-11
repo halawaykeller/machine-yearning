@@ -1,0 +1,29 @@
+{
+  "id": "freesound_251567",
+  "filename": "251567_headset-battery-low-wav.mp3",
+  "title": "headset battery low.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/WaveAdventurer/sounds/251567/",
+  "source_id": "251567",
+  "license": "CC-BY-4.0",
+  "license_attribution": "WaveAdventurer",
+  "duration_sec": 6.60891,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "bleep",
+    "boop",
+    "digital",
+    "electronic",
+    "headphones",
+    "headset",
+    "wireless"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:31.162757Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

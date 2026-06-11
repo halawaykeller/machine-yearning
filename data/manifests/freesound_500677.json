@@ -1,0 +1,26 @@
+{
+  "id": "freesound_500677",
+  "filename": "500677_scream-v1-wav.mp3",
+  "title": "Scream_V1.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/bigspider95/sounds/500677/",
+  "source_id": "500677",
+  "license": "CC0-1.0",
+  "license_attribution": "bigspider95",
+  "duration_sec": 7.23431,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Creepy",
+    "Game",
+    "Monster",
+    "effects",
+    "sound"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:47.502883Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

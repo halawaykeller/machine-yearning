@@ -1,0 +1,23 @@
+{
+  "id": "freesound_82782",
+  "filename": "82782_stm4-outro-squeal-mp3.mp3",
+  "title": "STM4_outro_squeal.mp3",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Sikoses/sounds/82782/",
+  "source_id": "82782",
+  "license": "CC-BY-3.0",
+  "license_attribution": "Sikoses",
+  "duration_sec": 15.0,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "drone",
+    "modem"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:34:47.855050Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

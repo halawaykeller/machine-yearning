@@ -1,0 +1,28 @@
+{
+  "id": "freesound_94868",
+  "filename": "94868_small-horn-wav.mp3",
+  "title": "small horn.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/tm1000/sounds/94868/",
+  "source_id": "94868",
+  "license": "CC0-1.0",
+  "license_attribution": "tm1000",
+  "duration_sec": 3.9434,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "car",
+    "european",
+    "honk",
+    "horn",
+    "small",
+    "weak"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:37.109257Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

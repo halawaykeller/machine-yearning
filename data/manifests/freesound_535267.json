@@ -1,0 +1,26 @@
+{
+  "id": "freesound_535267",
+  "filename": "535267_wind-up-clock-alarm-bell.mp3",
+  "title": "Wind-up clock alarm bell",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/jaythurber/sounds/535267/",
+  "source_id": "535267",
+  "license": "CC0-1.0",
+  "license_attribution": "jaythurber",
+  "duration_sec": 14.675,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "alarm-clock",
+    "bell",
+    "ring",
+    "ringing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:52.255700Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

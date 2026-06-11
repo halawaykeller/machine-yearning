@@ -1,0 +1,31 @@
+{
+  "id": "freesound_496126",
+  "filename": "496126_modular-synth-8-bit-data-transfer-simulation.mp3",
+  "title": "Modular Synth 8-bit Data Transfer Simulation",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Shemyaza/sounds/496126/",
+  "source_id": "496126",
+  "license": "CC0-1.0",
+  "license_attribution": "Shemyaza",
+  "duration_sec": 28.0,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "8-bit",
+    "Bit",
+    "Byte",
+    "Data",
+    "Data-transfer",
+    "Datasets",
+    "Dial-up",
+    "ModularSynth",
+    "Noise",
+    "Simulation"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:35:17.051789Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "freesound_550461",
+  "filename": "550461_usb-diskette-drive.mp3",
+  "title": "USB diskette drive",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/607freesound/sounds/550461/",
+  "source_id": "550461",
+  "license": "CC0-1.0",
+  "license_attribution": "607freesound",
+  "duration_sec": 26.8237,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "data",
+    "diskette",
+    "external",
+    "floppy",
+    "loading",
+    "saving"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:32.928565Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

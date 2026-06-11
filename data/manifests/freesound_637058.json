@@ -1,0 +1,33 @@
+{
+  "id": "freesound_637058",
+  "filename": "637058_taking-3-5-inch-floppy-disk-from-floppy-disk-drive.mp3",
+  "title": "Taking 3.5-inch floppy-disk from floppy disk drive",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/micropolis/sounds/637058/",
+  "source_id": "637058",
+  "license": "CC0-1.0",
+  "license_attribution": "micropolis",
+  "duration_sec": 1.68346,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "1990",
+    "2000",
+    "Amiga",
+    "Atari",
+    "Commodore",
+    "Computer",
+    "Computers",
+    "Disk",
+    "Floppy-Disk",
+    "Office",
+    "PC",
+    "Retrocomputing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:50.105455Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

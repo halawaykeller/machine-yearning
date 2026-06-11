@@ -1,0 +1,24 @@
+{
+  "id": "freesound_72673",
+  "filename": "72673_inside-computer-wav.mp3",
+  "title": "inside_computer.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/j1987/sounds/72673/",
+  "source_id": "72673",
+  "license": "CC0-1.0",
+  "license_attribution": "j1987",
+  "duration_sec": 26.7552,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "buzzing",
+    "computer",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:36.064468Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

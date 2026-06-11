@@ -1,0 +1,27 @@
+{
+  "id": "freesound_615269",
+  "filename": "615269_tape-machine-switch-off-no-tape-stereo-wav.mp3",
+  "title": "Tape Machine, switch-off ,no tape. stereo.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Dan_AudioFile/sounds/615269/",
+  "source_id": "615269",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Dan_AudioFile",
+  "duration_sec": 18.125,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "field-recording",
+    "machine",
+    "motor",
+    "shutdown",
+    "switch-off",
+    "tape-machine"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:06.012241Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

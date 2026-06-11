@@ -1,0 +1,32 @@
+{
+  "id": "freesound_462455",
+  "filename": "462455_alarm-clock-1-wav.mp3",
+  "title": "Alarm Clock 1.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/shyguy014/sounds/462455/",
+  "source_id": "462455",
+  "license": "CC0-1.0",
+  "license_attribution": "shyguy014",
+  "duration_sec": 23.5569,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Alarm",
+    "Annoying",
+    "Clock",
+    "Loud",
+    "Morning",
+    "Repetition",
+    "Repetitive",
+    "Sharp",
+    "WAV",
+    "Wake",
+    "Waking"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:42.368605Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

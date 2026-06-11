@@ -1,0 +1,28 @@
+{
+  "id": "freesound_693859",
+  "filename": "693859_on-off-button.mp3",
+  "title": "On/Off Button",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Fission9/sounds/693859/",
+  "source_id": "693859",
+  "license": "CC0-1.0",
+  "license_attribution": "Fission9",
+  "duration_sec": 1.43952,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Button",
+    "CRT",
+    "Click",
+    "Machine",
+    "Off",
+    "On",
+    "Power"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:16.725559Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

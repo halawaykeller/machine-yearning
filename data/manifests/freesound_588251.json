@@ -1,0 +1,28 @@
+{
+  "id": "freesound_588251",
+  "filename": "588251_power-up-regeneration-sfx-wav.mp3",
+  "title": "Power Up Regeneration SFX.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Romeo_Kaleikau/sounds/588251/",
+  "source_id": "588251",
+  "license": "CC-BY-NC-3.0",
+  "license_attribution": "Romeo_Kaleikau",
+  "duration_sec": 1.22917,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Game",
+    "Level",
+    "Power",
+    "Regeneration",
+    "SFX",
+    "Shield",
+    "Up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:57.887057Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

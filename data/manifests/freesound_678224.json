@@ -1,0 +1,31 @@
+{
+  "id": "freesound_678224",
+  "filename": "678224_macplus-insert-reject-disk.mp3",
+  "title": "MacPlus - Insert & Reject Disk",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SieuAmThanh/sounds/678224/",
+  "source_id": "678224",
+  "license": "CC0-1.0",
+  "license_attribution": "SieuAmThanh",
+  "duration_sec": 7.33751,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "apple",
+    "computer",
+    "disk",
+    "drive",
+    "floppy",
+    "insert",
+    "mac",
+    "macintosh",
+    "plus",
+    "reject"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:24.078720Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

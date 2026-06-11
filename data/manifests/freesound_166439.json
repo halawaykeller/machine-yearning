@@ -1,0 +1,28 @@
+{
+  "id": "freesound_166439",
+  "filename": "166439_hard-disk-drive-turns-on-and-spins-up-to-speed.mp3",
+  "title": "Hard Disk Drive (turns on and spins up to speed)",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ultradust/sounds/166439/",
+  "source_id": "166439",
+  "license": "CC-BY-4.0",
+  "license_attribution": "ultradust",
+  "duration_sec": 22.3144,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "disk",
+    "drive",
+    "external",
+    "hard",
+    "magnetic",
+    "spinning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:17.371590Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

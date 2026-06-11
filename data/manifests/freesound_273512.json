@@ -1,0 +1,28 @@
+{
+  "id": "freesound_273512",
+  "filename": "273512_church-organ-on-a-wav.mp3",
+  "title": "Church Organ, On, A.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/InspectorJ/sounds/273512/",
+  "source_id": "273512",
+  "license": "CC-BY-4.0",
+  "license_attribution": "InspectorJ",
+  "duration_sec": 17.3976,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Church",
+    "Electric",
+    "On",
+    "Organ",
+    "Pipe",
+    "Pipes",
+    "Turned"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:38.619489Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

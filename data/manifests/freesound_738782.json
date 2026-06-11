@@ -1,0 +1,24 @@
+{
+  "id": "freesound_738782",
+  "filename": "738782_computer-fans-running-wav.mp3",
+  "title": "Computer fans running (WAV)",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Robert9157/sounds/738782/",
+  "source_id": "738782",
+  "license": "CC0-1.0",
+  "license_attribution": "Robert9157",
+  "duration_sec": 27.4669,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "machine"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:34.374276Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

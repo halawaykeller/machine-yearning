@@ -1,0 +1,24 @@
+{
+  "id": "freesound_572596",
+  "filename": "572596_dial01mono-wav.mp3",
+  "title": "dial01mono.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/busabx/sounds/572596/",
+  "source_id": "572596",
+  "license": "CC-BY-4.0",
+  "license_attribution": "busabx",
+  "duration_sec": 6.44004,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "dashboard",
+    "dial",
+    "turn"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:14.943257Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

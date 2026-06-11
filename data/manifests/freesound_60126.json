@@ -1,0 +1,27 @@
+{
+  "id": "freesound_60126",
+  "filename": "60126_apparat-104bpm-aif.mp3",
+  "title": "Apparat-104Bpm.aif",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/creebefu/sounds/60126/",
+  "source_id": "60126",
+  "license": "CC-BY-4.0",
+  "license_attribution": "creebefu",
+  "duration_sec": 4.6154,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "104",
+    "apparat",
+    "battery-apparat",
+    "beat",
+    "bpm",
+    "drums"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:04.602656Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

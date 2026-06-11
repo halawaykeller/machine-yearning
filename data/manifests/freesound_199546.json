@@ -1,0 +1,31 @@
+{
+  "id": "freesound_199546",
+  "filename": "199546_cdtrayop3-mp3.mp3",
+  "title": "CdTrayOp3.mp3",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/WaveAdventurer/sounds/199546/",
+  "source_id": "199546",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "WaveAdventurer",
+  "duration_sec": 2.75698,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "cd",
+    "dell",
+    "drive",
+    "eject",
+    "hard",
+    "motor",
+    "old",
+    "open",
+    "opens",
+    "tray"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:30.362689Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

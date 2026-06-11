@@ -1,0 +1,32 @@
+{
+  "id": "freesound_344973",
+  "filename": "344973_computer-shut-down.mp3",
+  "title": "Computer Shut Down",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/VKProduktion/sounds/344973/",
+  "source_id": "344973",
+  "license": "CC0-1.0",
+  "license_attribution": "VKProduktion",
+  "duration_sec": 5.10608,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "CPU",
+    "Computer",
+    "Fan",
+    "Gadget",
+    "Office",
+    "PC",
+    "Peep",
+    "Power-off",
+    "Technic",
+    "power",
+    "shut-down"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:43.102525Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

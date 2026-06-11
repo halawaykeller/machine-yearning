@@ -1,0 +1,27 @@
+{
+  "id": "freesound_521973",
+  "filename": "521973_error.mp3",
+  "title": "Error",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Kastenfrosch/sounds/521973/",
+  "source_id": "521973",
+  "license": "CC0-1.0",
+  "license_attribution": "Kastenfrosch",
+  "duration_sec": 2.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Beep",
+    "Error",
+    "Failure",
+    "Invalid",
+    "Jingle",
+    "Notification"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:19.647246Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

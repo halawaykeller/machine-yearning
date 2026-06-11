@@ -1,0 +1,28 @@
+{
+  "id": "freesound_538927",
+  "filename": "538927_hard-drive-hum-wav.mp3",
+  "title": "hard drive Hum.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Rico_Casazza/sounds/538927/",
+  "source_id": "538927",
+  "license": "CC0-1.0",
+  "license_attribution": "Rico_Casazza",
+  "duration_sec": 29.6556,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disk",
+    "drive",
+    "hard",
+    "hdd",
+    "hum",
+    "motor",
+    "noise"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:45.003424Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

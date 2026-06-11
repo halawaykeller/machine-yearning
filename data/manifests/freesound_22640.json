@@ -1,0 +1,30 @@
+{
+  "id": "freesound_22640",
+  "filename": "22640_iriverselfnoise-flac.mp3",
+  "title": "iRiverSelfNoise.flac",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/acclivity/sounds/22640/",
+  "source_id": "22640",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "acclivity",
+  "duration_sec": 26.023,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disc",
+    "disk",
+    "drive",
+    "hard",
+    "harddrive",
+    "head",
+    "mechanical",
+    "seek",
+    "spin"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:31.696041Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "freesound_100355",
+  "filename": "100355_ventilator-mp3.mp3",
+  "title": "ventilator.mp3",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/fer_t/sounds/100355/",
+  "source_id": "100355",
+  "license": "CC0-1.0",
+  "license_attribution": "fer_t",
+  "duration_sec": 17.6729,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "air",
+    "blower",
+    "fan",
+    "o2",
+    "storm",
+    "ventilator",
+    "wind"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:54.821619Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

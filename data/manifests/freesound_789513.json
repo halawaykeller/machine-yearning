@@ -1,0 +1,27 @@
+{
+  "id": "freesound_789513",
+  "filename": "789513_alarm-clock.mp3",
+  "title": "Alarm Clock",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Ultra-Edward/sounds/789513/",
+  "source_id": "789513",
+  "license": "CC0-1.0",
+  "license_attribution": "Ultra-Edward",
+  "duration_sec": 13.7213,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "alarm-clock",
+    "clock",
+    "foley",
+    "morning",
+    "wake-up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:33.795701Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

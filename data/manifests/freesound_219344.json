@@ -1,0 +1,24 @@
+{
+  "id": "freesound_219344",
+  "filename": "219344_boot-wav.mp3",
+  "title": "boot.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/fatbass/sounds/219344/",
+  "source_id": "219344",
+  "license": "CC0-1.0",
+  "license_attribution": "fatbass",
+  "duration_sec": 15.728,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "contact-mic",
+    "experimental",
+    "piezo"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:18:01.710070Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

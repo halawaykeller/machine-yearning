@@ -1,0 +1,33 @@
+{
+  "id": "freesound_713179",
+  "filename": "713179_user-interface-beep-error-404-glitch.mp3",
+  "title": "User Interface, Beep, Error, 404, Glitch",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Vein_Adams/sounds/713179/",
+  "source_id": "713179",
+  "license": "CC0-1.0",
+  "license_attribution": "Vein_Adams",
+  "duration_sec": 1.7666,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "404",
+    "beep",
+    "computer",
+    "digital",
+    "error",
+    "glitch",
+    "interface",
+    "noise",
+    "sound-design",
+    "ui",
+    "user",
+    "weird"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:04.687675Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

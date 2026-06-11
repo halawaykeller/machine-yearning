@@ -1,0 +1,25 @@
+{
+  "id": "freesound_151309",
+  "filename": "151309_beep1-resonant-error-beep.mp3",
+  "title": "Beep1: Resonant Error Beep",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/tcpp/sounds/151309/",
+  "source_id": "151309",
+  "license": "CC-BY-4.0",
+  "license_attribution": "tcpp",
+  "duration_sec": 0.469615,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Beep",
+    "Computer",
+    "Error",
+    "Synthesized"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:04.002912Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

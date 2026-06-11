@@ -1,0 +1,28 @@
+{
+  "id": "freesound_155880",
+  "filename": "155880_conner-cougar-4500rpm-bb.mp3",
+  "title": "Conner Cougar - 4500rpm - BB",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Klerrp/sounds/155880/",
+  "source_id": "155880",
+  "license": "CC0-1.0",
+  "license_attribution": "Klerrp",
+  "duration_sec": 26.8632,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disk",
+    "drive",
+    "hard",
+    "hdd",
+    "machine",
+    "motor",
+    "rattle"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:56.545141Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

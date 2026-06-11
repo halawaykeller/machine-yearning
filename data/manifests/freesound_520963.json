@@ -1,0 +1,32 @@
+{
+  "id": "freesound_520963",
+  "filename": "520963_laser-charge-and-fire.mp3",
+  "title": "Laser Charge And Fire",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/HappyFlappyGuy/sounds/520963/",
+  "source_id": "520963",
+  "license": "CC0-1.0",
+  "license_attribution": "HappyFlappyGuy",
+  "duration_sec": 6.211,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Bang",
+    "Charge",
+    "Fast",
+    "Fire",
+    "Gun",
+    "Laser",
+    "Loud",
+    "Machine",
+    "Sci-Fi",
+    "Space",
+    "Weapon"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:17.481519Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

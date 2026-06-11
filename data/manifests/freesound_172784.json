@@ -1,0 +1,28 @@
+{
+  "id": "freesound_172784",
+  "filename": "172784_space-invaders-wav.mp3",
+  "title": "Space invaders.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/KeyKrusher/sounds/172784/",
+  "source_id": "172784",
+  "license": "CC-BY-4.0",
+  "license_attribution": "KeyKrusher",
+  "duration_sec": 23.6135,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Invaders",
+    "Space",
+    "beep",
+    "continuum-4",
+    "entex",
+    "game",
+    "sound-museum"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:18.987581Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

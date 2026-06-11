@@ -1,0 +1,27 @@
+{
+  "id": "freesound_244603",
+  "filename": "244603_reactos-shutdown-ogg.mp3",
+  "title": "ReactOS shutdown.ogg",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/jobro/sounds/244603/",
+  "source_id": "244603",
+  "license": "CC0-1.0",
+  "license_attribution": "jobro",
+  "duration_sec": 6.85714,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "ReactOS",
+    "down",
+    "jingle",
+    "shut",
+    "shutdown",
+    "tune"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:31.207022Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

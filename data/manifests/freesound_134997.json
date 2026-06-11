@@ -1,0 +1,24 @@
+{
+  "id": "freesound_134997",
+  "filename": "134997_computer-fan-wav.mp3",
+  "title": "computer fan.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/hdrck16/sounds/134997/",
+  "source_id": "134997",
+  "license": "CC-BY-3.0",
+  "license_attribution": "hdrck16",
+  "duration_sec": 10.8205,
+  "machine_type": "laptop",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "laptop"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:59.877865Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

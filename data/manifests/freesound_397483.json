@@ -1,0 +1,30 @@
+{
+  "id": "freesound_397483",
+  "filename": "397483_pgj-telpickupcoil-recording-raw-07-exterior-hard-drive.mp3",
+  "title": "PGJ TelPickupCoil Recording Raw.07 Exterior Hard Drive",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Theogobbo/sounds/397483/",
+  "source_id": "397483",
+  "license": "CC0-1.0",
+  "license_attribution": "Theogobbo",
+  "duration_sec": 15.2107,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "drive",
+    "electric-current",
+    "electricity",
+    "hard",
+    "hum",
+    "noise",
+    "shut-down",
+    "start-up",
+    "telephone-pickup-coil"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:31.528367Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

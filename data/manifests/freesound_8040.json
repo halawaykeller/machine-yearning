@@ -1,0 +1,27 @@
+{
+  "id": "freesound_8040",
+  "filename": "8040_modem-1-59-wav.mp3",
+  "title": "Modem#1.59.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/schluppipuppie/sounds/8040/",
+  "source_id": "8040",
+  "license": "CC-BY-4.0",
+  "license_attribution": "schluppipuppie",
+  "duration_sec": 0.625442,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "call",
+    "computer",
+    "cut",
+    "modem",
+    "powerbook",
+    "unprocessed"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:37.568010Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "freesound_660402",
+  "filename": "660402_futuristic-laser-shutdown.mp3",
+  "title": "futuristic_laser_shutdown",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MiscPractice/sounds/660402/",
+  "source_id": "660402",
+  "license": "CC-BY-4.0",
+  "license_attribution": "MiscPractice",
+  "duration_sec": 10.24,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "future",
+    "futuristic",
+    "laser",
+    "sci-fi",
+    "shutdown",
+    "spaceship",
+    "spectrogram"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:54.219162Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

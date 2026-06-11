@@ -1,0 +1,27 @@
+{
+  "id": "freesound_680168",
+  "filename": "680168_smoke-detector.mp3",
+  "title": "Smoke Detector",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/everythingsounds/sounds/680168/",
+  "source_id": "680168",
+  "license": "CC-BY-4.0",
+  "license_attribution": "everythingsounds",
+  "duration_sec": 0.42415,
+  "machine_type": "battery",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "battery",
+    "beep",
+    "beeping",
+    "smoke-alarm",
+    "smoke-detector"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:12.339511Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

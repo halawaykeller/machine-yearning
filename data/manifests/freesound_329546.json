@@ -1,0 +1,29 @@
+{
+  "id": "freesound_329546",
+  "filename": "329546_computer-tower-fan-front-wav.mp3",
+  "title": "Computer_Tower_Fan_Front.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ivolipa/sounds/329546/",
+  "source_id": "329546",
+  "license": "CC0-1.0",
+  "license_attribution": "ivolipa",
+  "duration_sec": 18.7659,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Computer",
+    "Cooler",
+    "Electronic",
+    "Fan",
+    "Office",
+    "PC",
+    "Sounds",
+    "Ventilator"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:40.026965Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "freesound_432147",
+  "filename": "432147_harddrivespinup-ogg.mp3",
+  "title": "HardDriveSpinup.ogg",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Danwardvs/sounds/432147/",
+  "source_id": "432147",
+  "license": "CC0-1.0",
+  "license_attribution": "Danwardvs",
+  "duration_sec": 6.09524,
+  "machine_type": "hdd",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "drive",
+    "electronic",
+    "hard",
+    "hdd",
+    "machine",
+    "mechanical",
+    "motor"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:38.218663Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

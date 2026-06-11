@@ -1,0 +1,25 @@
+{
+  "id": "freesound_101397",
+  "filename": "101397_pc-computer-fan-wav.mp3",
+  "title": "PC Computer Fan.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/earthsounds/sounds/101397/",
+  "source_id": "101397",
+  "license": "CC-BY-3.0",
+  "license_attribution": "earthsounds",
+  "duration_sec": 19.319,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "fans",
+    "pc"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:04.076445Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

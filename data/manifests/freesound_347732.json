@@ -1,0 +1,31 @@
+{
+  "id": "freesound_347732",
+  "filename": "347732_samsung-galaxy-s7-startup.mp3",
+  "title": "Samsung Galaxy S7 Startup",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SgtPepperArc360/sounds/347732/",
+  "source_id": "347732",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "SgtPepperArc360",
+  "duration_sec": 4.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Galaxy",
+    "Samsung",
+    "logo",
+    "my-interpretation",
+    "power-on",
+    "s-series",
+    "sound",
+    "startup",
+    "system",
+    "welcome"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:18:09.155013Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

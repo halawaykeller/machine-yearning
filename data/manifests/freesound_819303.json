@@ -1,0 +1,27 @@
+{
+  "id": "freesound_819303",
+  "filename": "819303_alrmclok-blue-snowball-microphone-cu-windup-ringing-nicholas.mp3",
+  "title": "ALRMClok-Blue Snowball Microphone, CU_Windup, Ringing_Nicholas Judy_TDC",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/designerschoice/sounds/819303/",
+  "source_id": "819303",
+  "license": "CC0-1.0",
+  "license_attribution": "designerschoice",
+  "duration_sec": 24.3239,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Blue-Snowball",
+    "Blue-brand",
+    "alarm",
+    "clock",
+    "ring",
+    "wind-up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:40.188687Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

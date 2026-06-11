@@ -1,0 +1,24 @@
+{
+  "id": "freesound_642308",
+  "filename": "642308_low-voltage-computer-voice-sample-sound.mp3",
+  "title": "Low Voltage - Computer Voice Sample Sound",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/sketchy.dog/sounds/642308/",
+  "source_id": "642308",
+  "license": "CC-BY-4.0",
+  "license_attribution": "sketchy.dog",
+  "duration_sec": 1.57083,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "malfunctioning",
+    "technology"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:21:45.727599Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

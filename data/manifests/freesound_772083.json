@@ -1,0 +1,32 @@
+{
+  "id": "freesound_772083",
+  "filename": "772083_electromenchanical-fan.mp3",
+  "title": "electromenchanical_fan",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/itinerantmonk108/sounds/772083/",
+  "source_id": "772083",
+  "license": "CC0-1.0",
+  "license_attribution": "itinerantmonk108",
+  "duration_sec": 14.6773,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "electric",
+    "electrical",
+    "fan",
+    "hum",
+    "industrial",
+    "machine",
+    "machinery",
+    "mechanical",
+    "motor",
+    "noise",
+    "power"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:43.035388Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

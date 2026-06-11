@@ -1,0 +1,24 @@
+{
+  "id": "freesound_487355",
+  "filename": "487355_pc-fan-wav.mp3",
+  "title": "PC-fan.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/whathead07/sounds/487355/",
+  "source_id": "487355",
+  "license": "CC0-1.0",
+  "license_attribution": "whathead07",
+  "duration_sec": 29.9776,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "pc"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:28.390894Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

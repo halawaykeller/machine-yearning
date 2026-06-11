@@ -1,0 +1,27 @@
+{
+  "id": "freesound_855908",
+  "filename": "855908_deep-spaceship-alarm.mp3",
+  "title": "Deep spaceship alarm",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/nicorico_120/sounds/855908/",
+  "source_id": "855908",
+  "license": "CC0-1.0",
+  "license_attribution": "nicorico_120",
+  "duration_sec": 14.7994,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "beepbox",
+    "dark",
+    "deep",
+    "scifi",
+    "spaceship"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:26.603809Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "freesound_553276",
+  "filename": "553276_flush-2-wav.mp3",
+  "title": "flush 2.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/itinerantmonk108/sounds/553276/",
+  "source_id": "553276",
+  "license": "CC0-1.0",
+  "license_attribution": "itinerantmonk108",
+  "duration_sec": 9.66531,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bathroom",
+    "flush",
+    "foley",
+    "toilet"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:44.062373Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

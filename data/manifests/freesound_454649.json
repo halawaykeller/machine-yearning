@@ -1,0 +1,30 @@
+{
+  "id": "freesound_454649",
+  "filename": "454649_modem-3-aif.mp3",
+  "title": "MODEM_3.aif",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/G_M_D_THREE/sounds/454649/",
+  "source_id": "454649",
+  "license": "CC0-1.0",
+  "license_attribution": "G_M_D_THREE",
+  "duration_sec": 17.8445,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "14k",
+    "1999",
+    "dial",
+    "dial-up",
+    "internet",
+    "modem",
+    "phone",
+    "telephone",
+    "tones"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:47.016216Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

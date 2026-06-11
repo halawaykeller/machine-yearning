@@ -1,0 +1,29 @@
+{
+  "id": "freesound_685335",
+  "filename": "685335_notification-sound-for-nothing-phone-1.mp3",
+  "title": "Notification Sound for Nothing Phone (1)",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Entagon/sounds/685335/",
+  "source_id": "685335",
+  "license": "CC0-1.0",
+  "license_attribution": "Entagon",
+  "duration_sec": 2.06474,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bleep",
+    "blip",
+    "effect",
+    "notification",
+    "sfx",
+    "short",
+    "sound",
+    "sound-design"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:33.227318Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

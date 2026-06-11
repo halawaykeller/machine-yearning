@@ -1,0 +1,32 @@
+{
+  "id": "freesound_456988",
+  "filename": "456988_camera-with-flash-sound-and-then-charge-fast.mp3",
+  "title": "Camera with Flash Sound and then Charge (fast)",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/RegoneFF/sounds/456988/",
+  "source_id": "456988",
+  "license": "CC0-1.0",
+  "license_attribution": "RegoneFF",
+  "duration_sec": 1.15472,
+  "machine_type": "camera",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Action",
+    "Camera",
+    "Charge",
+    "Fast",
+    "Flash",
+    "Intense",
+    "Nightvision",
+    "game",
+    "impact",
+    "ramp",
+    "video"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:29.252734Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

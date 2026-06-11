@@ -1,0 +1,28 @@
+{
+  "id": "freesound_815288",
+  "filename": "815288_bim-generic-notification-sound-for-email-messenger-etc.mp3",
+  "title": "Bim - Generic Notification Sound for Email, Messenger etc.",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Demcker/sounds/815288/",
+  "source_id": "815288",
+  "license": "CC0-1.0",
+  "license_attribution": "Demcker",
+  "duration_sec": 2.0,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Fx",
+    "Instrument",
+    "Message",
+    "Notification",
+    "Sound",
+    "Telephone",
+    "Tone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:32.430331Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

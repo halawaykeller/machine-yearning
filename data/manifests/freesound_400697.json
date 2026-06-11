@@ -1,0 +1,28 @@
+{
+  "id": "freesound_400697",
+  "filename": "400697_messenger-notification-sound-imitation-wav.mp3",
+  "title": "Messenger Notification Sound Imitation.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Daphne_in_Wonderland/sounds/400697/",
+  "source_id": "400697",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Daphne_in_Wonderland",
+  "duration_sec": 1.73233,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "application",
+    "glockenspiel",
+    "message",
+    "messenger",
+    "notification",
+    "smartphone",
+    "sound"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:36:30.804070Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

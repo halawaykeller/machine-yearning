@@ -1,0 +1,26 @@
+{
+  "id": "freesound_843620",
+  "filename": "843620_fan-blowing.mp3",
+  "title": "fan blowing",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/KAT2384177/sounds/843620/",
+  "source_id": "843620",
+  "license": "CC-BY-4.0",
+  "license_attribution": "KAT2384177",
+  "duration_sec": 7.91142,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "air",
+    "blow",
+    "cool",
+    "electronic",
+    "fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:49.865426Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

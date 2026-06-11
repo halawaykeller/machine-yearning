@@ -1,0 +1,31 @@
+{
+  "id": "freesound_409031",
+  "filename": "409031_ps4-getting-switched-on-wav.mp3",
+  "title": "PS4 getting switched on.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/HelterSkelter1114/sounds/409031/",
+  "source_id": "409031",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "HelterSkelter1114",
+  "duration_sec": 18.296,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "ON",
+    "OWI",
+    "PS4",
+    "PlayStation",
+    "beep",
+    "console",
+    "electronic",
+    "fan",
+    "noisy",
+    "power"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:25.907225Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "freesound_19466",
+  "filename": "19466_awfulthesample-haribo5-2-wav.mp3",
+  "title": "awfulTHEsample_haribo5-2.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/awfulTHEsample/sounds/19466/",
+  "source_id": "19466",
+  "license": "CC0-1.0",
+  "license_attribution": "awfulTHEsample",
+  "duration_sec": 1.10868,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bass",
+    "game",
+    "game-device",
+    "handheld",
+    "haribo",
+    "raw",
+    "saw",
+    "synthetic",
+    "tronic"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:06.176845Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

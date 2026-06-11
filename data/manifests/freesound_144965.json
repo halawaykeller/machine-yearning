@@ -1,0 +1,25 @@
+{
+  "id": "freesound_144965",
+  "filename": "144965_uoa-pj120202-mestonfanh2-wav.mp3",
+  "title": "UoA_PJ120202_MestonFanH2.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MacFerret_20/sounds/144965/",
+  "source_id": "144965",
+  "license": "CC-BY-4.0",
+  "license_attribution": "MacFerret_20",
+  "duration_sec": 20.0,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Fan",
+    "buzz",
+    "hiss",
+    "rumble"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:26.600543Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

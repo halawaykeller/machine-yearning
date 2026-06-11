@@ -1,0 +1,25 @@
+{
+  "id": "freesound_345180",
+  "filename": "345180_wakingup1-wav.mp3",
+  "title": "WakingUp1.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/KuoShu/sounds/345180/",
+  "source_id": "345180",
+  "license": "CC-BY-3.0",
+  "license_attribution": "KuoShu",
+  "duration_sec": 20.2478,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Alarm",
+    "Bedroom",
+    "Morning",
+    "Wake-up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:15.479288Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "freesound_331423",
+  "filename": "331423_old-computer-shutting-down2.mp3",
+  "title": "Old computer shutting down2",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/supersnd/sounds/331423/",
+  "source_id": "331423",
+  "license": "CC0-1.0",
+  "license_attribution": "supersnd",
+  "duration_sec": 1.91995,
+  "machine_type": "phone",
+  "machine_specifics": null,
+  "mood_tags": [
+    "4s",
+    "MSI",
+    "computer",
+    "iPhone",
+    "old",
+    "shutdown",
+    "windows"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:34.132590Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

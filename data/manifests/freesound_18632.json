@@ -1,0 +1,28 @@
+{
+  "id": "freesound_18632",
+  "filename": "18632_watch-alarm-aif.mp3",
+  "title": "watch_alarm.aif",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/tim.kahn/sounds/18632/",
+  "source_id": "18632",
+  "license": "CC-BY-4.0",
+  "license_attribution": "tim.kahn",
+  "duration_sec": 19.8917,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "alarm-clock",
+    "beep",
+    "beeps",
+    "timex",
+    "watch",
+    "wrist-watch"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:04.996331Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

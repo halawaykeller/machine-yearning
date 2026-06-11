@@ -1,0 +1,30 @@
+{
+  "id": "freesound_259293",
+  "filename": "259293_floppy-disk-drive-insert.mp3",
+  "title": "Floppy disk drive - insert",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/MrAuralization/sounds/259293/",
+  "source_id": "259293",
+  "license": "CC-BY-4.0",
+  "license_attribution": "MrAuralization",
+  "duration_sec": 2.4473,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "disk",
+    "diskette",
+    "drive",
+    "fdd",
+    "floppy",
+    "hard-drive",
+    "insert",
+    "pc"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:48.235480Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

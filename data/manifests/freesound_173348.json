@@ -1,0 +1,24 @@
+{
+  "id": "freesound_173348",
+  "filename": "173348_computer-fan-wav.mp3",
+  "title": "Computer Fan.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/freesoundjon01/sounds/173348/",
+  "source_id": "173348",
+  "license": "CC0-1.0",
+  "license_attribution": "freesoundjon01",
+  "duration_sec": 25.6627,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Computer",
+    "Disk",
+    "Fan"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:24.369036Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

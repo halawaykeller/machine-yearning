@@ -1,0 +1,31 @@
+{
+  "id": "freesound_550457",
+  "filename": "550457_internal-diskette-drive-writing.mp3",
+  "title": "Internal diskette drive writing",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/607freesound/sounds/550457/",
+  "source_id": "550457",
+  "license": "CC0-1.0",
+  "license_attribution": "607freesound",
+  "duration_sec": 24.3948,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "atari",
+    "computer",
+    "data",
+    "diskette",
+    "floppy",
+    "retro",
+    "saving",
+    "st",
+    "ste",
+    "writing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:46.449991Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

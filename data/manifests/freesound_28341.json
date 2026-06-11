@@ -1,0 +1,27 @@
+{
+  "id": "freesound_28341",
+  "filename": "28341_5400-spin-down-wav.mp3",
+  "title": "5400_spin-down.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/xsub/sounds/28341/",
+  "source_id": "28341",
+  "license": "CC-Sampling-Plus-1.0",
+  "license_attribution": "xsub",
+  "duration_sec": 2.96957,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "drive",
+    "hard",
+    "harddrive",
+    "hd",
+    "motor"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:24.072749Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

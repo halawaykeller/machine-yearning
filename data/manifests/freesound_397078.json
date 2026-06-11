@@ -1,0 +1,26 @@
+{
+  "id": "freesound_397078",
+  "filename": "397078_digitalradio-modem1-wav.mp3",
+  "title": "digitalradio_modem1.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/relwin/sounds/397078/",
+  "source_id": "397078",
+  "license": "CC0-1.0",
+  "license_attribution": "relwin",
+  "duration_sec": 15.0847,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "electric",
+    "electronic",
+    "modem",
+    "noise",
+    "radio"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:34:13.337250Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

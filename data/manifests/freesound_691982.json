@@ -1,0 +1,26 @@
+{
+  "id": "freesound_691982",
+  "filename": "691982_dial-up-paulstretch.mp3",
+  "title": "Dial-up Paulstretch",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/JUPITER_X/sounds/691982/",
+  "source_id": "691982",
+  "license": "CC0-1.0",
+  "license_attribution": "JUPITER_X",
+  "duration_sec": 7.168,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "8-bit",
+    "dial-up",
+    "internet",
+    "loop",
+    "paulstretch"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:34:53.703336Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "freesound_72561",
+  "filename": "72561_pagerbeeps-wav.mp3",
+  "title": "PagerBeeps.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/snardin42/sounds/72561/",
+  "source_id": "72561",
+  "license": "CC0-1.0",
+  "license_attribution": "snardin42",
+  "duration_sec": 8.85152,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "beep",
+    "beeper",
+    "beeps",
+    "chirp",
+    "electronic",
+    "pager"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:22:21.770090Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

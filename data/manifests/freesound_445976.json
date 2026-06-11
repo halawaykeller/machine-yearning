@@ -1,0 +1,33 @@
+{
+  "id": "freesound_445976",
+  "filename": "445976_error-signal-1.mp3",
+  "title": "Error Signal 1",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Breviceps/sounds/445976/",
+  "source_id": "445976",
+  "license": "CC0-1.0",
+  "license_attribution": "Breviceps",
+  "duration_sec": 0.551202,
+  "machine_type": "computer",
+  "machine_specifics": null,
+  "mood_tags": [
+    "8bit",
+    "beep",
+    "computer",
+    "denied",
+    "digital",
+    "error",
+    "failure",
+    "message",
+    "mistake",
+    "password",
+    "signal",
+    "wrong"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:33:20.343017Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

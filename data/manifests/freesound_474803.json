@@ -1,0 +1,26 @@
+{
+  "id": "freesound_474803",
+  "filename": "474803_computerfanloop-wav.mp3",
+  "title": "ComputerFanLoop.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Kragnour/sounds/474803/",
+  "source_id": "474803",
+  "license": "CC0-1.0",
+  "license_attribution": "Kragnour",
+  "duration_sec": 6.01025,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "noctua",
+    "noise",
+    "soundfx"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:26:26.297170Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

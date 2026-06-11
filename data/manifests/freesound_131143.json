@@ -1,0 +1,25 @@
+{
+  "id": "freesound_131143",
+  "filename": "131143_computerhum-mp3.mp3",
+  "title": "ComputerHum.mp3",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/elle-trudgett/sounds/131143/",
+  "source_id": "131143",
+  "license": "CC0-1.0",
+  "license_attribution": "elle-trudgett",
+  "duration_sec": 17.949,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "fan",
+    "hum",
+    "tower"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:27:19.747698Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

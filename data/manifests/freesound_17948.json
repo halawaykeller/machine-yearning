@@ -1,0 +1,27 @@
+{
+  "id": "freesound_17948",
+  "filename": "17948_sound-floppy1-mp3.mp3",
+  "title": "sound-floppy1.mp3",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/zippi1/sounds/17948/",
+  "source_id": "17948",
+  "license": "CC-BY-NC-4.0",
+  "license_attribution": "zippi1",
+  "duration_sec": 9.86229,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "disc",
+    "disk",
+    "drive",
+    "floppy",
+    "pc",
+    "writing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:12.791577Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

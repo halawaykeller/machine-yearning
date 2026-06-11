@@ -1,0 +1,27 @@
+{
+  "id": "freesound_788790",
+  "filename": "788790_telephone-hang-off-dial-hung-up.mp3",
+  "title": "TELEPHONE HANG OFF, DIAL, HUNG UP",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Tormy/sounds/788790/",
+  "source_id": "788790",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Tormy",
+  "duration_sec": 10.296,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "DIAL",
+    "HANG",
+    "HUNG",
+    "OFF",
+    "TELEPHONE",
+    "UP"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:35:21.848482Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

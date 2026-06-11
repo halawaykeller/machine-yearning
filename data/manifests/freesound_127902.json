@@ -1,0 +1,25 @@
+{
+  "id": "freesound_127902",
+  "filename": "127902_hero-of-the-winds-dial-up-tone-1-wav.mp3",
+  "title": "-Hero_of_the_Winds-_Dial-Up_Tone_1.wav",
+  "channel": "talk_to_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/-Hero_of_the_Winds-/sounds/127902/",
+  "source_id": "127902",
+  "license": "CC0-1.0",
+  "license_attribution": "-Hero_of_the_Winds-",
+  "duration_sec": 27.8214,
+  "machine_type": "modem",
+  "machine_specifics": null,
+  "mood_tags": [
+    "bleeps",
+    "computers",
+    "internet",
+    "slow"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:35:01.483987Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "freesound_163645",
+  "filename": "163645_mechanical-shutdown.mp3",
+  "title": "Mechanical Shutdown",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/AudioBitsAndBytes/sounds/163645/",
+  "source_id": "163645",
+  "license": "CC0-1.0",
+  "license_attribution": "AudioBitsAndBytes",
+  "duration_sec": 12.0066,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "door",
+    "effect",
+    "fantasy",
+    "machine",
+    "mechanical",
+    "noise",
+    "scifi",
+    "shutdown",
+    "sound"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:21.844967Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

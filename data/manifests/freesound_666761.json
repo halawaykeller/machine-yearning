@@ -1,0 +1,25 @@
+{
+  "id": "freesound_666761",
+  "filename": "666761_smoke-alarm.mp3",
+  "title": "smoke alarm",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/opalmirage/sounds/666761/",
+  "source_id": "666761",
+  "license": "CC0-1.0",
+  "license_attribution": "opalmirage",
+  "duration_sec": 24.8533,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "emergency",
+    "smoke-alarm",
+    "warning"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:24:32.454346Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

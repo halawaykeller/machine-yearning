@@ -1,0 +1,25 @@
+{
+  "id": "freesound_180737",
+  "filename": "180737_alarm-ringing-wav.mp3",
+  "title": "alarm_ringing.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/mohomran/sounds/180737/",
+  "source_id": "180737",
+  "license": "CC0-1.0",
+  "license_attribution": "mohomran",
+  "duration_sec": 2.736,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "bell",
+    "ring",
+    "ringing"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:09.016038Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

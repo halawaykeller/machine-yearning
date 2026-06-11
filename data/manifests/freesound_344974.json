@@ -1,0 +1,33 @@
+{
+  "id": "freesound_344974",
+  "filename": "344974_computer-start-up.mp3",
+  "title": "Computer Start Up",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/VKProduktion/sounds/344974/",
+  "source_id": "344974",
+  "license": "CC0-1.0",
+  "license_attribution": "VKProduktion",
+  "duration_sec": 21.3578,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "CPU",
+    "Computer",
+    "Fan",
+    "Gadget",
+    "Office",
+    "PC",
+    "Peep",
+    "Technic",
+    "power",
+    "power-on",
+    "start-up",
+    "startup"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:05.837027Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

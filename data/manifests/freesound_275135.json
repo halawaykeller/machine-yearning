@@ -1,0 +1,33 @@
+{
+  "id": "freesound_275135",
+  "filename": "275135_hdd-fan-ventilator-atmo.mp3",
+  "title": "HDD fan - Ventilator - Atmo",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/rfmfilm/sounds/275135/",
+  "source_id": "275135",
+  "license": "CC-BY-4.0",
+  "license_attribution": "rfmfilm",
+  "duration_sec": 25.3268,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "ambient",
+    "atmo",
+    "atmosphere",
+    "fan",
+    "hard-drive",
+    "hd",
+    "hdd",
+    "rack",
+    "room",
+    "server",
+    "server-room",
+    "ventilator"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:34.486526Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

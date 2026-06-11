@@ -1,0 +1,29 @@
+{
+  "id": "freesound_843330",
+  "filename": "843330_power-up.mp3",
+  "title": "Power_Up",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/gulfstreamav/sounds/843330/",
+  "source_id": "843330",
+  "license": "CC0-1.0",
+  "license_attribution": "gulfstreamav",
+  "duration_sec": 3.25506,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "Power",
+    "charge",
+    "charging",
+    "energy",
+    "gun",
+    "loading",
+    "robot",
+    "up"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:20:57.087619Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

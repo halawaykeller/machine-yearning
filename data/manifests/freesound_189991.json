@@ -1,0 +1,28 @@
+{
+  "id": "freesound_189991",
+  "filename": "189991_ac-fan-w-switch-on-compressor-flac.mp3",
+  "title": "ac fan w switch-on compressor.flac",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/raygrote/sounds/189991/",
+  "source_id": "189991",
+  "license": "CC0-1.0",
+  "license_attribution": "raygrote",
+  "duration_sec": 18.08,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "AC",
+    "Close-up",
+    "Compressor",
+    "Fan",
+    "Power-on",
+    "Stereo",
+    "air-conditioner"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:32:48.019677Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

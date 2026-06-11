@@ -1,0 +1,27 @@
+{
+  "id": "freesound_128910",
+  "filename": "128910_alarm-clock-wav.mp3",
+  "title": "Alarm Clock.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ecfike/sounds/128910/",
+  "source_id": "128910",
+  "license": "CC0-1.0",
+  "license_attribution": "ecfike",
+  "duration_sec": 6.06871,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "alarm-clock",
+    "annoying",
+    "appliance",
+    "clock",
+    "loud"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:17.103124Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

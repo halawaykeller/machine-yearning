@@ -1,0 +1,29 @@
+{
+  "id": "freesound_611216",
+  "filename": "611216_ejecting-floppy-in-macintosh-se.mp3",
+  "title": "Ejecting Floppy In Macintosh SE",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SieuAmThanh/sounds/611216/",
+  "source_id": "611216",
+  "license": "CC0-1.0",
+  "license_attribution": "SieuAmThanh",
+  "duration_sec": 9.13298,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "apple",
+    "computer",
+    "disk",
+    "drive",
+    "floppy",
+    "mac",
+    "macintosh",
+    "reject"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:22.142396Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

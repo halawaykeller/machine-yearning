@@ -1,0 +1,29 @@
+{
+  "id": "freesound_611215",
+  "filename": "611215_inserting-floppy-in-macintosh-se.mp3",
+  "title": "Inserting Floppy In Macintosh SE",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/SieuAmThanh/sounds/611215/",
+  "source_id": "611215",
+  "license": "CC0-1.0",
+  "license_attribution": "SieuAmThanh",
+  "duration_sec": 10.765,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "apple",
+    "computer",
+    "disk",
+    "drive",
+    "floppy",
+    "insert",
+    "mac",
+    "macintosh"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:31:19.410418Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "freesound_120845",
+  "filename": "120845_fan-sound-from-my-external-hard-drive-wav.mp3",
+  "title": "fan sound- from my external hard drive.wav",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/freemaster2/sounds/120845/",
+  "source_id": "120845",
+  "license": "CC0-1.0",
+  "license_attribution": "freemaster2",
+  "duration_sec": 5.4375,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "cooling",
+    "drive",
+    "external",
+    "fan",
+    "hard",
+    "whirr"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:35.333141Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

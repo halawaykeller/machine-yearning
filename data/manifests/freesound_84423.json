@@ -1,0 +1,23 @@
+{
+  "id": "freesound_84423",
+  "filename": "84423_alarm-clock-wav.mp3",
+  "title": "alarm clock.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/g_lowing/sounds/84423/",
+  "source_id": "84423",
+  "license": "CC-BY-3.0",
+  "license_attribution": "g_lowing",
+  "duration_sec": 6.4,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "alarm",
+    "clock"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:25:08.209124Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

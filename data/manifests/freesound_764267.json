@@ -1,0 +1,28 @@
+{
+  "id": "freesound_764267",
+  "filename": "764267_crwdbatl-crowd-yells-charge-continues-shanevincent-gsc24-spa.mp3",
+  "title": "CRWDBatl_Crowd Yells Charge, Continues_ShaneVincent_GSC24_SpacedOmni-MK012.wav",
+  "channel": "charge_me",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/ShangusBurger/sounds/764267/",
+  "source_id": "764267",
+  "license": "CC0-1.0",
+  "license_attribution": "ShangusBurger",
+  "duration_sec": 11.0344,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "angry",
+    "battle",
+    "charge",
+    "crowd",
+    "fight",
+    "group",
+    "yell"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:23:15.803425Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

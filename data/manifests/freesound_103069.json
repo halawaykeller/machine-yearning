@@ -1,0 +1,27 @@
+{
+  "id": "freesound_103069",
+  "filename": "103069_windows-close-wav.mp3",
+  "title": "windows close.wav",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/eggtimer/sounds/103069/",
+  "source_id": "103069",
+  "license": "CC-BY-4.0",
+  "license_attribution": "eggtimer",
+  "duration_sec": 1.5093,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "metaphor",
+    "recorded",
+    "shutdown",
+    "vista",
+    "windows",
+    "xp"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:19:33.199645Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

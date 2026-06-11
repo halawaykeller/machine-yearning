@@ -1,0 +1,24 @@
+{
+  "id": "freesound_787576",
+  "filename": "787576_pc-startup-sound.mp3",
+  "title": "PC Startup Sound",
+  "channel": "turn_me_on",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/NazarHK/sounds/787576/",
+  "source_id": "787576",
+  "license": "CC0-1.0",
+  "license_attribution": "NazarHK",
+  "duration_sec": 8.52601,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [
+    "pc",
+    "sound",
+    "startup"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:18:21.964553Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

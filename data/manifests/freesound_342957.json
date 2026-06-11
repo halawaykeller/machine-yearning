@@ -1,0 +1,30 @@
+{
+  "id": "freesound_342957",
+  "filename": "342957_computer-hp-dx5150mt-external-noise.mp3",
+  "title": "Computer HP DX5150MT - External Noise",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/Vlaxim/sounds/342957/",
+  "source_id": "342957",
+  "license": "CC-BY-4.0",
+  "license_attribution": "Vlaxim",
+  "duration_sec": 9.99601,
+  "machine_type": "fan",
+  "machine_specifics": null,
+  "mood_tags": [
+    "computer",
+    "electronics",
+    "fan",
+    "fans",
+    "heatsink",
+    "hum",
+    "machine",
+    "mechanical",
+    "noise"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:08.551935Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

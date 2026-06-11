@@ -1,0 +1,24 @@
+{
+  "id": "freesound_628245",
+  "filename": "628245_floppy-eject-ogg.mp3",
+  "title": "floppy_eject.ogg",
+  "channel": "in_your_ear",
+  "source": "freesound",
+  "source_url": "https://freesound.org/people/asiekierka/sounds/628245/",
+  "source_id": "628245",
+  "license": "CC0-1.0",
+  "license_attribution": "asiekierka",
+  "duration_sec": 0.599501,
+  "machine_type": "floppy",
+  "machine_specifics": null,
+  "mood_tags": [
+    "amiga",
+    "drive",
+    "floppy"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:30:58.051449Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}
