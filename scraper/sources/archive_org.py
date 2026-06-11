@@ -15,10 +15,10 @@ from pathlib import Path
 from ..manifest import Clip, Channel, RAW_DIR
 
 CHANNEL_QUERIES: dict[str, str] = {
-    "boot_shutdown": 'subject:"boot sound" OR subject:"startup" OR title:"boot chime"',
-    "power_battery": 'subject:"low battery" OR title:"battery beep" OR title:"UPS"',
-    "fans_drives":   'subject:"hard drive" OR title:"floppy drive" OR title:"server fan"',
-    "alerts_errors": 'subject:"modem" OR title:"dial-up" OR title:"error beep" OR title:"fax"',
+    "turn_me_on":  'subject:"boot sound" OR subject:"startup" OR title:"boot chime"',
+    "charge_me":   'subject:"low battery" OR title:"battery beep" OR title:"UPS"',
+    "in_your_ear": 'subject:"hard drive" OR title:"floppy drive" OR title:"server fan"',
+    "talk_to_me":  'subject:"modem" OR title:"dial-up" OR title:"error beep" OR title:"fax"',
 }
 
 # archive.org license URLs we'll accept

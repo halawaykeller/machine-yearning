@@ -29,10 +29,10 @@ API_BASE = "https://sound-effects-api.bbcrewind.co.uk/api/sfx/search"
 DOWNLOAD_BASE = "https://sound-effects-media.bbcrewind.co.uk/mp3"
 
 CHANNEL_QUERIES: dict[str, str] = {
-    "boot_shutdown": "computer startup",
-    "power_battery": "battery low",
-    "fans_drives":   "fan computer",
-    "alerts_errors": "modem dialup",
+    "turn_me_on":  "computer startup",
+    "charge_me":   "battery low",
+    "in_your_ear": "fan computer",
+    "talk_to_me":  "modem dialup",
 }
 
 

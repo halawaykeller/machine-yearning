@@ -26,10 +26,10 @@ SEARCH_URL = f"{API_BASE}/search/text/"
 # Freesound's `query` param does not support OR; we issue one search per term
 # and dedupe across them. Tunable — the editorial pass will fix mis-tagging.
 CHANNEL_QUERIES: dict[str, list[str]] = {
-    "boot_shutdown": ["boot chime", "startup sound", "shutdown sound", "power on", "POST beep", "computer chime"],
-    "power_battery": ["low battery", "battery beep", "charge sound", "UPS alarm", "plug in"],
-    "fans_drives":   ["computer fan", "hard drive", "floppy drive", "cooling fan", "server hum", "hdd"],
-    "alerts_errors": ["error beep", "modem", "dial-up", "fax tone", "notification sound", "alert"],
+    "turn_me_on":  ["boot chime", "startup sound", "shutdown sound", "power on", "POST beep", "computer chime"],
+    "charge_me":   ["low battery", "battery beep", "charge sound", "UPS alarm", "plug in"],
+    "in_your_ear": ["computer fan", "hard drive", "floppy drive", "cooling fan", "server hum", "hdd"],
+    "talk_to_me":  ["error beep", "modem", "dial-up", "fax tone", "notification sound", "alert"],
 }
 
 # Map Freesound license values to our SPDX-ish tags. Filter out non-CC.

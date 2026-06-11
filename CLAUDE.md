@@ -56,7 +56,7 @@ python scripts/build_channels.py
 
 ## Dev loop
 
-1. Scrape: `python -m scraper freesound --channel boot_shutdown --limit 10`
+1. Scrape: `python -m scraper freesound --channel turn_me_on --limit 10`
 2. Normalize: `python -m scraper normalize`
 3. Build channel index: `python scripts/build_channels.py`
 4. Serve: `python -m http.server -d web 8000` → open <http://localhost:8000>
