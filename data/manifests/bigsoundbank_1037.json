@@ -1,0 +1,30 @@
+{
+  "id": "bigsoundbank_1037",
+  "filename": "1037.mp3",
+  "title": "White Noise",
+  "channel": "in_your_ear",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/white-noise-s1037.html",
+  "source_id": "1037",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 300.0,
+  "machine_type": "crt",
+  "machine_specifics": "CRT Screen",
+  "mood_tags": [
+    "Color",
+    "Colored",
+    "Noise",
+    "Pink",
+    "Screen",
+    "Snow",
+    "Static",
+    "Television",
+    "White"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:22.547196Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

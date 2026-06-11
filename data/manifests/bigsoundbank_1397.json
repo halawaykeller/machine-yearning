@@ -1,0 +1,28 @@
+{
+  "id": "bigsoundbank_1397",
+  "filename": "1397.mp3",
+  "title": "Floppy disk (3.5\"), output",
+  "channel": "in_your_ear",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/floppy-disk-3-5-output-s1397.html",
+  "source_id": "1397",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 2.0,
+  "machine_type": "floppy",
+  "machine_specifics": "3.5\" Floppy Disk",
+  "mood_tags": [
+    "Computer",
+    "Disk",
+    "Drive",
+    "Floppy",
+    "Old",
+    "Output",
+    "Retro"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:12.411403Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bigsoundbank_1396",
+  "filename": "1396.mp3",
+  "title": "Floppy disk (3.5\"), reading",
+  "channel": "in_your_ear",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/floppy-disk-3-5-reading-s1396.html",
+  "source_id": "1396",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 23.0,
+  "machine_type": "floppy",
+  "machine_specifics": "3.5\" Floppy Disk",
+  "mood_tags": [
+    "Computer",
+    "Disk",
+    "Drive",
+    "Floppy",
+    "Input",
+    "Old",
+    "Read",
+    "Reading",
+    "Retro"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:10.749156Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

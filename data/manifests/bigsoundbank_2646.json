@@ -1,0 +1,27 @@
+{
+  "id": "bigsoundbank_2646",
+  "filename": "2646.mp3",
+  "title": "Speaking clock, beep #1",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/speaking-clock-beep-1-s2646.html",
+  "source_id": "2646",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 1.0,
+  "machine_type": "clock",
+  "machine_specifics": "Speaking Clock",
+  "mood_tags": [
+    "1",
+    "2",
+    "3",
+    "Beep",
+    "Hour",
+    "Hourly"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:06.998380Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

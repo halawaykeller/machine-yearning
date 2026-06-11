@@ -1,0 +1,28 @@
+{
+  "id": "bigsoundbank_2648",
+  "filename": "2648.mp3",
+  "title": "Speaking clock #1",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/speaking-clock-1-s2648.html",
+  "source_id": "2648",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 55.0,
+  "machine_type": "phone",
+  "machine_specifics": "Speaking Clock",
+  "mood_tags": [
+    "1",
+    "5",
+    "Beep",
+    "Dial",
+    "Hour",
+    "Hourly",
+    "Phone"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:05.388273Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bigsoundbank_3571",
+  "filename": "3571.mp3",
+  "title": "Eurosignal",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/eurosignal-s3571.html",
+  "source_id": "3571",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 81.0,
+  "machine_type": "pager",
+  "machine_specifics": "Pager",
+  "mood_tags": [
+    "Broadcast",
+    "Eurosignal",
+    "Paging",
+    "Radio",
+    "Service"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:35.457702Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

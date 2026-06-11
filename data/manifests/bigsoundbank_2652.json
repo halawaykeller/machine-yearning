@@ -1,0 +1,33 @@
+{
+  "id": "bigsoundbank_2652",
+  "filename": "2652.mp3",
+  "title": "CD drive boot #2",
+  "channel": "in_your_ear",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/cd-drive-boot-2-s2652.html",
+  "source_id": "2652",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 21.0,
+  "machine_type": "cd",
+  "machine_specifics": "Compact Disc",
+  "mood_tags": [
+    "13",
+    "2",
+    "6",
+    "8",
+    "Boot",
+    "Cd",
+    "Compact",
+    "Computer",
+    "Disc",
+    "Hard",
+    "Player",
+    "Start"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:20.793129Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

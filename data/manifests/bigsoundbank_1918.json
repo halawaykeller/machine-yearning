@@ -1,0 +1,31 @@
+{
+  "id": "bigsoundbank_1918",
+  "filename": "1918.mp3",
+  "title": "Important message, in Morse #1",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/important-message-in-morse-1-s1918.html",
+  "source_id": "1918",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 23.0,
+  "machine_type": "telegraph",
+  "machine_specifics": "Morse Telegraph",
+  "mood_tags": [
+    "1",
+    "2",
+    "Alphabet",
+    "Code",
+    "Distress",
+    "International",
+    "Message",
+    "Morse",
+    "Signal",
+    "Telegraph"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:13.702522Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

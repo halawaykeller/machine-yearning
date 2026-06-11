@@ -1,0 +1,31 @@
+{
+  "id": "bigsoundbank_1628",
+  "filename": "1628.mp3",
+  "title": "Hourly bips #2",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/hourly-bips-2-s1628.html",
+  "source_id": "1628",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 6.0,
+  "machine_type": "clock",
+  "machine_specifics": "Speaking Clock",
+  "mood_tags": [
+    "1",
+    "2",
+    "3",
+    "Beep",
+    "Frequency",
+    "Hour",
+    "Hourly",
+    "Hz",
+    "Khz",
+    "Radio"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:03.427904Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

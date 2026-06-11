@@ -1,0 +1,507 @@
+{
+  "generated_at": "2026-06-11T18:23:57.557200+00:00",
+  "total": 50,
+  "approved_count": 42,
+  "candidates": [
+    {
+      "id": "0158",
+      "title": "Internet Connection #2",
+      "duration_sec": 17.0,
+      "detail_url": "https://bigsoundbank.com/internet-connection-2-s0158.html",
+      "found_via": "modem+56k",
+      "museum_exhibit": "56k Modem",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "0156",
+      "title": "Internet connection #1",
+      "duration_sec": 31.0,
+      "detail_url": "https://bigsoundbank.com/internet-connection-1-s0156.html",
+      "found_via": "modem+56k",
+      "museum_exhibit": "56k Modem",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1396",
+      "title": "Floppy disk (3.5\"), reading",
+      "duration_sec": 23.0,
+      "detail_url": "https://bigsoundbank.com/floppy-disk-3-5-reading-s1396.html",
+      "found_via": "disquette+ordinateur",
+      "museum_exhibit": "3.5\" Floppy Disk",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1397",
+      "title": "Floppy disk (3.5\"), output",
+      "duration_sec": 2.0,
+      "detail_url": "https://bigsoundbank.com/floppy-disk-3-5-output-s1397.html",
+      "found_via": "disquette+ordinateur",
+      "museum_exhibit": "3.5\" Floppy Disk",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1395",
+      "title": "Floppy disk (3.5\"), input",
+      "duration_sec": 2.0,
+      "detail_url": "https://bigsoundbank.com/floppy-disk-3-5-input-s1395.html",
+      "found_via": "disquette+ordinateur",
+      "museum_exhibit": "3.5\" Floppy Disk",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "2651",
+      "title": "CD drive boot #1",
+      "duration_sec": 17.0,
+      "detail_url": "https://bigsoundbank.com/cd-drive-boot-1-s2651.html",
+      "found_via": "disque,compact",
+      "museum_exhibit": "Compact Disc",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "2653",
+      "title": "CD drive boot #3",
+      "duration_sec": 41.0,
+      "detail_url": "https://bigsoundbank.com/cd-drive-boot-3-s2653.html",
+      "found_via": "disque,compact",
+      "museum_exhibit": "Compact Disc",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "2654",
+      "title": "CD drive boot #4",
+      "duration_sec": 2.0,
+      "detail_url": "https://bigsoundbank.com/cd-drive-boot-4-s2654.html",
+      "found_via": "disque,compact",
+      "museum_exhibit": "Compact Disc",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "2652",
+      "title": "CD drive boot #2",
+      "duration_sec": 21.0,
+      "detail_url": "https://bigsoundbank.com/cd-drive-boot-2-s2652.html",
+      "found_via": "disque,compact",
+      "museum_exhibit": "Compact Disc",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1037",
+      "title": "White Noise",
+      "duration_sec": 300.0,
+      "detail_url": "https://bigsoundbank.com/white-noise-s1037.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "0432",
+      "title": "Pink Noise",
+      "duration_sec": 19.0,
+      "detail_url": "https://bigsoundbank.com/pink-noise-s0432.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1786",
+      "title": "Cathode Screen Off #4",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/cathode-screen-off-4-s1786.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1785",
+      "title": "Cathode screen off #3",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/cathode-screen-off-3-s1785.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1784",
+      "title": "Cathode screen off #2",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/cathode-screen-off-2-s1784.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "1783",
+      "title": "Cathode screen off #1",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/cathode-screen-off-1-s1783.html",
+      "found_via": "ecran+cathodique",
+      "museum_exhibit": "CRT Screen",
+      "channel": "in_your_ear",
+      "approved": true
+    },
+    {
+      "id": "3513",
+      "title": "Digital Pager",
+      "duration_sec": 8.0,
+      "detail_url": "https://bigsoundbank.com/digital-pager-s3513.html",
+      "found_via": "radiomessagerie",
+      "museum_exhibit": "Pager",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3514",
+      "title": "Alphanumeric Pager",
+      "duration_sec": 12.0,
+      "detail_url": "https://bigsoundbank.com/alphanumeric-pager-s3514.html",
+      "found_via": "radiomessagerie",
+      "museum_exhibit": "Pager",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3571",
+      "title": "Eurosignal",
+      "duration_sec": 81.0,
+      "detail_url": "https://bigsoundbank.com/eurosignal-s3571.html",
+      "found_via": "radiomessagerie",
+      "museum_exhibit": "Pager",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "0767",
+      "title": "French Dial Tone: Call",
+      "duration_sec": 24.0,
+      "detail_url": "https://bigsoundbank.com/french-dial-tone-call-s0767.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2650",
+      "title": "Finger on Smartphone",
+      "duration_sec": 32.0,
+      "detail_url": "https://bigsoundbank.com/finger-on-smartphone-s2650.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2038",
+      "title": "iPhone - Touch sound #2",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/iphone-touch-sound-2-s2038.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "0447",
+      "title": "iPhone - Touch sound #1",
+      "duration_sec": 4.0,
+      "detail_url": "https://bigsoundbank.com/iphone-touch-sound-s0447.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3392",
+      "title": "Key 1 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-1-in-dtmf-s3392.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "0176",
+      "title": "Mobile key",
+      "duration_sec": 12.0,
+      "detail_url": "https://bigsoundbank.com/mobile-key-s0176.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3394",
+      "title": "Key 3 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-3-in-dtmf-s3394.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3399",
+      "title": "Key 8 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-8-in-dtmf-s3399.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3401",
+      "title": "Key 0 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-0-in-dtmf-s3401.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3403",
+      "title": "Key # in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/hash-key-in-dtmf-s3403.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3393",
+      "title": "Key 2 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-2-in-dtmf-s3393.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3398",
+      "title": "Key 7 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-7-in-dtmf-s3398.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3402",
+      "title": "Key * in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/star-key-in-dtmf-s3402.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3400",
+      "title": "Key 9 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-9-in-dtmf-s3400.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3395",
+      "title": "Key 4 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-4-in-dtmf-s3395.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3397",
+      "title": "Key 6 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-6-in-dtmf-s3397.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": false
+    },
+    {
+      "id": "3396",
+      "title": "Key 5 in DTMF",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/key-5-in-dtmf-s3396.html",
+      "found_via": "touche+telephone",
+      "museum_exhibit": "Mobile Phone with Keys",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3558",
+      "title": "Calculator-printer #6",
+      "duration_sec": 3.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-6-s3558.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3557",
+      "title": "Calculator-printer #5",
+      "duration_sec": 2.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-5-s3557.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3554",
+      "title": "Calculator-printer #2",
+      "duration_sec": 21.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-2-s3554.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3553",
+      "title": "Calculator-printer #1",
+      "duration_sec": 13.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-1-s3553.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3556",
+      "title": "Calculator-printer #4",
+      "duration_sec": 6.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-4-s3556.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "3555",
+      "title": "Calculator-printer #3",
+      "duration_sec": 5.0,
+      "detail_url": "https://bigsoundbank.com/calculator-printer-3-s3555.html",
+      "found_via": "calculatrice+imprimante",
+      "museum_exhibit": "Printing Calculator",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1629",
+      "title": "Hourly Bips #3",
+      "duration_sec": 4.0,
+      "detail_url": "https://bigsoundbank.com/hourly-bips-3-s1629.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1628",
+      "title": "Hourly bips #2",
+      "duration_sec": 6.0,
+      "detail_url": "https://bigsoundbank.com/hourly-bips-2-s1628.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2648",
+      "title": "Speaking clock #1",
+      "duration_sec": 55.0,
+      "detail_url": "https://bigsoundbank.com/speaking-clock-1-s2648.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2646",
+      "title": "Speaking clock, beep #1",
+      "duration_sec": 1.0,
+      "detail_url": "https://bigsoundbank.com/speaking-clock-beep-1-s2646.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2649",
+      "title": "Speaking clock #2",
+      "duration_sec": 56.0,
+      "detail_url": "https://bigsoundbank.com/speaking-clock-2-s2649.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1627",
+      "title": "Hourly bips #1",
+      "duration_sec": 6.0,
+      "detail_url": "https://bigsoundbank.com/hourly-bips-1-s1627.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "2647",
+      "title": "Speaking clock, beep #2",
+      "duration_sec": 4.0,
+      "detail_url": "https://bigsoundbank.com/speaking-clock-beep-2-s2647.html",
+      "found_via": "horloge,parlante",
+      "museum_exhibit": "Speaking Clock",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1918",
+      "title": "Important message, in Morse #1",
+      "duration_sec": 23.0,
+      "detail_url": "https://bigsoundbank.com/important-message-in-morse-1-s1918.html",
+      "found_via": "message,morse",
+      "museum_exhibit": "Morse Telegraph",
+      "channel": "talk_to_me",
+      "approved": true
+    },
+    {
+      "id": "1919",
+      "title": "Important message, in Morse #2",
+      "duration_sec": 23.0,
+      "detail_url": "https://bigsoundbank.com/important-message-in-morse-2-s1919.html",
+      "found_via": "message,morse",
+      "museum_exhibit": "Morse Telegraph",
+      "channel": "talk_to_me",
+      "approved": true
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bigsoundbank_1627",
+  "filename": "1627.mp3",
+  "title": "Hourly bips #1",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/hourly-bips-1-s1627.html",
+  "source_id": "1627",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 6.0,
+  "machine_type": "clock",
+  "machine_specifics": "Speaking Clock",
+  "mood_tags": [
+    "1",
+    "1000",
+    "2",
+    "3",
+    "Bbc",
+    "Beep",
+    "Frequency",
+    "Hour",
+    "Hourly",
+    "Hz",
+    "Khz",
+    "Radio"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:29:10.133171Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

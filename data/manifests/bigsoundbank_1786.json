@@ -1,0 +1,30 @@
+{
+  "id": "bigsoundbank_1786",
+  "filename": "1786.mp3",
+  "title": "Cathode Screen Off #4",
+  "channel": "in_your_ear",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/cathode-screen-off-4-s1786.html",
+  "source_id": "1786",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 1.0,
+  "machine_type": "crt",
+  "machine_specifics": "CRT Screen",
+  "mood_tags": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "Cathode",
+    "Crt",
+    "Off",
+    "Screen",
+    "Turn"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:25.933133Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

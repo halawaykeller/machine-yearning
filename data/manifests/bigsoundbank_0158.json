@@ -1,0 +1,30 @@
+{
+  "id": "bigsoundbank_0158",
+  "filename": "0158.mp3",
+  "title": "Internet Connection #2",
+  "channel": "talk_to_me",
+  "source": "bigsoundbank",
+  "source_url": "https://bigsoundbank.com/internet-connection-2-s0158.html",
+  "source_id": "0158",
+  "license": "CC0-1.0",
+  "license_attribution": "Joseph SARDIN",
+  "duration_sec": 17.0,
+  "machine_type": "modem",
+  "machine_specifics": "56k Modem",
+  "mood_tags": [
+    "1",
+    "2",
+    "56k",
+    "Connect",
+    "Connection",
+    "Internet",
+    "Kbps",
+    "Modem",
+    "Web"
+  ],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:28:07.548857Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}
