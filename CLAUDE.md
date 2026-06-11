@@ -4,12 +4,12 @@ A radio station built from machine sounds: boot chimes, low-battery beeps, fan h
 
 ## Channels (MVP taxonomy)
 
-Channel IDs are the strings used in manifests and `web/channels.json`. Don't rename without migrating existing manifests.
+Each channel has a snake_case **ID** (used in manifests and `web/channels.json`) and a **display title** (the evocative phrase shown to the listener). Both live in `scraper/manifest.py` — `CHANNELS` and `CHANNEL_TITLES` are the single source of truth. Don't rename without migrating existing manifests.
 
-- `boot_shutdown` — startup chimes, POST beeps, OS bootloader sounds, shutdown jingles. The "machine waking up / going to sleep" channel.
-- `power_battery` — low-battery beeps, charge indicators, UPS alarms, plug/unplug chimes.
-- `fans_drives` — cooling fans, HDD spin-up/seek, optical drives, server-room ambience. The "still alive" background channel.
-- `alerts_errors` — error chimes, modem handshakes, dial-up, fax tones, notification dings. "Something is trying to tell you something."
+- `turn_me_on` ("turn me on") — startup chimes, POST beeps, OS bootloader sounds, shutdown jingles. The "machine waking up / going to sleep" channel.
+- `charge_me` ("charge me") — low-battery beeps, charge indicators, UPS alarms, plug/unplug chimes.
+- `in_your_ear` ("put me in your ear") — cooling fans, HDD spin-up/seek, optical drives, server-room ambience. The "still alive" background channel.
+- `talk_to_me` ("talk to me") — error chimes, modem handshakes, dial-up, fax tones, notification dings. "Something is trying to tell you something."
 
 Target ~20–30 clips per channel for MVP.
 
