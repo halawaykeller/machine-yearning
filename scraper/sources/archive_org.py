@@ -15,10 +15,28 @@ from pathlib import Path
 from ..manifest import Clip, Channel, RAW_DIR
 
 CHANNEL_QUERIES: dict[str, str] = {
-    "turn_me_on":  'subject:"boot sound" OR subject:"startup" OR title:"boot chime"',
-    "charge_me":   'subject:"low battery" OR title:"battery beep" OR title:"UPS"',
-    "in_your_ear": 'subject:"hard drive" OR title:"floppy drive" OR title:"server fan"',
-    "talk_to_me":  'subject:"modem" OR title:"dial-up" OR title:"error beep" OR title:"fax"',
+    "turn_me_on": (
+        'title:"boot chime" OR title:"startup sound" OR title:"power on" '
+        'OR title:"BIOS" OR title:"POST beep" OR title:"computer chime" '
+        'OR subject:"boot sound" OR subject:"startup"'
+    ),
+    "charge_me": (
+        'title:"battery beep" OR title:"low battery" OR title:"UPS alarm" '
+        'OR title:"charge" OR title:"plug in" OR title:"power adapter" '
+        'OR subject:"low battery"'
+    ),
+    "in_your_ear": (
+        'title:"hard drive" OR title:"floppy drive" OR title:"HDD" '
+        'OR title:"server fan" OR title:"cooling fan" OR title:"server hum" '
+        'OR title:"CD-ROM" OR title:"tape drive" '
+        'OR subject:"hard drive" OR subject:"computer fan"'
+    ),
+    "talk_to_me": (
+        'title:"modem" OR title:"dial-up" OR title:"dial up" OR title:"fax" '
+        'OR title:"error beep" OR title:"notification" OR title:"alert beep" '
+        'OR title:"pager" OR title:"telegraph" '
+        'OR subject:"modem" OR subject:"dial-up"'
+    ),
 }
 
 # archive.org license URLs we'll accept

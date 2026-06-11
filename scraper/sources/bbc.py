@@ -28,11 +28,11 @@ from ..manifest import Clip, Channel, RAW_DIR
 API_BASE = "https://sound-effects-api.bbcrewind.co.uk/api/sfx/search"
 DOWNLOAD_BASE = "https://sound-effects-media.bbcrewind.co.uk/mp3"
 
-CHANNEL_QUERIES: dict[str, str] = {
-    "turn_me_on":  "computer startup",
-    "charge_me":   "battery low",
-    "in_your_ear": "fan computer",
-    "talk_to_me":  "modem dialup",
+CHANNEL_QUERIES: dict[str, list[str]] = {
+    "turn_me_on":  ["computer startup", "boot chime", "power on", "system startup", "computer power"],
+    "charge_me":   ["battery low", "battery beep", "charging", "ups alarm", "power adapter"],
+    "in_your_ear": ["computer fan", "hard drive", "floppy drive", "server room", "tape drive", "machine hum"],
+    "talk_to_me":  ["modem dialup", "fax tone", "telegraph", "pager beep", "error beep", "notification alert"],
 }
 
 
@@ -63,75 +63,84 @@ def _search(query: str, page: int = 0, size: int = 30) -> dict:
 
 
 def scrape_channel(channel: Channel, limit: int = 30) -> list[Clip]:
-    query = CHANNEL_QUERIES[channel]
+    queries = CHANNEL_QUERIES[channel]
     new_clips: list[Clip] = []
-    page = 0
+    seen_ids: set[str] = set()
 
-    while len(new_clips) < limit:
-        try:
-            data = _search(query, page=page)
-        except requests.HTTPError as e:
-            print(f"  BBC search failed: {e}")
+    for query in queries:
+        if len(new_clips) >= limit:
             break
-
-        results = data.get("results") or data.get("hits") or []
-        if not results:
-            break
-
-        for hit in results:
-            if len(new_clips) >= limit:
-                break
-            # The API has shifted over time; tolerate both shapes
-            src = hit.get("_source") or hit
-            bbc_id = src.get("id") or src.get("CDNumber")
-            if not bbc_id:
-                continue
-
-            clip_id = f"bbc_{_slugify(str(bbc_id), 40)}"
-            manifest_path = Path(f"data/manifests/{clip_id}.json")
-            if manifest_path.exists():
-                continue
-
-            mp3_url = f"{DOWNLOAD_BASE}/{bbc_id}.mp3"
-            raw_path = RAW_DIR / "bbc" / f"{bbc_id}.mp3"
-
+        print(f"  query: {query!r}")
+        page = 0
+        while len(new_clips) < limit and page <= 5:
             try:
-                r = requests.get(mp3_url, stream=True, timeout=60)
-                r.raise_for_status()
+                data = _search(query, page=page)
             except requests.HTTPError as e:
-                print(f"  download failed for {bbc_id}: {e}")
-                continue
+                print(f"  BBC search failed: {e}")
+                break
 
-            raw_path.parent.mkdir(parents=True, exist_ok=True)
-            with raw_path.open("wb") as f:
-                for chunk in r.iter_content(64 * 1024):
-                    if chunk:
-                        f.write(chunk)
+            results = data.get("results") or data.get("hits") or []
+            if not results:
+                break
 
-            clip = Clip(
-                id=clip_id,
-                filename=raw_path.name,
-                title=src.get("description") or str(bbc_id),
-                channel=channel,
-                source="bbc",
-                source_url=f"https://sound-effects.bbcrewind.co.uk/search?q={bbc_id}",
-                source_id=str(bbc_id),
-                license="BBC-personal-use",
-                license_attribution="BBC Sound Effects",
-                duration_sec=float(src.get("duration", 0.0)) or 0.0,
-                machine_type="unknown",
-                machine_specifics=None,
-                mood_tags=[t for t in (src.get("category") or []) if t] if isinstance(src.get("category"), list) else [],
-                recorded_or_scraped="scraped",
-                scraped_at=datetime.now(timezone.utc),
-            )
-            clip.write()
-            new_clips.append(clip)
-            print(f"  + {clip.id}")
-            time.sleep(0.3)
+            for hit in results:
+                if len(new_clips) >= limit:
+                    break
+                # The API has shifted over time; tolerate both shapes
+                src = hit.get("_source") or hit
+                bbc_id = src.get("id") or src.get("CDNumber")
+                if not bbc_id:
+                    continue
+                bbc_id = str(bbc_id)
+                if bbc_id in seen_ids:
+                    continue
+                seen_ids.add(bbc_id)
 
-        page += 1
-        if page > 10:
-            break
+                clip_id = f"bbc_{_slugify(bbc_id, 40)}"
+                manifest_path = Path(f"data/manifests/{clip_id}.json")
+                if manifest_path.exists():
+                    continue
+
+                mp3_url = f"{DOWNLOAD_BASE}/{bbc_id}.mp3"
+                raw_path = RAW_DIR / "bbc" / f"{bbc_id}.mp3"
+
+                try:
+                    r = requests.get(mp3_url, stream=True, timeout=60)
+                    r.raise_for_status()
+                except requests.HTTPError as e:
+                    print(f"  download failed for {bbc_id}: {e}")
+                    continue
+
+                raw_path.parent.mkdir(parents=True, exist_ok=True)
+                with raw_path.open("wb") as f:
+                    for chunk in r.iter_content(64 * 1024):
+                        if chunk:
+                            f.write(chunk)
+
+                clip = Clip(
+                    id=clip_id,
+                    filename=raw_path.name,
+                    title=src.get("description") or bbc_id,
+                    channel=channel,
+                    source="bbc",
+                    source_url=f"https://sound-effects.bbcrewind.co.uk/search?q={bbc_id}",
+                    source_id=bbc_id,
+                    license="BBC-personal-use",
+                    license_attribution="BBC Sound Effects",
+                    duration_sec=float(src.get("duration", 0.0)) or 0.0,
+                    machine_type="unknown",
+                    machine_specifics=None,
+                    mood_tags=[t for t in (src.get("category") or []) if t] if isinstance(src.get("category"), list) else [],
+                    recorded_or_scraped="scraped",
+                    scraped_at=datetime.now(timezone.utc),
+                )
+                clip.write()
+                new_clips.append(clip)
+                print(f"  + {clip.id}")
+                time.sleep(0.3)
+
+            page += 1
+
+    return new_clips
 
     return new_clips
