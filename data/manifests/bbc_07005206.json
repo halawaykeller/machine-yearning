@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07005206",
+  "filename": "07005206.mp3",
+  "title": "High-pitched wind.",
+  "channel": "charge_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07005206",
+  "source_id": "07005206",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 414.36195,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:39:10.682393Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

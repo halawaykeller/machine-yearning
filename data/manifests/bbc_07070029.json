@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07070029",
+  "filename": "07070029.mp3",
+  "title": "Fax machine (Pitney Bowes 8000) - receive",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07070029",
+  "source_id": "07070029",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 49.64,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:40:10.736353Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

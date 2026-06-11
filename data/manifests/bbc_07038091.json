@@ -1,0 +1,20 @@
+{
+  "id": "bbc_07038091",
+  "filename": "07038091.mp3",
+  "title": "Sine Wave Tone, 60 Hz ascending to 1000 Hz.",
+  "channel": "talk_to_me",
+  "source": "bbc",
+  "source_url": "https://sound-effects.bbcrewind.co.uk/search?q=07038091",
+  "source_id": "07038091",
+  "license": "BBC-personal-use",
+  "license_attribution": "BBC Sound Effects",
+  "duration_sec": 64.322358,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:40:37.528528Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

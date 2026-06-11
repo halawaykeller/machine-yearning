@@ -1,0 +1,20 @@
+{
+  "id": "archive_sounds02",
+  "filename": "sounds02_maximize.wav",
+  "title": "Sounds 2 (Startup/Boot/Events) .WAV",
+  "channel": "turn_me_on",
+  "source": "archive_org",
+  "source_url": "https://archive.org/details/sounds02",
+  "source_id": "sounds02",
+  "license": "PD",
+  "license_attribution": "Bas Lamerichs (SingingCoyote13)",
+  "duration_sec": 0.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:39:23.024798Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}

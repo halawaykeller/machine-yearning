@@ -127,7 +127,8 @@ def scrape_channel(channel: Channel, limit: int = 30) -> list[Clip]:
                     source_id=bbc_id,
                     license="BBC-personal-use",
                     license_attribution="BBC Sound Effects",
-                    duration_sec=float(src.get("duration", 0.0)) or 0.0,
+                    # BBC's API returns duration in milliseconds; convert to seconds.
+                    duration_sec=float(src.get("duration", 0.0)) / 1000.0,
                     machine_type="unknown",
                     machine_specifics=None,
                     mood_tags=[t for t in (src.get("category") or []) if t] if isinstance(src.get("category"), list) else [],

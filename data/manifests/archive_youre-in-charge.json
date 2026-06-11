@@ -1,0 +1,20 @@
+{
+  "id": "archive_youre-in-charge",
+  "filename": "youre-in-charge_You're in Charge.mp3",
+  "title": "You're In Charge",
+  "channel": "charge_me",
+  "source": "archive_org",
+  "source_url": "https://archive.org/details/youre-in-charge",
+  "source_id": "youre-in-charge",
+  "license": "PD",
+  "license_attribution": null,
+  "duration_sec": 0.0,
+  "machine_type": "unknown",
+  "machine_specifics": null,
+  "mood_tags": [],
+  "recorded_or_scraped": "scraped",
+  "scraped_at": "2026-06-11T18:42:30.424910Z",
+  "loudness_lufs": null,
+  "sample_rate": null,
+  "bitrate_kbps": null
+}
