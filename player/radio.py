@@ -44,13 +44,22 @@ CHANNEL_KEY_MAP = {
 
 
 class MPV:
-    """Tiny JSON-IPC client over the mpv unix socket."""
+    """Tiny JSON-IPC client over the mpv unix socket.
+
+    A background thread continuously drains mpv's response/event stream so
+    the kernel buffer never fills. Without this, sending hundreds of
+    commands (loadfile loop + fade steps) wedges mpv: it blocks on the
+    write that nobody reads, and our subsequent commands queue up unread.
+    """
 
     def __init__(self, sock_path: str):
         self.sock_path = sock_path
         self.sock: sock.socket | None = None
         self._lock = threading.Lock()
+        self._stop = False
         self._connect()
+        self._reader = threading.Thread(target=self._drain, daemon=True)
+        self._reader.start()
 
     def _connect(self, retries: int = 40):
         for _ in range(retries):
@@ -63,6 +72,15 @@ class MPV:
                 time.sleep(0.1)
         raise RuntimeError(f"could not connect to mpv socket {self.sock_path}")
 
+    def _drain(self) -> None:
+        while not self._stop:
+            try:
+                data = self.sock.recv(8192)
+                if not data:
+                    return
+            except (OSError, AttributeError):
+                return
+
     def command(self, *args) -> None:
         msg = json.dumps({"command": list(args)}).encode() + b"\n"
         with self._lock:
@@ -72,6 +90,7 @@ class MPV:
         self.command("set_property", "volume", round(vol, 2))
 
     def close(self) -> None:
+        self._stop = True
         if self.sock:
             try:
                 self.sock.close()
@@ -195,13 +214,11 @@ class Player:
             self._mpv.command("loadfile", files[0], "replace")
             for f in files[1:]:
                 self._mpv.command("loadfile", f, "append")
-            # Explicitly unpause in case loadfile left mpv paused
             self._mpv.command("set_property", "pause", False)
             # Give mpv a moment to actually start playback before the fade
             time.sleep(0.25)
-            # FADE-IN DISABLED while we debug — just slam volume to 100.
-            self._mpv.set_volume(100)
-            time.sleep(0.05)
+            _fade(self._mpv, 0, 100, FADE_IN_MS)
+            # Backstop: ensure final volume sticks
             self._mpv.set_volume(100)
             self.current_channel = channel
             print(f"♪ {self.titles[channel]}  ({len(files)} clips)")
