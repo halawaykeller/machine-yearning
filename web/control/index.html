@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Machine Yearning — control</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main class="console">
+    <header class="masthead">
+      <div class="brand">
+        <span class="dot" id="signal-dot"></span>
+        <span class="brand-name">MACHINE YEARNING</span>
+      </div>
+      <div class="brand-tag">a radio station of obsolete sounds</div>
+    </header>
+
+    <section class="display">
+      <div class="display-row">
+        <span class="display-label">NOW</span>
+        <span class="display-value" id="now-channel">—</span>
+      </div>
+      <div class="display-row">
+        <span class="display-label">CLIPS</span>
+        <span class="display-value" id="now-count">—</span>
+      </div>
+      <div class="display-row">
+        <span class="display-label">VOL</span>
+        <span class="display-value" id="now-vol">—</span>
+      </div>
+    </section>
+
+    <section class="channels" id="channels">
+      <!-- channel buttons populated by app.js -->
+    </section>
+
+    <section class="volume">
+      <label for="vol">VOLUME</label>
+      <input type="range" id="vol" min="0" max="100" value="100" step="1" />
+      <div class="volume-marks" aria-hidden="true">
+        <span>0</span><span>25</span><span>50</span><span>75</span><span>100</span>
+      </div>
+    </section>
+
+    <footer class="status" id="status">connecting…</footer>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

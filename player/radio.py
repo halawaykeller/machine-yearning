@@ -148,6 +148,7 @@ class Player:
         self.device = device
         self.channels, self.titles = _load_channels()
         self.current_channel: str | None = None
+        self.target_volume: int = 100  # last-set non-fade volume
         self._mpv_proc: subprocess.Popen | None = None
         self._mpv: MPV | None = None
         self._switch_lock = threading.Lock()
@@ -192,18 +193,19 @@ class Player:
             print(f"unknown channel: {channel!r}", file=sys.stderr)
             return
         with self._switch_lock:
-            # Fade music out
-            _fade(self._mpv, 100, 0, FADE_OUT_MS)
-            # Play static, fade it up briefly
+            target = self.target_volume
+            # Fade music out from wherever volume is now → 0
+            _fade(self._mpv, target, 0, FADE_OUT_MS)
+            # Play static, fade it up briefly to ~80% of target
             t = _pick_transition()
             if t is not None:
                 static_path, static_dur = t
                 self._mpv.command("loadfile", static_path, "replace")
-                _fade(self._mpv, 0, 80, STATIC_FADE_MS, steps=8)
-                # Hold at volume for most of the static, then fade out
+                static_peak = int(target * 0.8)
+                _fade(self._mpv, 0, static_peak, STATIC_FADE_MS, steps=8)
                 hold_ms = max(200, int(static_dur * 1000) - STATIC_FADE_MS * 2 - STATIC_HEAD_TRIM_MS)
                 time.sleep(hold_ms / 1000)
-                _fade(self._mpv, 80, 0, STATIC_FADE_MS, steps=8)
+                _fade(self._mpv, static_peak, 0, STATIC_FADE_MS, steps=8)
             # Load new channel playlist while volume is at 0
             files = _channel_files(channel, self.channels)
             if not files:
@@ -215,13 +217,33 @@ class Player:
             for f in files[1:]:
                 self._mpv.command("loadfile", f, "append")
             self._mpv.command("set_property", "pause", False)
-            # Give mpv a moment to actually start playback before the fade
             time.sleep(0.25)
-            _fade(self._mpv, 0, 100, FADE_IN_MS)
-            # Backstop: ensure final volume sticks
-            self._mpv.set_volume(100)
+            _fade(self._mpv, 0, target, FADE_IN_MS)
+            self._mpv.set_volume(target)
             self.current_channel = channel
             print(f"♪ {self.titles[channel]}  ({len(files)} clips)")
+
+    def set_volume(self, vol: int) -> None:
+        """Set the target playback volume (0-100). Applied immediately."""
+        vol = max(0, min(100, int(vol)))
+        self.target_volume = vol
+        if self._mpv and self._switch_lock.acquire(blocking=False):
+            try:
+                self._mpv.set_volume(vol)
+            finally:
+                self._switch_lock.release()
+        # If a switch is in progress, target_volume gets picked up
+        # naturally as the next fade target.
+
+    def get_state(self) -> dict:
+        return {
+            "channels": [
+                {"id": cid, "title": self.titles[cid], "clip_count": len(self.channels[cid])}
+                for cid in self.channels
+            ],
+            "current_channel": self.current_channel,
+            "volume": self.target_volume,
+        }
 
     def stop(self) -> None:
         if self._mpv:
@@ -266,6 +288,10 @@ def main() -> None:
     p.add_argument("--no-input", action="store_true",
                    help="don't read stdin; play one channel and never switch "
                         "(use this for systemd autostart)")
+    p.add_argument("--server", action="store_true",
+                   help="run the HTTP control UI server")
+    p.add_argument("--server-port", type=int, default=8080,
+                   help="port for --server (default: 8080)")
     args = p.parse_args()
 
     if args.list:
@@ -277,8 +303,12 @@ def main() -> None:
     player = Player(args.device)
     try:
         player.start(args.channel)
-        if args.no_input:
-            # Keep the process alive while mpv plays
+        if args.server:
+            from . import server as srv
+            srv.serve(player, port=args.server_port)
+            while player._mpv_proc and player._mpv_proc.poll() is None:
+                time.sleep(1)
+        elif args.no_input:
             while player._mpv_proc and player._mpv_proc.poll() is None:
                 time.sleep(1)
         else:
