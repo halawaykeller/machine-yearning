@@ -13,6 +13,7 @@ import argparse
 import json
 import os
 import random
+import signal
 import socket as sock
 import subprocess
 import sys
@@ -340,6 +341,11 @@ def main() -> None:
         for cid, clips in channels.items():
             print(f"  {cid:14s}  {titles[cid]:24s}  {len(clips)} clips")
         return
+
+    # SIGTERM (sent by systemctl stop) should run the same cleanup as Ctrl-C.
+    # Python's default SIGTERM handler kills the process without unwinding finally
+    # blocks; raising SystemExit lets the player's stop() run.
+    signal.signal(signal.SIGTERM, lambda *_: sys.exit(0))
 
     player = Player(args.device)
     try:
