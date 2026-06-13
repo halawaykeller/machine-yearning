@@ -298,6 +298,16 @@ i, em { font-family: var(--serif); font-style: italic; }
   line-height: 1.15;
 }
 
+/* Each channel gets its own decorative shape, always visible */
+.ch[data-ch="turn_me_on"]  .ch-name::before { content: "✿ "; color: var(--c); }
+.ch[data-ch="turn_me_on"]  .ch-name::after  { content: " ✿"; color: var(--c); }
+.ch[data-ch="charge_me"]   .ch-name::before { content: "☆ "; color: var(--c); }
+.ch[data-ch="charge_me"]   .ch-name::after  { content: " ☆"; color: var(--c); }
+.ch[data-ch="in_your_ear"] .ch-name::before { content: "♡ "; color: var(--c); }
+.ch[data-ch="in_your_ear"] .ch-name::after  { content: " ♡"; color: var(--c); }
+.ch[data-ch="talk_to_me"]  .ch-name::before { content: "♪ "; color: var(--c); }
+.ch[data-ch="talk_to_me"]  .ch-name::after  { content: " ♪"; color: var(--c); }
+
 .ch.active {
   background: linear-gradient(180deg, var(--bg-tint) 0%, var(--bg-panel) 100%);
   box-shadow:
@@ -306,16 +316,22 @@ i, em { font-family: var(--serif); font-style: italic; }
     0 0 0 4px var(--c-shadow);
 }
 
-.ch.active .ch-name::before { content: "♡ "; color: var(--c); }
-.ch.active .ch-name::after  { content: " ♡"; color: var(--c); }
-
 .ch.pending {
   background: var(--bg-tint);
   border-style: dashed;
 }
 
-.ch.pending .ch-name::before { content: "✦ "; }
-.ch.pending .ch-name::after  { content: " ✦"; }
+/* Active + pending shapes animate gently */
+.ch.active .ch-name::before,
+.ch.active .ch-name::after {
+  display: inline-block;
+  animation: gentlebounce 1.8s ease-in-out infinite;
+}
+.ch.active .ch-name::after { animation-delay: 0.9s; }
+@keyframes gentlebounce {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50%      { transform: translateY(-2px) scale(1.08); }
+}
 
 .ch.pending .ch-name::before,
 .ch.pending .ch-name::after {
