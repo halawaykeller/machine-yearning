@@ -57,9 +57,13 @@ class MPV:
         self.sock: sock.socket | None = None
         self._lock = threading.Lock()
         self._stop = False
+        self.current_filename: str | None = None
         self._connect()
         self._reader = threading.Thread(target=self._drain, daemon=True)
         self._reader.start()
+        # Subscribe to filename property — mpv will push property-change events
+        # whenever the currently-playing file changes.
+        self.command("observe_property", 1, "filename")
 
     def _connect(self, retries: int = 40):
         for _ in range(retries):
@@ -73,11 +77,22 @@ class MPV:
         raise RuntimeError(f"could not connect to mpv socket {self.sock_path}")
 
     def _drain(self) -> None:
+        buf = b""
         while not self._stop:
             try:
                 data = self.sock.recv(8192)
                 if not data:
                     return
+                buf += data
+                while b"\n" in buf:
+                    line, _, buf = buf.partition(b"\n")
+                    try:
+                        msg = json.loads(line.decode())
+                    except (json.JSONDecodeError, UnicodeDecodeError):
+                        continue
+                    if (msg.get("event") == "property-change"
+                            and msg.get("name") == "filename"):
+                        self.current_filename = msg.get("data")
             except (OSError, AttributeError):
                 return
 
@@ -242,8 +257,34 @@ class Player:
                 for cid in self.channels
             ],
             "current_channel": self.current_channel,
+            "current_clip": self._resolve_current_clip(),
             "volume": self.target_volume,
         }
+
+    def _resolve_current_clip(self) -> dict | None:
+        """Look up the playing file in the current channel's clip list."""
+        fname = self._mpv.current_filename if self._mpv else None
+        if not fname:
+            return None
+        # mpv reports just the basename for local files
+        basename = Path(fname).name
+        # Match against URL field of clips
+        for clips in self.channels.values():
+            for c in clips:
+                if Path(c["url"]).name == basename:
+                    return {
+                        "title": c["title"],
+                        "machine_type": c.get("machine_type"),
+                        "license_attribution": c.get("license_attribution"),
+                        "source": c.get("source"),
+                    }
+        # Transitions: don't show the filename, just a "tuning" indicator
+        if basename in {"ringy_static.mp3", "grungy_static.mp3",
+                        "plain_static.mp3", "synthetic_tune.mp3"}:
+            return {"title": "…tuning…", "machine_type": "static",
+                    "license_attribution": None, "source": "transition"}
+        return {"title": basename, "machine_type": None,
+                "license_attribution": None, "source": None}
 
     def stop(self) -> None:
         if self._mpv:

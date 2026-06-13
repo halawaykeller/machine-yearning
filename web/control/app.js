@@ -1,5 +1,4 @@
-// Machine Yearning — control surface
-// Polls /state, posts /switch and /volume.
+// ✿ Machine Yearning control surface ✿
 
 const POLL_MS = 1500;
 const VOLUME_DEBOUNCE_MS = 90;
@@ -8,20 +7,21 @@ const $ = (sel) => document.querySelector(sel);
 const els = {
   channels: $("#channels"),
   vol: $("#vol"),
-  signalDot: $("#signal-dot"),
-  nowChannel: $("#now-channel"),
-  nowCount: $("#now-count"),
-  nowVol: $("#now-vol"),
-  status: $("#status"),
+  volDisplay: $("#vol-display"),
+  npTitle: $("#np-title"),
+  npMeta: $("#np-meta"),
+  npChannel: $("#np-channel"),
+  viz: $("#viz"),
 };
 
 const state = {
   channels: [],
   current: null,
   pending: null,
+  currentClip: null,    // {title, machine_type, license_attribution, source}
   volume: 100,
   online: false,
-  volumeDirty: false,    // true while user is actively dragging
+  volumeDirty: false,
   volumeTimer: null,
 };
 
@@ -35,10 +35,10 @@ function renderChannels() {
     btn.className = "ch";
     btn.dataset.ch = c.id;
     btn.disabled = c.clip_count === 0;
-    if (c.id === state.current) btn.classList.add("active");
+    if (c.id === state.current && c.id !== state.pending) btn.classList.add("active");
     if (c.id === state.pending) btn.classList.add("pending");
     btn.innerHTML = `
-      <span class="ch-num">CH ${String(i + 1).padStart(2, "0")} · ${c.clip_count} clips</span>
+      <span class="ch-num">CH 0${i + 1} · ${c.clip_count} clips</span>
       <span class="ch-name">${c.title}</span>
     `;
     btn.addEventListener("click", () => onChannelClick(c.id));
@@ -46,44 +46,60 @@ function renderChannels() {
   });
 }
 
-function renderDisplay() {
+function renderNowPlaying() {
+  const clip = state.currentClip;
+  const isTuning = state.pending && state.pending !== state.current;
   const cur = state.channels.find((c) => c.id === state.current);
-  const pen = state.channels.find((c) => c.id === state.pending);
-  if (pen && pen.id !== state.current) {
-    els.nowChannel.textContent = `→ ${pen.title}…`;
-    els.nowCount.textContent = `${pen.clip_count}`;
-  } else if (cur) {
-    els.nowChannel.textContent = cur.title;
-    els.nowCount.textContent = `${cur.clip_count}`;
+
+  if (isTuning) {
+    const pen = state.channels.find((c) => c.id === state.pending);
+    els.npTitle.innerHTML = `<i>…tuning…</i>`;
+    els.npMeta.textContent = `switching to "${pen ? pen.title : state.pending}"`;
+    els.npMeta.classList.remove("error");
+    els.npChannel.textContent = pen ? pen.title : "—";
+    els.viz.classList.remove("paused");
+    els.viz.classList.add("tuning");
+  } else if (!state.online) {
+    els.npTitle.innerHTML = `<i>—</i>`;
+    els.npMeta.innerHTML = `connecting<span class="dots"><span>.</span><span>.</span><span>.</span></span>`;
+    els.npChannel.textContent = "—";
+    els.viz.classList.add("paused");
+    els.viz.classList.remove("tuning");
+  } else if (clip) {
+    els.npTitle.innerHTML = `<i>${escapeHtml(clip.title)}</i>`;
+    const bits = [];
+    if (clip.machine_type && clip.machine_type !== "unknown") bits.push(clip.machine_type);
+    if (clip.license_attribution) bits.push(`by ${clip.license_attribution}`);
+    els.npMeta.textContent = bits.length ? bits.join(" · ") : " ";
+    els.npMeta.classList.remove("error");
+    els.npChannel.textContent = cur ? cur.title : "—";
+    els.viz.classList.remove("paused", "tuning");
   } else {
-    els.nowChannel.textContent = "—";
-    els.nowCount.textContent = "—";
+    els.npTitle.innerHTML = `<i>—</i>`;
+    els.npMeta.textContent = "waiting for the radio to warm up…";
+    els.npMeta.classList.remove("error");
+    els.npChannel.textContent = cur ? cur.title : "—";
+    els.viz.classList.add("paused");
+    els.viz.classList.remove("tuning");
   }
-  els.nowVol.textContent = `${state.volume}`;
 }
 
 function renderVolume() {
-  if (!state.volumeDirty) {
-    els.vol.value = state.volume;
-  }
-  const pct = (state.volume / 100) * 100;
-  els.vol.style.setProperty("--vol", `${pct}%`);
-}
-
-function renderSignal() {
-  els.signalDot.classList.toggle("off", !state.online);
-}
-
-function renderStatus(text, kind) {
-  els.status.textContent = text;
-  els.status.className = "status" + (kind ? " " + kind : "");
+  if (!state.volumeDirty) els.vol.value = state.volume;
+  els.vol.style.setProperty("--vol", `${state.volume}%`);
+  els.volDisplay.textContent = state.volume;
 }
 
 function renderAll() {
   renderChannels();
-  renderDisplay();
+  renderNowPlaying();
   renderVolume();
-  renderSignal();
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => (
+    { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+  ));
 }
 
 // ──────── actions ────────
@@ -92,13 +108,13 @@ async function onChannelClick(chId) {
   if (chId === state.current && !state.pending) return;
   state.pending = chId;
   renderAll();
-  renderStatus(`tuning to "${state.channels.find(c => c.id === chId)?.title}"…`);
   try {
     const r = await fetch(`/switch?ch=${encodeURIComponent(chId)}`, { method: "POST" });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
   } catch (e) {
     state.pending = null;
-    renderStatus(`switch failed: ${e.message}`, "error");
+    els.npMeta.textContent = `switch failed: ${e.message}`;
+    els.npMeta.classList.add("error");
     renderAll();
   }
 }
@@ -106,25 +122,20 @@ async function onChannelClick(chId) {
 function onVolumeInput() {
   state.volume = Number(els.vol.value);
   state.volumeDirty = true;
-  renderDisplay();
   renderVolume();
   clearTimeout(state.volumeTimer);
   state.volumeTimer = setTimeout(commitVolume, VOLUME_DEBOUNCE_MS);
 }
 
 function onVolumeRelease() {
-  // Final commit on release
   clearTimeout(state.volumeTimer);
   commitVolume();
   state.volumeDirty = false;
 }
 
 async function commitVolume() {
-  try {
-    await fetch(`/volume?v=${state.volume}`, { method: "POST" });
-  } catch (e) {
-    renderStatus(`vol send failed: ${e.message}`, "error");
-  }
+  try { await fetch(`/volume?v=${state.volume}`, { method: "POST" }); }
+  catch (e) { /* swallow */ }
 }
 
 // ──────── polling ────────
@@ -135,20 +146,13 @@ async function poll() {
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const data = await r.json();
     state.channels = data.channels;
-    if (data.current_channel === state.pending) {
-      state.pending = null;
-      renderStatus("ready", "ok");
-    } else if (state.pending) {
-      // still tuning
-    } else {
-      renderStatus("ready", "ok");
-    }
     state.current = data.current_channel;
+    state.currentClip = data.current_clip;
+    if (data.current_channel === state.pending) state.pending = null;
     if (!state.volumeDirty) state.volume = data.volume;
     state.online = true;
   } catch (e) {
     state.online = false;
-    renderStatus("offline", "error");
   }
   renderAll();
 }

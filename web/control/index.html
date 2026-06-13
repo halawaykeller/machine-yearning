@@ -3,48 +3,59 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Machine Yearning — control</title>
+  <title>★ machine yearning ★</title>
   <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
-  <main class="console">
-    <header class="masthead">
-      <div class="brand">
-        <span class="dot" id="signal-dot"></span>
-        <span class="brand-name">MACHINE YEARNING</span>
-      </div>
-      <div class="brand-tag">a radio station of obsolete sounds</div>
+  <div class="page">
+    <header class="banner">
+      <div class="banner-deco" aria-hidden="true">✿ ♡ ✿ ♡ ✿ ♡ ✿ ♡ ✿</div>
+      <h1>
+        <span class="banner-leaf" aria-hidden="true">♪</span>
+        <i>machine yearning</i>
+        <span class="banner-leaf" aria-hidden="true">♪</span>
+      </h1>
+      <p class="banner-tag"><i>a radio for sad old machines</i></p>
+      <div class="banner-deco" aria-hidden="true">✿ ♡ ✿ ♡ ✿ ♡ ✿ ♡ ✿</div>
     </header>
 
-    <section class="display">
-      <div class="display-row">
-        <span class="display-label">NOW</span>
-        <span class="display-value" id="now-channel">—</span>
-      </div>
-      <div class="display-row">
-        <span class="display-label">CLIPS</span>
-        <span class="display-value" id="now-count">—</span>
-      </div>
-      <div class="display-row">
-        <span class="display-label">VOL</span>
-        <span class="display-value" id="now-vol">—</span>
-      </div>
-    </section>
-
-    <section class="channels" id="channels">
-      <!-- channel buttons populated by app.js -->
-    </section>
-
-    <section class="volume">
-      <label for="vol">VOLUME</label>
-      <input type="range" id="vol" min="0" max="100" value="100" step="1" />
-      <div class="volume-marks" aria-hidden="true">
-        <span>0</span><span>25</span><span>50</span><span>75</span><span>100</span>
+    <section class="panel now-playing">
+      <h2><span aria-hidden="true">♪</span> <i>now playing</i> <span aria-hidden="true">♪</span></h2>
+      <div class="np-card">
+        <div class="np-title" id="np-title"><i>—</i></div>
+        <div class="np-meta" id="np-meta">connecting<span class="dots"><span>.</span><span>.</span><span>.</span></span></div>
+        <div class="visualizer" id="viz" aria-hidden="true">
+          <span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span>
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <div class="np-on"><i>broadcasting on:</i> <span id="np-channel">—</span></div>
       </div>
     </section>
 
-    <footer class="status" id="status">connecting…</footer>
-  </main>
+    <section class="panel">
+      <h2><span aria-hidden="true">✿</span> <i>pick a station</i> <span aria-hidden="true">✿</span></h2>
+      <div class="channels" id="channels">
+        <!-- populated by app.js -->
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2><span aria-hidden="true">♬</span> <i>volume</i> <span aria-hidden="true">♬</span></h2>
+      <div class="vol-row">
+        <span class="vol-icon" aria-hidden="true">🔈</span>
+        <input type="range" id="vol" min="0" max="100" value="100" step="1" />
+        <span class="vol-icon" aria-hidden="true">🔊</span>
+      </div>
+      <div class="vol-display"><i>volume:</i> <span id="vol-display">100</span> <span aria-hidden="true">♡</span></div>
+    </section>
+
+    <footer class="signoff">
+      <span aria-hidden="true">⋆｡˚ ✩ ｡⋆</span>
+      <i>made with love &amp; obsolete sounds</i>
+      <span aria-hidden="true">⋆｡˚ ✩ ｡⋆</span>
+    </footer>
+  </div>
 
   <script src="/app.js"></script>
 </body>
